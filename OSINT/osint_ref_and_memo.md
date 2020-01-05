@@ -9,7 +9,7 @@
 - [OWASP Maryam](https://github.com/saeeddhqan/Maryam)
 - [Photon](https://github.com/s0md3v/Photon)
 - [Maryam](https://github.com/saeeddhqan/Maryam)
-- [URLhaus monitor](URLhaus monitor)
+- [URLhaus monitor](https://github.com/ninoseki/urlhaus_monitor)
 - [DDIR](https://github.com/nenaiko-dareda/DDIR)
 
 
