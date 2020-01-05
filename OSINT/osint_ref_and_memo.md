@@ -14,7 +14,7 @@
 
 
 # Domain, IP, URL, File hash, CVE Research
-|name|site|input|remarks|
+|name|input|remarks|site|
 |:-|:-|:-|:-|
 |urlscan.io|url||https://urlscan.io/|
 |RiskIQ|||https://www.riskiq.com/products/community-edition/|
