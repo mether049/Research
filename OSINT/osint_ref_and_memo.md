@@ -104,4 +104,3 @@
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
-    - 検索エンジン，
