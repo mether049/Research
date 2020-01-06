@@ -11,6 +11,48 @@
 - [Maryam](https://github.com/saeeddhqan/Maryam)
 - [URLhaus monitor](https://github.com/ninoseki/urlhaus_monitor)
 - [DDIR](https://github.com/nenaiko-dareda/DDIR)
+# Search Engine
+### Google
+- [Google Advanced Search](google.com/advanced_search)
+    - 検索オプションを詳細に設定して検索
+- filetype:
+    - ファイル形式を指定して検索
+> filetype:pdf
+- site:
+    - ドメインを指定(サブドメイン，TLD，SLD，path，etc.)して検索
+> site:exmaple.com
+- inurl:
+    - URL内のテキスト(param,protocol,filename)を検索
+> site:example.com inurl:https
+- -(hyphen)
+    - 除外
+> -inurl:http -inurl:hogehoge
+- ""(double quotation)
+    - 完全一致
+> "aa bb"
+- or
+    - または
+> aa or bb
+- *(asterisk)
+    - ワイルドカード
+> "a*z"
+- X..Y
+    - 数値の範囲
+> "top 1..10"
+- ~(tilde)
+    - 関連キーワードを含んだ検索
+> ~hogehoge
+- intitle:
+    - ページタイトルのテキストを検索
+- intext:
+    - ページ本文のテキストを検索
+- related:
+    - 類似ドメインの検索
+> related:example.com
+- cache:
+    - キャッシュの検索
+> chache:example.com
+
 
 
 # Domain, IP, URL, File hash, CVE Research
@@ -55,4 +97,11 @@
 |ONYPHE|domain,country,etc..|||https://www.onyphe.io/|
 |PublicWWW|domain,ip,keyword,code snippet,tld,etc.||https://publicwww.com/|
 |Twitter IOC Hunter|domain,ip,url,hash,email,user,hash tag||http://tweettioc.com/search|
+|Wayback Machine|url|archive|https://archive.org/web/|
+|Stanford Web Archive Portal|url|archive|https://swap.stanford.edu/|
+|UK Parliament Web Archive|url|archive|http://webarchive.parliament.uk/|
+|Library of Congress|url|archive|https://www.loc.gov/|
 
+# ref:
+- [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
+    - 検索エンジン，
