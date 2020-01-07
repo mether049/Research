@@ -57,6 +57,7 @@
 
 # Domain, IP, URL, File hash, CVE Research
 - site name,input,API,remarks,site URL
+
 |name|input|API|remarks|site|
 |:-|:-|:-|:-|:-|
 |urlscan.io|url,ip,domain,hash,ASN|〇||https://urlscan.io/|
