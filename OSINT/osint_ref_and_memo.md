@@ -64,7 +64,7 @@
 |RiskIQ|domain,ip,url,hash,email,certificates|〇||https://www.riskiq.com/products/community-edition/|
 |IBM X-Force Exchange|domain,url,IP,md5,hash tag,cve,application name|〇||https://exchange.xforce.ibmcloud.com/|
 |VirusTotal|url,hash,IP|〇||https://www.virustotal.com/gui/home/upload|
-|Censys|ip,domain,url,certificates|||https://censys.io/|
+|Censys|ip,domain,url,certificates|〇||https://censys.io/|
 |SHODAN|||https://www.shodan.io/ip|
 |Alien Vault|domain,url,ip,hash,email,yara,cve,mutex,etc.|||https://otx.alienvault.com/|
 |PhishTank|url||https://www.phishtank.com/index.php|
@@ -104,6 +104,7 @@
 |UK Parliament Web Archive|url||archive|http://webarchive.parliament.uk/|
 |Library of Congress|url||archive|https://www.loc.gov/|
 |totalhash|domain,ip,hash,urll,UA,email,mutex,registry|||https://totalhash.cymru.com/search/|
+|IP & Domain Reputation Center|domain,ip,hash||https://talosintelligence.com/reputation_center|
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
