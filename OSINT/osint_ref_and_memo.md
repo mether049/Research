@@ -13,7 +13,7 @@
 - [DDIR](https://github.com/nenaiko-dareda/DDIR)
 # Search Engine
 ### Google
-- [Google Advanced Search](google.com/advanced_search)
+- [Google Advanced Search](https://www.google.com/advanced_search)
     - 検索オプションを詳細に設定して検索
 - filetype:
     - ファイル形式を指定して検索
