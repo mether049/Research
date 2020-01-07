@@ -61,9 +61,9 @@
 |name|input|API|remarks|site|
 |:-|:-|:-|:-|:-|
 |urlscan.io|url,ip,domain,hash,ASN|〇||https://urlscan.io/|
-|RiskIQ|domain,ip,url,hash,email,certificates|||https://www.riskiq.com/products/community-edition/|
-|IBM X-Force Exchange|domain,url,IP,md5,hash tag,cve,application name|||https://exchange.xforce.ibmcloud.com/|
-|VirusTotal|url,hash,IP|||https://www.virustotal.com/gui/home/upload|
+|RiskIQ|domain,ip,url,hash,email,certificates|〇||https://www.riskiq.com/products/community-edition/|
+|IBM X-Force Exchange|domain,url,IP,md5,hash tag,cve,application name|〇||https://exchange.xforce.ibmcloud.com/|
+|VirusTotal|url,hash,IP|〇||https://www.virustotal.com/gui/home/upload|
 |Censys|ip,domain,url,certificates|||https://censys.io/|
 |SHODAN|||https://www.shodan.io/ip|
 |Alien Vault|domain,url,ip,hash,email,yara,cve,mutex,etc.|||https://otx.alienvault.com/|
