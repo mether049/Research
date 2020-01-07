@@ -58,8 +58,8 @@
 # Domain, IP, URL, File hash, CVE Research
 |name|input|remarks|site|
 |:-|:-|:-|:-|
-|urlscan.io|url||https://urlscan.io/|
-|RiskIQ|||https://www.riskiq.com/products/community-edition/|
+|urlscan.io|url,ip,domain,hash,ASN||https://urlscan.io/|
+|RiskIQ|domain,ip,url,hash,email,certificates||https://www.riskiq.com/products/community-edition/|
 |IBM X-Force Exchange|domain,url,IP,md5,hash tag,cve,application name||https://exchange.xforce.ibmcloud.com/|
 |VirusTotal|url,hash,IP||https://www.virustotal.com/gui/home/upload|
 |Censys|ip,domain,url,certificates||https://censys.io/|
@@ -74,7 +74,7 @@
 |MX TOOLBOX|ip,domain||https://mxtoolbox.com/blacklists.aspx|
 |pastebin|keyword||https://pastebin.com/|
 |HYBRID ANALYSIS|domain,ip,url,hash,yara,string|online sandbox|https://www.hybrid-analysis.com/|
-|cape sandbox|domain,ip,urlhash,command,malware family,registry,mutex,string|online sandbox|https://cape.contextis.com/analysis/search/|
+|cape sandbox|domain,ip,url,hash,command,malware family,registry,mutex,string|online sandbox|https://cape.contextis.com/analysis/search/|
 |JOESandbox Cloud|domain,ip,hash,hash tag|online sandbox|https://www.joesandbox.com/#advanced|
 |Vulmon|cve,company,product||https://vulmon.com/|
 |IntelligenceX|domain,ip,url,email,bitcoin address,etc.||https://intelx.io/|
