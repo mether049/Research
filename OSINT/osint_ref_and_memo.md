@@ -56,6 +56,7 @@
 
 
 # Domain, IP, URL, File hash, CVE Research
+- site name,input,API,remarks,site URL
 |name|input|API|remarks|site|
 |:-|:-|:-|:-|:-|
 |urlscan.io|url,ip,domain,hash,ASN|〇||https://urlscan.io/|
@@ -89,7 +90,7 @@
 |VMRAY ANALYZER||||https://www.vmray.com/analyzer-malware-sandbox-free-trial/?utm_campaign=reports&utm_source=vmray&utm_medium=analysis2&utm_content=report|
 |malwareurl|domain,ip,url|||https://www.malwareurl.com/listing-urls.php|
 |dedoLa||||http://dedola.eu/malware.php|
-|SPLOITUS|cve,applicationname|researching poc||https://sploitus.com/|
+|SPLOITUS|cve,applicationname||researching poc|https://sploitus.com/|
 |Feodo Tracker|ip|||https://feodotracker.abuse.ch/browse/|
 |MalShare|hash,yara|||https://malshare.com/|
 |ZoomyEye|domain,ip,country,etc.|||https://www.zoomeye.org/|
