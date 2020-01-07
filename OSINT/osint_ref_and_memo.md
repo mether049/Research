@@ -65,9 +65,9 @@
 |IBM X-Force Exchange|domain,url,IP,md5,hash tag,cve,application name|〇||https://exchange.xforce.ibmcloud.com/|
 |VirusTotal|url,hash,IP|〇||https://www.virustotal.com/gui/home/upload|
 |Censys|ip,domain,url,certificates|〇||https://censys.io/|
-|SHODAN|||https://www.shodan.io/ip|
-|Alien Vault|domain,url,ip,hash,email,yara,cve,mutex,etc.|||https://otx.alienvault.com/|
-|PhishTank|url||https://www.phishtank.com/index.php|
+|SHODAN||〇||https://www.shodan.io/ip|
+|Alien Vault|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||https://otx.alienvault.com/|
+|PhishTank|url|〇|https://www.phishtank.com/index.php|
 |ANYRUN|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox|https://app.any.run/submissions|
 |URLhaus|domain,ip,url,hash|||https://urlhaus.abuse.ch/browse/|
 |Web Insight|url|||http://webint.io/|url||
