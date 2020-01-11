@@ -4,6 +4,8 @@
 - [Threat Actor Map](https://aptmap.netlify.com/#)
 - [MITRE ATT&CK](https://attack.mitre.org/groups/)
 - [malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+- [CyberWar Map](https://embed.kumu.io/0b023bf1a971ba32510e86e8f1a38c38#apt-index)
+- [Cyber Operations Tracker](https://www.cfr.org/interactive/cyber-operations)
 - [APT & Cybercriminals Campaign Collection](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 - [APT Notes](https://github.com/kbandla/APTnotes)
 - [Threat INTel Reports](https://github.com/fdiskyou/threat-INTel)
