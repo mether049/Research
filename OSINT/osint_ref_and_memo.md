@@ -1,8 +1,16 @@
 # OSINT Tools
+### OS/VM
 - [Buscador OSINT VM](https://inteltechniques.com/buscador/)
     - IntelTechniques提供
     - Buscador(ブスカドル，スペイン語：先駆者・開拓者)
     - 多くのOSINTツールが実装されたOSINT用のVM
+|OS/VM|remarks|
+|:-|:-|
+|[Buscador OSINT VM](https://inteltechniques.com/buscador/)|IntelTechniques提供<br>Buscador(ブスカドル，スペイン語：先駆者・開拓者)<br>多くのOSINTツールが実装されたOSINT用のVM|
+|[whonix](https://www.whonix.org/)|インターネットはTorを経由only<br>[Kicksecure](https://www.whonix.org/wiki/Kicksecure)<br>キーストローク匿名化<br>AnboxによるAndroidアプリケーションの実行|
+|[Tails](https://tails.boum.org/)|インターネットはTorを経由only<br>USBやDVDからの起動を前提|
+|[Qubes OS](https://www.qubes-os.org/)|Xenを利用して全てのアプリケーションを独立して実行<br>Template VMにwhonixを利用することができ，より匿名性を高めることが可<br>Template VMは複数のOS(Windows,Fedora,Whonix,Debian,etc.)を同時に利用することが可|
+
 - [Maltego](https://www.paterva.com/downloads.php)
 - [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
