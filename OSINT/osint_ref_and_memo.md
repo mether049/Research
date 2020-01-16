@@ -1,9 +1,6 @@
 # OSINT Tools
 ### OS/VM
-- [Buscador OSINT VM](https://inteltechniques.com/buscador/)
-    - IntelTechniques提供
-    - Buscador(ブスカドル，スペイン語：先駆者・開拓者)
-    - 多くのOSINTツールが実装されたOSINT用のVM
+
 |OS/VM|remarks|
 |:-|:-|
 |[Buscador OSINT VM](https://inteltechniques.com/buscador/)|IntelTechniques提供<br>Buscador(ブスカドル，スペイン語：先駆者・開拓者)<br>多くのOSINTツールが実装されたOSINT用のVM|
