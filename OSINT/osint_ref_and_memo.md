@@ -114,8 +114,8 @@
 |UK Parliament Web Archive|url||archive|http://webarchive.parliament.uk/|
 |Library of Congress|url||archive|https://www.loc.gov/|
 |totalhash|domain,ip,hash,urll,UA,email,mutex,registry|||https://totalhash.cymru.com/search/|
-|IP & Domain Reputation Center|domain,ip,hash||https://talosintelligence.com/reputation_center|
-|GREYNOISE||検索機能が豊富，malicious判定された機器のみの検索等が可能|https://viz.greynoise.io/|
+|IP & Domain Reputation Center|domain,ip,hash|||https://talosintelligence.com/reputation_center|
+|GREYNOISE||〇|検索機能が豊富<br>malicious判定された機器のみの検索等が可能|https://viz.greynoise.io/|
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
