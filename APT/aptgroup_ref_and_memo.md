@@ -16,4 +16,5 @@
 - [CyberThreatIntel](https://github.com/StrangerealIntel/CyberThreatIntel)
 - [Meet The Threat Actors: List of APTs and Adversary Groups](https://www.crowdstrike.com/blog/meet-the-adversaries/)
 - [APT攻撃グループ,FIREEYE](https://www.fireeye.jp/current-threats/apt-groups.html)
+- [国家関与の高度で危険な18のマルウェア](https://japan.zdnet.com/article/35139844/)
 
