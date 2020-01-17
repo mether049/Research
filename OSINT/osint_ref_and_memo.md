@@ -16,6 +16,12 @@
 - [Maryam](https://github.com/saeeddhqan/Maryam)
 - [URLhaus monitor](https://github.com/ninoseki/urlhaus_monitor)
 - [DDIR](https://github.com/nenaiko-dareda/DDIR)
+- [dnstwist](https://github.com/elceef/dnstwist)
+- [CERTSTREAM](https://certstream.calidog.io/)
+- [Phishing Catcher](https://github.com/x0rz/phishing_catcher)
+- [Apullo](https://github.com/ninoseki/apullo)
+- [Mihari](https://github.com/ninoseki/mihari)
+- [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor)
 # Crawler
 ### malware
 - [ph0neutria](https://github.com/phage-nz/ph0neutria)
@@ -116,6 +122,9 @@
 |totalhash|domain,ip,hash,urll,UA,email,mutex,registry|||https://totalhash.cymru.com/search/|
 |IP & Domain Reputation Center|domain,ip,hash|||https://talosintelligence.com/reputation_center|
 |GREYNOISE||〇|検索機能が豊富<br>malicious判定された機器のみの検索等が可能|https://viz.greynoise.io/|
+|INQUEST LABS||〇|https://labs.inquest.net/|
+|Koodous||android only|https://koodous.com/|
+|BinaryEdge|||https://www.binaryedge.io/|
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
