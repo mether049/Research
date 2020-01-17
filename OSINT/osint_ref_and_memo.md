@@ -89,7 +89,7 @@
 |URLhaus|domain,ip,url,hash|||https://urlhaus.abuse.ch/browse/|
 |Web Insight|url|||http://webint.io/|url||
 |ThreatMiner|domain,ip,url,hash,email,ssl,UA,apt name,malware family,registry,mutex,etc.|||https://www.threatminer.org/index.php|
-|Threats Crowd|domain,ip,url,email,organization|||powered byAlienVault|https://www.threatcrowd.org/|
+|Threats Crowd|domain,ip,url,email,organization||powered byAlienVault|https://www.threatcrowd.org/|
 |MX TOOLBOX|ip,domain|||https://mxtoolbox.com/blacklists.aspx|
 |pastebin|keyword|||https://pastebin.com/|
 |HYBRID ANALYSIS|domain,ip,url,hash,yara,string||online sandbox|https://www.hybrid-analysis.com/|
