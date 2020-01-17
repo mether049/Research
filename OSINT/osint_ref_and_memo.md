@@ -108,7 +108,7 @@
 |FOFA|domain,ip,country,etc.|||https://fofa.so/|
 |ONYPHE|domain,country,etc.||||https://www.onyphe.io/|
 |PublicWWW|domain,ip,keyword,code snippet,tld,etc.|||https://publicwww.com/|
-|Twitter IOC Hunter|domain,ip,url,hash,email,user,hash tag|||http://tweettioc.com/search|
+|Twitter IOC Hunter|domain,ip,url,hash,email,user,hash tag|〇||http://tweettioc.com/search|
 |Wayback Machine|url||archive|https://archive.org/web/|
 |Stanford Web Archive Portal|url||archive|https://swap.stanford.edu/|
 |UK Parliament Web Archive|url||archive|http://webarchive.parliament.uk/|
