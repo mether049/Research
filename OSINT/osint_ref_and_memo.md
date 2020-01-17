@@ -22,6 +22,7 @@
 - [Apullo](https://github.com/ninoseki/apullo)
 - [Mihari](https://github.com/ninoseki/mihari)
 - [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor)
+
 # Crawler
 ### malware
 - [ph0neutria](https://github.com/phage-nz/ph0neutria)
@@ -125,6 +126,8 @@
 |INQUEST LABS||〇||https://labs.inquest.net/|
 |Koodous|||android only|https://koodous.com/|
 |BinaryEdge||||https://www.binaryedge.io/|
+|Cryptolaemus|||主にEmotetのIoCを掲載|https://paste.cryptolaemus.com/|
+|virusbay||||https://beta.virusbay.io/sample/browse|
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
