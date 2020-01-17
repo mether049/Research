@@ -113,7 +113,7 @@
 |MalShare|hash,yara|||https://malshare.com/|
 |ZoomyEye|domain,ip,country,etc.|||https://www.zoomeye.org/|
 |FOFA|domain,ip,country,etc.|||https://fofa.so/|
-|ONYPHE|domain,country,etc.||||https://www.onyphe.io/|
+|ONYPHE|domain,country,etc.|||https://www.onyphe.io/|
 |PublicWWW|domain,ip,keyword,code snippet,tld,etc.|||https://publicwww.com/|
 |Twitter IOC Hunter|domain,ip,url,hash,email,user,hash tag|〇||http://tweettioc.com/search|
 |Wayback Machine|url||archive|https://archive.org/web/|
