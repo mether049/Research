@@ -84,7 +84,7 @@
 |Censys|ip,domain,url,certificates|〇||https://censys.io/|
 |SHODAN||〇||https://www.shodan.io/ip|
 |Alien Vault|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||https://otx.alienvault.com/|
-|PhishTank|url|〇|https://www.phishtank.com/index.php|
+|PhishTank|url|〇||https://www.phishtank.com/index.php|
 |ANYRUN|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox|https://app.any.run/submissions|
 |URLhaus|domain,ip,url,hash|||https://urlhaus.abuse.ch/browse/|
 |Web Insight|url|||http://webint.io/|url||
@@ -126,7 +126,7 @@
 |INQUEST LABS||〇||https://labs.inquest.net/|
 |Koodous|||android only|https://koodous.com/|
 |BinaryEdge||||https://www.binaryedge.io/|
-|Cryptolaemus|||主にEmotetのIoCを掲載|https://paste.cryptolaemus.com/|
+|Cryptolaemus Pastedump|||主にEmotetのIoCを掲載|https://paste.cryptolaemus.com/|
 |virusbay||||https://beta.virusbay.io/sample/browse|
 
 # ref:
