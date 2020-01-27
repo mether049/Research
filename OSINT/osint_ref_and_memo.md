@@ -22,7 +22,7 @@
 - [Apullo](https://github.com/ninoseki/apullo)
 - [Mihari](https://github.com/ninoseki/mihari)
 - [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor)
-- [Mimr](https://github.com/deadbits/mimir)
+- [Mimir](https://github.com/deadbits/mimir)
 
 # Crawler
 ### malware
