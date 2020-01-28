@@ -129,6 +129,7 @@
 |BinaryEdge||||https://www.binaryedge.io/|
 |Cryptolaemus Pastedump|||主にEmotetのIoCを掲載|https://paste.cryptolaemus.com/|
 |virusbay||||https://beta.virusbay.io/sample/browse|
+|VisualSitemaps|URL||サイトマップを取得|https://visualsitemaps.com/|
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
