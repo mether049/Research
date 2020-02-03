@@ -8,6 +8,7 @@
 |[Tails](https://tails.boum.org/)|インターネットTorを経由only<br>USBやDVDからの起動を前提|
 |[Qubes OS](https://www.qubes-os.org/)|Xenを利用して全てのアプリケーションを独立して実行<br>Template VMにwhonixを利用することができ，より匿名性を高めることが可<br>Template VMは複数のOS(Windows,Fedora,Whonix,Debian,etc.)を同時に利用することが可|
 
+### General Tools
 - [Maltego](https://www.paterva.com/downloads.php)
 - [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
@@ -29,6 +30,7 @@
 - [ph0neutria](https://github.com/phage-nz/ph0neutria)
 - [mwcrawler](https://github.com/0day1day/mwcrawler)
 - [Ragpicker](https://github.com/robbyFux/Ragpicker)
+
 # Search Engine
 ### Google
 - [Google Advanced Search](https://www.google.com/advanced_search)
@@ -74,62 +76,64 @@
 
 
 # Domain, IP, URL, File hash, CVE Research
-- site name,input,API,remarks,site URL
+- ※空欄は調査中(更新予定)
 
-|name|input|API|remarks|site|
+|name|input|API|remarks|
 |:-|:-|:-|:-|:-|
-|urlscan.io|url,ip,domain,hash,ASN|〇||https://urlscan.io/|
-|RiskIQ|domain,ip,url,hash,email,certificates|〇||https://www.riskiq.com/products/community-edition/|
-|IBM X-Force Exchange|domain,url,IP,md5,hash tag,cve,application name|〇||https://exchange.xforce.ibmcloud.com/|
-|VirusTotal|url,hash,IP|〇||https://www.virustotal.com/gui/home/upload|
-|Censys|ip,domain,url,certificates|〇||https://censys.io/|
-|SHODAN||〇||https://www.shodan.io/ip|
-|Alien Vault|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||https://otx.alienvault.com/|
-|PhishTank|url|〇||https://www.phishtank.com/index.php|
-|ANYRUN|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox|https://app.any.run/submissions|
-|URLhaus|domain,ip,url,hash|||https://urlhaus.abuse.ch/browse/|
-|Web Insight|url|||http://webint.io/|url||
-|ThreatMiner|domain,ip,url,hash,email,ssl,UA,apt name,malware family,registry,mutex,etc.|||https://www.threatminer.org/index.php|
-|Threats Crowd|domain,ip,url,email,organization||powered byAlienVault|https://www.threatcrowd.org/|
-|MX TOOLBOX|ip,domain|||https://mxtoolbox.com/blacklists.aspx|
-|pastebin|keyword|||https://pastebin.com/|
-|HYBRID ANALYSIS|domain,ip,url,hash,yara,string||online sandbox|https://www.hybrid-analysis.com/|
-|cape sandbox|domain,ip,url,hash,command,malware family,registry,mutex,string||online sandbox|https://cape.contextis.com/analysis/search/|
-|JOESandbox Cloud|domain,ip,hash,hash tag||online sandbox|https://www.joesandbox.com/#advanced|
-|Vulmon|cve,company,product|||https://vulmon.com/|
-|IntelligenceX|domain,ip,url,email,bitcoin address,etc.|||https://intelx.io/|
-|NerdyData|||https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/|https://nerdydata.com/|
-|SpyOnWeb|domain,ip,url|||http://spyonweb.com/|
-|aguse|url,email|||https://www.aguse.jp/|
-|DomainBigData|domain,ip,url,registrant name,email|||https://domainbigdata.com/|
-|DN pedia|domain|||https://dnpedia.com/tlds/search.php|
-|Robtex|domain,ip,url,as number|||https://www.robtex.com/|
-|nccgroupnumber|domain||researching typosquatting|https://labs.nccgroup.trust/typofinder/|
-|VX Vault|ip,url,hash|||http://vxvault.net/ViriList.php|
-|VMRAY ANALYZER||||https://www.vmray.com/analyzer-malware-sandbox-free-trial/?utm_campaign=reports&utm_source=vmray&utm_medium=analysis2&utm_content=report|
-|malwareurl|domain,ip,url|||https://www.malwareurl.com/listing-urls.php|
-|dedoLa||||http://dedola.eu/malware.php|
-|SPLOITUS|cve,applicationname||researching poc|https://sploitus.com/|
-|Feodo Tracker|ip|||https://feodotracker.abuse.ch/browse/|
-|MalShare|hash,yara|||https://malshare.com/|
-|ZoomyEye|domain,ip,country,etc.|||https://www.zoomeye.org/|
-|FOFA|domain,ip,country,etc.|||https://fofa.so/|
-|ONYPHE|domain,country,etc.|||https://www.onyphe.io/|
-|PublicWWW|domain,ip,keyword,code snippet,tld,etc.|||https://publicwww.com/|
-|Twitter IOC Hunter|domain,ip,url,hash,email,user,hash tag|〇||http://tweettioc.com/search|
-|Wayback Machine|url||archive|https://archive.org/web/|
-|Stanford Web Archive Portal|url||archive|https://swap.stanford.edu/|
-|UK Parliament Web Archive|url||archive|http://webarchive.parliament.uk/|
-|Library of Congress|url||archive|https://www.loc.gov/|
-|totalhash|domain,ip,hash,urll,UA,email,mutex,registry|||https://totalhash.cymru.com/search/|
-|IP & Domain Reputation Center|domain,ip,hash|||https://talosintelligence.com/reputation_center|
-|GREYNOISE||〇|検索機能が豊富<br>malicious判定された機器のみの検索等が可能|https://viz.greynoise.io/|
-|INQUEST LABS||〇||https://labs.inquest.net/|
-|Koodous|||android only|https://koodous.com/|
-|BinaryEdge||||https://www.binaryedge.io/|
-|Cryptolaemus Pastedump|||主にEmotetのIoCを掲載|https://paste.cryptolaemus.com/|
-|virusbay||||https://beta.virusbay.io/sample/browse|
-|VisualSitemaps|URL||サイトマップを取得|https://visualsitemaps.com/|
+|[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇||
+|[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
+|[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
+|[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇||
+|[Censys](https://censys.io/)|ip,domain,url,certificates|〇||
+|[SHODAN](https://www.shodan.io/ip)||〇||
+|[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
+|[PhishTank](https://www.phishtank.com/index.php)|url|〇||
+|[ANYRUN](https://app.any.run/submissions)|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox|
+|[URLhaus](https://urlhaus.abuse.ch/browse/)|domain,ip,url,hash|||
+|[Web Insight](http://webint.io/)|url|||
+|[ThreatMiner](https://www.threatminer.org/index.php)|domain,ip,url,hash,email,ssl,UA,apt name,malware family,registry,mutex,etc.|||
+|[Threats Crowd](https://www.threatcrowd.org/)|domain,ip,url,email,organization||powered byAlienVault|
+|[MX TOOLBOX](https://mxtoolbox.com/blacklists.aspx)|ip,domain|||
+|[pastebin](https://pastebin.com/)|keyword|||
+|[HYBRID ANALYSIS](https://www.hybrid-analysis.com/)|domain,ip,url,hash,yara,string||online sandbox|
+|[cape sandbox](https://cape.contextis.com/analysis/search/)|domain,ip,url,hash,command,malware family,registry,mutex,string||online sandbox|
+|[JOESandbox Cloud](https://www.joesandbox.com/#advanced)|domain,ip,hash,hash tag||online sandbox|
+|[Vulmon](https://vulmon.com/)|cve,company,product|||
+|[IntelligenceX](https://intelx.io/)|domain,ip,url,email,bitcoin address,etc.|||
+|[NerdyData](https://nerdydata.com/)|||https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/|
+|[SpyOnWeb](http://spyonweb.com/)|domain,ip,url|||
+|[aguse](https://www.aguse.jp/)|url,email|||
+|[DomainBigData](https://domainbigdata.com/)|domain,ip,url,registrant name,email|||
+|[DN pedia](https://dnpedia.com/tlds/search.php)|domain|||
+|[Robtex](https://www.robtex.com/)|domain,ip,url,as number|||
+|[nccgroupnumber](https://labs.nccgroup.trust/typofinder/)|domain||researching typosquatting|
+|[VX Vault](http://vxvault.net/ViriList.php)|ip,url,hash|||
+|[VMRAY ANALYZER](https://www.vmray.com/analyzer-malware-sandbox-free-trial/?utm_campaign=reports&utm_source=vmray&utm_medium=analysis2&utm_content=report)||||
+|[malwareurl](https://www.malwareurl.com/listing-urls.php)|domain,ip,url|||
+|[dedoLa](http://dedola.eu/malware.php)||||
+|[SPLOITUS](https://sploitus.com/)|cve,applicationname||researching poc|
+|[Feodo Tracker](https://feodotracker.abuse.ch/browse/)|ip|||
+|[MalShare](https://malshare.com/)|hash,yara|||
+|[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|||
+|[FOFA](https://fofa.so/)|domain,ip,country,etc.|||
+|[ONYPHE](https://www.onyphe.io/)|domain,country,etc.|||
+|[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|||
+|[Twitter IOC Hunter](http://tweettioc.com/search)|domain,ip,url,hash,email,user,hash tag|〇||
+|[Wayback Machine](https://archive.org/web/)|url||archive|
+|[Stanford Web Archive Portal](https://swap.stanford.edu/)|url||archive||
+|[UK Parliament Web Archive](http://webarchive.parliament.uk/)|url||archive||
+|[Library of Congress](https://www.loc.gov/)|url||archive||
+|[totalhash](https://totalhash.cymru.com/search/)|domain,ip,hash,urll,UA,email,mutex,registry|||
+|[IP & Domain Reputation Center](https://talosintelligence.com/reputation_center)|domain,ip,hash|||
+|[GREYNOISE](https://viz.greynoise.io/)||〇|検索機能が豊富<br>malicious判定された機器のみの検索等が可能|
+|[INQUEST LABS](https://labs.inquest.net/)||〇||
+|[Koodous](https://koodous.com/)|||android only||
+|[BinaryEdge](https://www.binaryedge.io/)||||
+|[Cryptolaemus Pastedump](https://paste.cryptolaemus.com/)|||主にEmotetのIoCを掲載|
+|[virusbay](https://beta.virusbay.io/sample/browse)||||
+|[VisualSitemaps](https://visualsitemaps.com/)|URL||サイトマップを取得|
+|[maltiverse](https://maltiverse.com/search)|domain,ip,url,hash,entropy,tld,keyword|||
+|[malwareworld](https://malwareworld.com/)|domain,ip|||
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
