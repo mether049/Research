@@ -7,5 +7,5 @@
     - [malware](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#malware)
   - [Search Engine](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#search-engine)
     - [Google](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#google)
-  - [Domain, IP, URL, File hash, CVE Research](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#domain-ip-url-file-hash-cve-research
+  - [Domain, IP, URL, File hash, CVE Research](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#domain-ip-url-file-hash-cve-research)
   - [ref](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#ref)
