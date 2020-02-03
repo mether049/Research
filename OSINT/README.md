@@ -1,6 +1,6 @@
 # OSINT
 - [OSINT(reference&memo)](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md)
-  - [OSINT tools](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#osint-tools)
+  - [OSINT Tools](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#osint-tools)
     - [VM/OS](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#osvm)
     - [General Tools](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#general-tools)
   - [Crawler](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#crawler)
