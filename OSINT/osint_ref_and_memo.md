@@ -79,7 +79,7 @@
 - ※空欄は調査中(更新予定)
 
 |name|input|API|remarks|
-|:-|:-|:-|:-|:-|
+|:-|:-|:-|:-|
 |[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇||
 |[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
