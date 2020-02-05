@@ -134,6 +134,7 @@
 |[VisualSitemaps](https://visualsitemaps.com/)|URL||サイトマップを取得|
 |[maltiverse](https://maltiverse.com/search)|domain,ip,url,hash,entropy,tld,keyword|||
 |[malwareworld](https://malwareworld.com/)|domain,ip|||
+|[unfurl](https://dfir.blog/unfurl/)|url|||
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
