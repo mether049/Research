@@ -138,3 +138,5 @@
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
+- [Download OSINT Bookmarks@OSINT Combine](https://www.osintcombine.com/osint-bookmarks)
+    - OSINTに有用なWebサイトをまとめたBookmarkを提供
