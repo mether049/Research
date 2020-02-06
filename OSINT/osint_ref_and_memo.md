@@ -24,12 +24,15 @@
 - [Mihari](https://github.com/ninoseki/mihari)
 - [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor)
 - [Mimir](https://github.com/deadbits/mimir)
+- [spiderfoot](https://github.com/smicallef/spiderfoot)
 
 # Crawler
 ### malware
 - [ph0neutria](https://github.com/phage-nz/ph0neutria)
 - [mwcrawler](https://github.com/0day1day/mwcrawler)
 - [Ragpicker](https://github.com/robbyFux/Ragpicker)
+### Directory Search
+- [Dirhunt](https://github.com/Nekmo/dirhunt)
 
 # Search Engine
 ### Google
