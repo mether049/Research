@@ -1,4 +1,22 @@
 # APT Group
+
+## TA505
+**2019-11-12**
+- [TA-505 Cybercrime on System Integrator Companies](https://marcoramilli.com/2019/11/12/ta-505-cybercrime-on-system-integrator-companies/?utm_source=twitter&utm_medium=social&utm_campaign=ReviveOldPost)
+> - An interesting Maldoc acting as drop-and-execute was identified and spotted in the wild targeting System Integrator based in Europe . From the described analysis we attempted to identify the attacker by observing he was exploiting an old infrastructure behind 66.133.129.5 as a dropping websites.<br>
+> - Since no final stage was obtained so far, attribution is quite hard, but TTPs suggest a TA-505 attacker, due to the collected artifacts and to the analyzed URLs.
+
+
+## TA544
+
+## Lazarus
+
+## hydseven
+
+## Tick
+
+## Blacktech
+
 ## ref:
 - [APT Groups and Operations ](https://docs.google.com/spreadsheets/u/2/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 - [Threat Actor Map](https://aptmap.netlify.com/#)
