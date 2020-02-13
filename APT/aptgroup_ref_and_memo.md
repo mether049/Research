@@ -11,6 +11,10 @@
 ## TA544
 
 ## Lazarus
+**2019-12-11**
+- [Anchor Project | The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT](https://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/)
+> - During our investigation of Anchor, we discovered the tool PowerRatankba that was previously linked to the purported North Korean group was, in fact, used in Anchor.
+> - The specific evidence pointed out that this Lazarus group toolkit was loaded via the TrickBot Anchor project pointing to the now-unmasked relationship between the tools attributed to TrickBot “Anchor” group and Lazarus.
 
 ## hydseven
 
@@ -18,7 +22,7 @@
 
 ## Blacktech
 
-## ref:
+## ref about apt group:
 - [APT Groups and Operations ](https://docs.google.com/spreadsheets/u/2/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
 - [Threat Actor Map](https://aptmap.netlify.com/#)
 - [MITRE ATT&CK](https://attack.mitre.org/groups/)
@@ -37,4 +41,5 @@
 - [APT攻撃グループ,FIREEYE](https://www.fireeye.jp/current-threats/apt-groups.html)
 - [国家関与の高度で危険な18のマルウェア](https://japan.zdnet.com/article/35139844/)
 - [Data Visualizer@Zigsaw](https://jigsaw.google.com/the-current/disinformation/dataviz/)
+- [NJCCIC](https://www.cyber.nj.gov/)
 
