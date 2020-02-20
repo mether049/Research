@@ -42,4 +42,5 @@
 - [国家関与の高度で危険な18のマルウェア](https://japan.zdnet.com/article/35139844/)
 - [Data Visualizer@Zigsaw](https://jigsaw.google.com/the-current/disinformation/dataviz/)
 - [NJCCIC](https://www.cyber.nj.gov/)
+- [Global Advanced Persistent Threat (APT) 2019 Report,RedDrip Team](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkTUDbE22sSSm1PX5ToDtrw)
 
