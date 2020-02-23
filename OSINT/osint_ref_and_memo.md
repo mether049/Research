@@ -77,7 +77,6 @@
 > chache:example.com
 
 
-
 # Domain, IP, URL, File hash, CVE Research
 - ※空欄は調査中(更新予定)
 
@@ -86,7 +85,7 @@
 |[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇||
 |[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
-|[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇||
+|[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc)|
 |[Censys](https://censys.io/)|ip,domain,url,certificates|〇||
 |[SHODAN](https://www.shodan.io/ip)||〇||
 |[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
@@ -138,6 +137,7 @@
 |[maltiverse](https://maltiverse.com/search)|domain,ip,url,hash,entropy,tld,keyword|||
 |[malwareworld](https://malwareworld.com/)|domain,ip|||
 |[unfurl](https://dfir.blog/unfurl/)|url|||
+|[Parse User Agents](https://developers.whatismybrowser.com/)|user-agent|〇|User-Agentのパーサ|
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
