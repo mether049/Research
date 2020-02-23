@@ -15,8 +15,9 @@
 - [Anchor Project | The Deadly Planeswalker: How The TrickBot Group United High-Tech Crimeware & APT](https://labs.sentinelone.com/the-deadly-planeswalker-how-the-trickbot-group-united-high-tech-crimeware-apt/)
 > - During our investigation of Anchor, we discovered the tool PowerRatankba that was previously linked to the purported North Korean group was, in fact, used in Anchor.
 > - The specific evidence pointed out that this Lazarus group toolkit was loaded via the TrickBot Anchor project pointing to the now-unmasked relationship between the tools attributed to TrickBot “Anchor” group and Lazarus.
-**2020-02-*
-> - Each MAR is designed to enable network defenders to identify and reduce exposure to North Korean government malicious cyber activity.<br>
+
+**2020-02-14**
+> Each MAR is designed to enable network defenders to identify and reduce exposure to North Korean government malicious cyber activity.<br>
 > - [February 14, 2020: Malware Analysis Report (10265965-1.v1) – North Korean Trojan: BISTROMATH](https://www.us-cert.gov/ncas/analysis-reports/ar20-045a)<br>
 > - [February 14, 2020: Malware Analysis Report (10265965-2.v1) – North Korean Trojan: SLICKSHOES](https://www.us-cert.gov/ncas/analysis-reports/AR20-045B)<br>
 > - [February 14, 2020: Malware Analysis Report (10265965-3.v1) – North Korean Trojan: CROWDEDFLOUNDER](https://www.us-cert.gov/ncas/analysis-reports/AR20-045C)<br>
