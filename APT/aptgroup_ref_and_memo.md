@@ -7,6 +7,11 @@
 > - the researchers also pointed out that the IP addresses (i.e. 66.133.129.5) observed in the attacks were involved in previous campaigns delivering Locky and Dridex malware.
 > - Since no final stage was obtained so far, attribution is quite hard, but TTPs suggest a TA-505 attacker, due to the collected artifacts and to the analyzed URLs.
 
+**2020-02-07**
+- [TA505 Hackers Behind Maastricht University Ransomware Attack](https://www.bleepingcomputer.com/news/security/ta505-hackers-behind-maastricht-university-ransomware-attack/)
+> - They are also known for using remote access Trojans (RATs) and malware downloaders that delivered the Dridex and Trick banking Trojans as secondary payloads during their campaigns, as well as several ransomware strains including Locky, BitPaymer, Philadelphia, GlobeImposter, and Jaff on their targets' computers now also including Clop ransomware after the attack on UM.
+> - UM also disclosed that it acquired the ransomware decryptor from the attackers by paying a 30 bitcoin ransom (roughly $220,000 or €220,000) to restore all the encrypted files as Reuters reported.
+
 
 ## TA544
 
@@ -54,5 +59,5 @@
 - [Data Visualizer@Zigsaw](https://jigsaw.google.com/the-current/disinformation/dataviz/)
 - [NJCCIC](https://www.cyber.nj.gov/)
 - [Global Advanced Persistent Threat (APT) 2019 Report,RedDrip Team](https://translate.google.com/translate?hl=en&sl=zh-CN&tl=en&u=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkTUDbE22sSSm1PX5ToDtrw)
--[NTERNATIONAL SECURITY AND ESTONIA 2020](https://www.valisluureamet.ee/pdf/raport-2020-en.pdf)
+- [NTERNATIONAL SECURITY AND ESTONIA 2020](https://www.valisluureamet.ee/pdf/raport-2020-en.pdf)
 
