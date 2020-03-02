@@ -96,7 +96,7 @@
 |[ThreatMiner](https://www.threatminer.org/index.php)|domain,ip,url,hash,email,ssl,UA,apt name,malware family,registry,mutex,etc.|||
 |[Threats Crowd](https://www.threatcrowd.org/)|domain,ip,url,email,organization||powered byAlienVault|
 |[MX TOOLBOX](https://mxtoolbox.com/blacklists.aspx)|ip,domain|||
-|[pastebin](https://pastebin.com/)|keyword|||
+|[pastebin](https://pastebin.com/)|keyword||Pastebinに投稿された内容をyaraでスキャンし通知するアプリケーションとして[PasteHunter](https://github.com/kevthehermit/PasteHunter)がある|
 |[HYBRID ANALYSIS](https://www.hybrid-analysis.com/)|domain,ip,url,hash,yara,string||online sandbox|
 |[cape sandbox](https://cape.contextis.com/analysis/search/)|domain,ip,url,hash,command,malware family,registry,mutex,string||online sandbox|
 |[JOESandbox Cloud](https://www.joesandbox.com/#advanced)|domain,ip,hash,hash tag||online sandbox|
