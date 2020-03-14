@@ -25,6 +25,7 @@
 - [InQuest/ThreatIngestor](https://github.com/InQuest/ThreatIngestor)
 - [Mimir](https://github.com/deadbits/mimir)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
+- [OSINT Framework](https://osintframework.com/)
 
 # Crawler
 ### malware
@@ -138,8 +139,33 @@
 |[malwareworld](https://malwareworld.com/)|domain,ip|||
 |[unfurl](https://dfir.blog/unfurl/)|url|||
 |[Parse User Agents](https://developers.whatismybrowser.com/)|user-agent|〇|User-Agentのパーサ|
+|[httpstatus](https://httpstatus.io/)|url||check status codes, response headers, and redirect chains.|
+|[DownDetector](https://downdetector.jp/)|keyword||障害発生などの確認|
+|[AbuseIPDB](https://www.abuseipdb.com/)|ip|||
+|[Cybercrime tracker](https://cybercrime-tracker.net/)|url,keyword|||
+|[DomainWatch](https://domainwat.ch/)|domain,phone-number,mail,etc.|||
+|[DNSdumpster](https://dnsdumpster.com/)|domain|||
+|[dns ninja](https://www.dns.ninja/)|domain|||
+|[SecurityTrails](https://securitytrails.com/)|domain,hosname,ip,keyword|〇||
+|[Find Subdomains](https://findsubdomains.com/)|domain|||
+|[Threat DB](https://labs.cloudbric.com/threatdb)|Wallet address,IP,URL|||
+|[Find Subdomain](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)|domain|||
+|[SUCURI](https://sitecheck.sucuri.net/)|domain,url|||
+|[SecURL](https://securl.nu/)|URL|||
+|[SSL Sever Test](https://globalsign.ssllabs.com/)|hostname|||
+|[crt.sh](https://crt.sh/)|domain,certificates|||
+|[gred](http://check.gred.jp/)|url|||
+|[malwares.com](https://www.malwares.com/)|domain,ip,url,hash,hostname,tag|||
+|[ViruSign](https://www.virusign.com/home.php)|hash,keyword|||
+|[virusbay](https://beta.virusbay.io/sample/browse)|hash,tag|||
+|[]()||||
+|[]()||||
+|[]()||||
+
+
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
 - [Download OSINT Bookmarks@OSINT Combine](https://www.osintcombine.com/osint-bookmarks)
     - OSINTに有用なWebサイトをまとめたBookmarkを提供
+- [普段の調査で利用するOSINTまとめ,qiita,2020-03](https://qiita.com/00001B1A/items/4d8ceb53993d3217307e)
