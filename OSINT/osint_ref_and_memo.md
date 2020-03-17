@@ -158,7 +158,7 @@
 |[malwares.com](https://www.malwares.com/)|domain,ip,url,hash,hostname,tag|||
 |[ViruSign](https://www.virusign.com/home.php)|hash,keyword|||
 |[virusbay](https://beta.virusbay.io/sample/browse)|hash,tag|||
-|[]()||||
+|[TrackingTheTrackers](https://trackingthetrackers.com/)|URL||サードパーティートラッカーのファーストパーティーへの偽装を判別，送信されるCookie情報の確認|
 |[]()||||
 |[]()||||
 
