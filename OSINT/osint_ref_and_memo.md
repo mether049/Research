@@ -76,7 +76,9 @@
 - cache:
     - キャッシュの検索
 > chache:example.com
-
+- Custom Google検索集
+    - マルウェア検索用
+        - [Decalage](http://decalage.info/mwsearch#gsc.tab=0)
 
 # Domain, IP, URL, File hash, CVE Research
 - ※空欄は調査中(更新予定)
