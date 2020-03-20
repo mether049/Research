@@ -162,7 +162,7 @@
 |[virusbay](https://beta.virusbay.io/sample/browse)|hash,tag|||
 |[TrackingTheTrackers](https://trackingthetrackers.com/)|URL||サードパーティートラッカーのファーストパーティーへの偽装を判別，送信されるCookie情報の確認|
 |[MalwareBazaar](https://bazaar.abuse.ch/browse/)|hash,tag,keyword||download可<br>マルウェアサンプルを共有することを目的としたabuse.chのプロジェクト|
-|[]()||||
+|[SSLBL](https://sslbl.abuse.ch/)|hash,keyword(malware),date||c2通信に利用されるSSL証明書の検索|
 
 
 
