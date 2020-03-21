@@ -163,7 +163,7 @@
 |[TrackingTheTrackers](https://trackingthetrackers.com/)|URL||サードパーティートラッカーのファーストパーティーへの偽装を判別，送信されるCookie情報の確認|
 |[MalwareBazaar](https://bazaar.abuse.ch/browse/)|hash,tag,keyword|〇|download可<br>マルウェアサンプルを共有することを目的としたabuse.chのプロジェクト|
 |[SSLBL](https://sslbl.abuse.ch/)|hash,keyword(malware),date|〇|c2通信に利用されるSSL証明書の検索|
-|[Bot Invaders Realtime Tracker](http://www.marc-blanchard.com/BotInvaders/index.php)|-||DGAのTracker|
+|[Bot Invaders Realtime Tracker](http://www.marc-blanchard.com/BotInvaders/index.php)|-|〇|DGAのTracker|
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
