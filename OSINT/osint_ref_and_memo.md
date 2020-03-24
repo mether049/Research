@@ -94,15 +94,15 @@
 |[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
 |[PhishTank](https://www.phishtank.com/index.php)|url|〇||
 |[ANYRUN](https://app.any.run/submissions)|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox|
-|[URLhaus](https://urlhaus.abuse.ch/browse/)|domain,ip,url,hash|||
+|[URLhaus](https://urlhaus.abuse.ch/browse/)|domain,ip,url,hash|〇||
 |[Web Insight](http://webint.io/)|url|||
 |[ThreatMiner](https://www.threatminer.org/index.php)|domain,ip,url,hash,email,ssl,UA,apt name,malware family,registry,mutex,etc.|||
 |[Threats Crowd](https://www.threatcrowd.org/)|domain,ip,url,email,organization||powered byAlienVault|
 |[MX TOOLBOX](https://mxtoolbox.com/blacklists.aspx)|ip,domain|||
 |[pastebin](https://pastebin.com/)|keyword|〇|Pastebinに投稿された内容をyaraでスキャンし通知するアプリケーションとして[PasteHunter](https://github.com/kevthehermit/PasteHunter)がある|
 |[HYBRID ANALYSIS](https://www.hybrid-analysis.com/)|domain,ip,url,hash,yara,string||online sandbox|
-|[cape sandbox](https://cape.contextis.com/analysis/search/)|domain,ip,url,hash,command,malware family,registry,mutex,string||online sandbox|
-|[JOESandbox Cloud](https://www.joesandbox.com/#advanced)|domain,ip,hash,hash tag||online sandbox|
+|[cape sandbox](https://cape.contextis.com/analysis/search/)|domain,ip,url,hash,command,malware family,registry,mutex,string|〇|online sandbox|
+|[JOESandbox Cloud](https://www.joesandbox.com/#advanced)|domain,ip,hash,hash tag|〇|online sandbox|
 |[Vulmon](https://vulmon.com/)|cve,company,product|||
 |[IntelligenceX](https://intelx.io/)|domain,ip,url,email,bitcoin address,etc.|||
 |[NerdyData](https://nerdydata.com/)|||https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/|
@@ -117,7 +117,7 @@
 |[malwareurl](https://www.malwareurl.com/listing-urls.php)|domain,ip,url|||
 |[dedoLa](http://dedola.eu/malware.php)||||
 |[SPLOITUS](https://sploitus.com/)|cve,applicationname||researching poc|
-|[Feodo Tracker](https://feodotracker.abuse.ch/browse/)|ip|||
+|[Feodo Tracker](https://feodotracker.abuse.ch/browse/)|ip|〇||
 |[MalShare](https://malshare.com/)|hash,yara|||
 |[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|||
 |[FOFA](https://fofa.so/)|domain,ip,country,etc.|||
