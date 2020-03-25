@@ -96,11 +96,11 @@
 |[ANYRUN](https://app.any.run/submissions)|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox|
 |[URLhaus](https://urlhaus.abuse.ch/browse/)|domain,ip,url,hash|〇||
 |[Web Insight](http://webint.io/)|url|||
-|[ThreatMiner](https://www.threatminer.org/index.php)|domain,ip,url,hash,email,ssl,UA,apt name,malware family,registry,mutex,etc.|||
-|[Threats Crowd](https://www.threatcrowd.org/)|domain,ip,url,email,organization||powered byAlienVault|
-|[MX TOOLBOX](https://mxtoolbox.com/blacklists.aspx)|ip,domain|||
+|[ThreatMiner](https://www.threatminer.org/index.php)|domain,ip,url,hash,email,ssl,UA,apt name,malware family,registry,mutex,etc.|〇||
+|[Threats Crowd](https://www.threatcrowd.org/)|domain,ip,url,email,organization|〇|powered byAlienVault|
+|[MX TOOLBOX](https://mxtoolbox.com/blacklists.aspx)|ip,domain|〇||
 |[pastebin](https://pastebin.com/)|keyword|〇|Pastebinに投稿された内容をyaraでスキャンし通知するアプリケーションとして[PasteHunter](https://github.com/kevthehermit/PasteHunter)がある|
-|[HYBRID ANALYSIS](https://www.hybrid-analysis.com/)|domain,ip,url,hash,yara,string||online sandbox|
+|[HYBRID ANALYSIS](https://www.hybrid-analysis.com/)|domain,ip,url,hash,yara,string|〇|online sandbox|
 |[cape sandbox](https://cape.contextis.com/analysis/search/)|domain,ip,url,hash,command,malware family,registry,mutex,string|〇|online sandbox|
 |[JOESandbox Cloud](https://www.joesandbox.com/#advanced)|domain,ip,hash,hash tag|〇|online sandbox|
 |[Vulmon](https://vulmon.com/)|cve,company,product|||
