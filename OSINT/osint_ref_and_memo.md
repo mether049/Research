@@ -118,11 +118,11 @@
 |[dedoLa](http://dedola.eu/malware.php)||||
 |[SPLOITUS](https://sploitus.com/)|cve,applicationname||researching poc|
 |[Feodo Tracker](https://feodotracker.abuse.ch/browse/)|ip|〇||
-|[MalShare](https://malshare.com/)|hash,yara|||
+|[MalShare](https://malshare.com/)|hash,yara|〇||
 |[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|||
-|[FOFA](https://fofa.so/)|domain,ip,country,etc.|||
-|[ONYPHE](https://www.onyphe.io/)|domain,country,etc.|||
-|[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|||
+|[FOFA](https://fofa.so/)|domain,ip,country,etc.|〇||
+|[ONYPHE](https://www.onyphe.io/)|domain,country,etc.|〇||
+|[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|〇||
 |[Twitter IOC Hunter](http://tweettioc.com/search)|domain,ip,url,hash,email,user,hash tag|〇||
 |[Wayback Machine](https://archive.org/web/)|url||archive|
 |[Stanford Web Archive Portal](https://swap.stanford.edu/)|url||archive||
