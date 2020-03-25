@@ -110,7 +110,7 @@
 |[aguse](https://www.aguse.jp/)|url,email|||
 |[DomainBigData](https://domainbigdata.com/)|domain,ip,url,registrant name,email|||
 |[DN pedia](https://dnpedia.com/tlds/search.php)|domain|||
-|[Robtex](https://www.robtex.com/)|domain,ip,url,as number|||
+|[Robtex](https://www.robtex.com/)|domain,ip,url,as number|〇||
 |[nccgroupnumber](https://labs.nccgroup.trust/typofinder/)|domain||researching typosquatting|
 |[VX Vault](http://vxvault.net/ViriList.php)|ip,url,hash|||
 |[VMRAY ANALYZER](https://www.vmray.com/analyzer-malware-sandbox-free-trial/?utm_campaign=reports&utm_source=vmray&utm_medium=analysis2&utm_content=report)||||
