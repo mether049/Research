@@ -104,9 +104,9 @@
 |[cape sandbox](https://cape.contextis.com/analysis/search/)|domain,ip,url,hash,command,malware family,registry,mutex,string|〇|online sandbox|
 |[JOESandbox Cloud](https://www.joesandbox.com/#advanced)|domain,ip,hash,hash tag|〇|online sandbox|
 |[Vulmon](https://vulmon.com/)|cve,company,product|||
-|[IntelligenceX](https://intelx.io/)|domain,ip,url,email,bitcoin address,etc.|||
-|[NerdyData](https://nerdydata.com/)|||https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/|
-|[SpyOnWeb](http://spyonweb.com/)|domain,ip,url|||
+|[IntelligenceX](https://intelx.io/)|domain,ip,url,email,bitcoin address,etc.|〇||
+|[NerdyData](https://nerdydata.com/)|〇||https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/|
+|[SpyOnWeb](http://spyonweb.com/)|domain,ip,url|〇||
 |[aguse](https://www.aguse.jp/)|url,email|||
 |[DomainBigData](https://domainbigdata.com/)|domain,ip,url,registrant name,email|||
 |[DN pedia](https://dnpedia.com/tlds/search.php)|domain|||
