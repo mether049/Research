@@ -102,7 +102,7 @@
 |[pastebin](https://pastebin.com/)|keyword|〇|Pastebinに投稿された内容をyaraでスキャンし通知するアプリケーションとして[PasteHunter](https://github.com/kevthehermit/PasteHunter)がある|
 |[HYBRID ANALYSIS](https://www.hybrid-analysis.com/)|domain,ip,url,hash,yara,string|〇|online sandbox|
 |[cape sandbox](https://cape.contextis.com/analysis/search/)|domain,ip,url,hash,command,malware family,registry,mutex,string|〇|online sandbox|
-|[JOESandbox Cloud](https://www.joesandbox.com/#advanced)|domain,ip,hash,hash tag|〇|online sandbox|
+|[JOESandbox Cloud](https://www.joesandbox.com/#advanced)|domain,ip,hash,hash tag,yara|〇|online sandbox|
 |[Vulmon](https://vulmon.com/)|cve,company,product|||
 |[IntelligenceX](https://intelx.io/)|domain,ip,url,email,bitcoin address,etc.|〇||
 |[NerdyData](https://nerdydata.com/)||〇|https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/|
@@ -132,12 +132,12 @@
 |[IP & Domain Reputation Center](https://talosintelligence.com/reputation_center)|domain,ip,hash|||
 |[GREYNOISE](https://viz.greynoise.io/)||〇|検索機能が豊富<br>malicious判定された機器のみの検索等が可能|
 |[INQUEST LABS](https://labs.inquest.net/)||〇||
-|[Koodous](https://koodous.com/)|||android only||
-|[BinaryEdge](https://www.binaryedge.io/)||||
+|[Koodous](https://koodous.com/)|file,yara||android only||
+|[BinaryEdge](https://www.binaryedge.io/)||〇||
 |[Cryptolaemus Pastedump](https://paste.cryptolaemus.com/)|||主にEmotetのIoCを掲載|
 |[virusbay](https://beta.virusbay.io/sample/browse)||||
 |[VisualSitemaps](https://visualsitemaps.com/)|URL||サイトマップを取得|
-|[maltiverse](https://maltiverse.com/search)|domain,ip,url,hash,entropy,tld,keyword|||
+|[maltiverse](https://maltiverse.com/search)|domain,ip,url,hash,entropy,tld,keyword|〇||
 |[malwareworld](https://malwareworld.com/)|domain,ip|||
 |[unfurl](https://dfir.blog/unfurl/)|url|||
 |[Parse User Agents](https://developers.whatismybrowser.com/)|user-agent|〇|User-Agentのパーサ|
