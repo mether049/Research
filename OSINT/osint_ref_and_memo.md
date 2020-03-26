@@ -124,11 +124,11 @@
 |[ONYPHE](https://www.onyphe.io/)|domain,country,etc.|〇||
 |[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|〇||
 |[Twitter IOC Hunter](http://tweettioc.com/search)|domain,ip,url,hash,email,user,hash tag|〇||
-|[Wayback Machine](https://archive.org/web/)|url||archive|
+|[Wayback Machine](https://archive.org/web/)|url|〇|archive|
 |[Stanford Web Archive Portal](https://swap.stanford.edu/)|url||archive||
 |[UK Parliament Web Archive](http://webarchive.parliament.uk/)|url||archive||
 |[Library of Congress](https://www.loc.gov/)|url||archive||
-|[totalhash](https://totalhash.cymru.com/search/)|domain,ip,hash,urll,UA,email,mutex,registry|||
+|[totalhash](https://totalhash.cymru.com/search/)|domain,ip,hash,urll,UA,email,mutex,registry|〇||
 |[IP & Domain Reputation Center](https://talosintelligence.com/reputation_center)|domain,ip,hash|||
 |[GREYNOISE](https://viz.greynoise.io/)||〇|検索機能が豊富<br>malicious判定された機器のみの検索等が可能|
 |[INQUEST LABS](https://labs.inquest.net/)||〇||
