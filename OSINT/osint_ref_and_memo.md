@@ -149,7 +149,7 @@
 |[DNSdumpster](https://dnsdumpster.com/)|domain|||
 |[dns ninja](https://www.dns.ninja/)|domain|||
 |[SecurityTrails](https://securitytrails.com/)|domain,hosname,ip,keyword|〇||
-|[Find Subdomains](https://findsubdomains.com/)|domain|||
+|[Find Subdomains](https://findsubdomains.com/)|domain|〇||
 |[Threat DB](https://labs.cloudbric.com/threatdb)|Wallet address,IP,URL|||
 |[Find Subdomain](https://pentest-tools.com/information-gathering/find-subdomains-of-domain)|domain|||
 |[SUCURI](https://sitecheck.sucuri.net/)|domain,url|||
@@ -157,7 +157,7 @@
 |[SSL Sever Test](https://globalsign.ssllabs.com/)|hostname|||
 |[crt.sh](https://crt.sh/)|domain,certificates|||
 |[gred](http://check.gred.jp/)|url|||
-|[malwares.com](https://www.malwares.com/)|domain,ip,url,hash,hostname,tag|||
+|[malwares.com](https://www.malwares.com/)|domain,ip,url,hash,hostname,tag|〇||
 |[ViruSign](https://www.virusign.com/home.php)|hash,keyword|||
 |[virusbay](https://beta.virusbay.io/sample/browse)|hash,tag|||
 |[TrackingTheTrackers](https://trackingthetrackers.com/)|URL||サードパーティートラッカーのファーストパーティーへの偽装を判別，送信されるCookie情報の確認|
