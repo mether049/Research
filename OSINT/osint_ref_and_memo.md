@@ -142,10 +142,10 @@
 |[unfurl](https://dfir.blog/unfurl/)|url|||
 |[Parse User Agents](https://developers.whatismybrowser.com/)|user-agent|〇|User-Agentのパーサ|
 |[httpstatus](https://httpstatus.io/)|url||check status codes, response headers, and redirect chains.|
-|[DownDetector](https://downdetector.jp/)|keyword||障害発生などの確認|
-|[AbuseIPDB](https://www.abuseipdb.com/)|ip|||
+|[DownDetector](https://downdetector.jp/)|keyword|〇|障害発生などの確認|
+|[AbuseIPDB](https://www.abuseipdb.com/)|ip|〇||
 |[Cybercrime tracker](https://cybercrime-tracker.net/)|url,keyword|||
-|[DomainWatch](https://domainwat.ch/)|domain,phone-number,mail,etc.|||
+|[DomainWatch](https://domainwat.ch/)|domain,phone-number,mail,etc.|〇||
 |[DNSdumpster](https://dnsdumpster.com/)|domain|||
 |[dns ninja](https://www.dns.ninja/)|domain|||
 |[SecurityTrails](https://securitytrails.com/)|domain,hosname,ip,keyword|〇||
