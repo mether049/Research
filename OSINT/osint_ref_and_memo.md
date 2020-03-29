@@ -164,6 +164,7 @@
 |[MalwareBazaar](https://bazaar.abuse.ch/browse/)|hash,tag,keyword|〇|download可<br>マルウェアサンプルを共有することを目的としたabuse.chのプロジェクト|
 |[SSLBL](https://sslbl.abuse.ch/)|hash,keyword(malware),date|〇|c2通信に利用されるSSL証明書の検索|
 |[Bot Invaders Realtime Tracker](http://www.marc-blanchard.com/BotInvaders/index.php)|-|〇|DGAのTracker|
+|[malinfo](https://www.malinfo.co.kr/cti/)|domain,ip,file|||
 
 # Corpus
 - https://vx-underground.org/packs.html
