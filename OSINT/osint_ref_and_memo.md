@@ -165,6 +165,10 @@
 |[SSLBL](https://sslbl.abuse.ch/)|hash,keyword(malware),date|〇|c2通信に利用されるSSL証明書の検索|
 |[Bot Invaders Realtime Tracker](http://www.marc-blanchard.com/BotInvaders/index.php)|-|〇|DGAのTracker|
 
+# Corpus
+- https://vx-underground.org/packs.html
+- https://github.com/ytisf/theZoo
+
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
 - [Download OSINT Bookmarks@OSINT Combine](https://www.osintcombine.com/osint-bookmarks)
