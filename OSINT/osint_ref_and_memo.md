@@ -165,6 +165,7 @@
 |[SSLBL](https://sslbl.abuse.ch/)|hash,keyword(malware),date|〇|c2通信に利用されるSSL証明書の検索|
 |[Bot Invaders Realtime Tracker](http://www.marc-blanchard.com/BotInvaders/index.php)|-|〇|DGAのTracker|
 |[malinfo](https://www.malinfo.co.kr/cti/)|domain,ip,file|||
+|[sublime-security/static-files@github](https://github.com/sublime-security/static-files)|||Alexa top 1M,Ambrella top 1M,freemailのドメイン，free file host,短縮URL等の一覧を掲載|
 
 # Corpus
 - https://vx-underground.org/packs.html
