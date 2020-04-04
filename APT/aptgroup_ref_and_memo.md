@@ -12,6 +12,8 @@
 > - They are also known for using remote access Trojans (RATs) and malware downloaders that delivered the Dridex and Trick banking Trojans as secondary payloads during their campaigns, as well as several ransomware strains including Locky, BitPaymer, Philadelphia, GlobeImposter, and Jaff on their targets' computers now also including Clop ransomware after the attack on UM.
 > - UM also disclosed that it acquired the ransomware decryptor from the attackers by paying a 30 bitcoin ransom (roughly $220,000 or €220,000) to restore all the encrypted files as Reuters reported.
 
+**ref**
+- [TA505 Threat Group Profiling(English Version) ](https://www.fsec.or.kr/user/bbs/fsec/163/344/bbsDataView/1382.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=)<br>
 
 ## TA544
 
