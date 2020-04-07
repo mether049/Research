@@ -167,6 +167,7 @@
 |[malinfo](https://www.malinfo.co.kr/cti/)|domain,ip,file|||
 |[sublime-security/static-files@github](https://github.com/sublime-security/static-files)|||Alexa top 1M,Ambrella top 1M,freemailのドメイン，free file host,短縮URL等の一覧を掲載|
 |[useragentstring](http://useragentstring.com/index.php)|User-Agent||user-agentのパーサ|
+|[VxCube](http://vxcube.com/)|domain,ip,url,hash,file,tag|〇||
 
 # Corpus
 - https://vx-underground.org/packs.html
