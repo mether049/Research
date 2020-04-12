@@ -121,7 +121,7 @@
 |[SPLOITUS](https://sploitus.com/)|cve,applicationname||researching poc|
 |[Feodo Tracker](https://feodotracker.abuse.ch/browse/)|ip|〇||
 |[MalShare](https://malshare.com/)|hash,yara|〇||
-|[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|||
+|[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|〇||
 |[FOFA](https://fofa.so/)|domain,ip,country,etc.|〇||
 |[ONYPHE](https://www.onyphe.io/)|domain,country,etc.|〇||
 |[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|〇||
