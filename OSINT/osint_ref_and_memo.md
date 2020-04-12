@@ -79,6 +79,8 @@
 - Custom Google検索集
     - マルウェア検索用
         - [Decalage](http://decalage.info/mwsearch#gsc.tab=0)
+    - pastesite検索用
+        - https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e
 
 # Domain, IP, URL, File hash, CVE Research
 - ※空欄は調査中(更新予定)
@@ -168,6 +170,7 @@
 |[sublime-security/static-files@github](https://github.com/sublime-security/static-files)|||Alexa top 1M,Ambrella top 1M,freemailのドメイン，free file host,短縮URL等の一覧を掲載|
 |[useragentstring](http://useragentstring.com/index.php)|User-Agent||user-agentのパーサ|
 |[VxCube](http://vxcube.com/)|domain,ip,url,hash,file,tag|〇||
+|[Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0)|keyword||複数のpastesiteから検索|
 
 # Corpus
 - https://vx-underground.org/packs.html
