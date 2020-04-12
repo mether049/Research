@@ -171,6 +171,7 @@
 |[useragentstring](http://useragentstring.com/index.php)|User-Agent||user-agentのパーサ|
 |[VxCube](http://vxcube.com/)|domain,ip,url,hash,file,tag|〇||
 |[Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0)|keyword||複数のpastesiteから検索|
+|[Expired Domains.net](https://www.expireddomains.net/)|domain||Expired Domain Name Search Engine|
 
 # Corpus
 - https://vx-underground.org/packs.html
