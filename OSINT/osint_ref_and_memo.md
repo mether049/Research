@@ -108,7 +108,7 @@
 |[Vulmon](https://vulmon.com/)|cve,company,product|||
 |[IntelligenceX](https://intelx.io/)|domain,ip,url,email,bitcoin address,etc.|〇||
 |[NerdyData](https://nerdydata.com/)||〇|https://www.bellingcat.com/resources/how-tos/2015/07/23/unveiling-hidden-connections-with-google-analytics-ids/|
-|[SpyOnWeb](http://spyonweb.com/)|domain,ip,url|〇||
+|[SpyOnWeb](http://spyonweb.com/)|domain,ip,url|〇|同じgoogle-analytics識別子，google-adsense識別子を利用するドメインを検索できる|
 |[aguse](https://www.aguse.jp/)|url,email|||
 |[DomainBigData](https://domainbigdata.com/)|domain,ip,url,registrant name,email|||
 |[DN pedia](https://dnpedia.com/tlds/search.php)|domain|||
