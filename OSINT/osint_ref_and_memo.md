@@ -181,6 +181,7 @@
 - https://github.com/JPCERTCC/MalConfScan/blob/master/yara/rule.yara
 - https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE
 - https://github.com/Neo23x0/signature-base/tree/master/yara
+- https://github.com/ProIntegritate/Yara-rules
 
 # IoC source
 - https://github.com/StrangerealIntel/CyberThreatIntel
