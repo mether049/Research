@@ -174,6 +174,21 @@
 |[Expired Domains.net](https://www.expireddomains.net/)|domain||Expired Domain Name Search Engine|
 |[CRDF Threat Ceneter](https://threatcenter.crdf.fr/)|domain,url,hash,keyword|〇||
 
+# yara source
+- https://github.com/advanced-threat-research/Yara-Rules
+- [malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
+- https://github.com/Yara-Rules/rules
+- https://github.com/JPCERTCC/MalConfScan/blob/master/yara/rule.yara
+- https://github.com/ctxis/CAPE/tree/master/data/yara/CAPE
+- https://github.com/Neo23x0/signature-base/tree/master/yara
+
+# IoC source
+- https://github.com/StrangerealIntel/CyberThreatIntel
+- https://github.com/Neo23x0/sigma
+- https://github.com/karttoon/iocs
+- https://github.com/stamparm/maltrail/tree/master/trails/static
+- https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt
+
 # Corpus
 - https://vx-underground.org/packs.html
 - https://github.com/ytisf/theZoo
