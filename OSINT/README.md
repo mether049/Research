@@ -8,4 +8,6 @@
   - [Search Engine](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#search-engine)
     - [Google](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#google)
   - [Domain, IP, URL, File hash, CVE Research](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#domain-ip-url-file-hash-cve-research)
+  - [yara source](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#yara-source)
+  - [IoC souce](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#ioc-source)
   - [ref](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md#ref)
