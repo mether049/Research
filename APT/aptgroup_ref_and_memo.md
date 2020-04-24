@@ -47,6 +47,7 @@
   - https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?curPage=&menu_dist=2&seq=29129
 
 ## DarkHotel
+## Taidoor
 
 ## ref about apt group:
 - [APT Groups and Operations ](https://docs.google.com/spreadsheets/u/2/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)
