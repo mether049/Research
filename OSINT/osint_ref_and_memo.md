@@ -191,6 +191,10 @@
 - https://github.com/stamparm/maltrail/tree/master/trails/static
 - https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt
 
+# MindMaps
+- https://github.com/sbousseaden/Slides/tree/master/Hunting%20MindMaps
+- https://github.com/caschnee/misp-use-cases/blob/master/MISP_use_cases_detailed.png
+
 # Corpus
 - https://vx-underground.org/packs.html
 - https://github.com/ytisf/theZoo
