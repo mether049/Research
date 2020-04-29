@@ -26,6 +26,7 @@
 - [Mimir](https://github.com/deadbits/mimir)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 - [OSINT Framework](https://osintframework.com/)
+- [Sifter](https://github.com/s1l3nt78/sifter)
 
 # Crawler
 ### malware
