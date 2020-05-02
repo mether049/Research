@@ -82,6 +82,7 @@
         - [Decalage](http://decalage.info/mwsearch#gsc.tab=0)
     - pastesite検索用
         - https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e
+        - https://netbootcamp.org/pastesearch.html#gsc.tab=0
 
 # Domain, IP, URL, File hash, CVE Research
 - ※空欄は調査中(更新予定)
@@ -191,6 +192,7 @@
 - https://github.com/karttoon/iocs
 - https://github.com/stamparm/maltrail/tree/master/trails/static
 - https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt
+- https://gist.github.com/kirk-sayre-work
 
 # MindMaps
 - https://github.com/sbousseaden/Slides/tree/master/Hunting%20MindMaps
