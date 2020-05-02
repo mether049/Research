@@ -193,6 +193,7 @@
 - https://github.com/stamparm/maltrail/tree/master/trails/static
 - https://github.com/malwareinfosec/EKFiddle/blob/master/Regexes/MasterRegexes.txt
 - https://gist.github.com/kirk-sayre-work
+- http://www.covert.io/threat-intelligence/
 
 # MindMaps
 - https://github.com/sbousseaden/Slides/tree/master/Hunting%20MindMaps
