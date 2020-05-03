@@ -27,6 +27,7 @@
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 - [OSINT Framework](https://osintframework.com/)
 - [Sifter](https://github.com/s1l3nt78/sifter)
+- [vps_setup for recon](https://github.com/nullenc0de/vps_setup/blob/master/offensive_script.sh)
 
 # Crawler
 ### malware
