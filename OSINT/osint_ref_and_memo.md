@@ -204,6 +204,9 @@
 - https://github.com/sbousseaden/Slides/tree/master/Hunting%20MindMaps
 - https://github.com/caschnee/misp-use-cases/blob/master/MISP_use_cases_detailed.png
 
+# Cheet Sheet
+- [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
+
 # Corpus
 - https://vx-underground.org/packs.html
 - https://github.com/ytisf/theZoo
