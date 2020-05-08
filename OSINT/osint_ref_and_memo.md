@@ -176,6 +176,7 @@
 |[Paste Site Search](https://netbootcamp.org/pastesearch.html#gsc.tab=0)|keyword||複数のpastesiteから検索|
 |[Expired Domains.net](https://www.expireddomains.net/)|domain||Expired Domain Name Search Engine|
 |[CRDF Threat Ceneter](https://threatcenter.crdf.fr/)|domain,url,hash,keyword|〇||
+|[crt.sh](https://crt.sh/)|certificates|〇|Certificate Transparency|
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
