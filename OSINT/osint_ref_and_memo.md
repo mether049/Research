@@ -28,6 +28,7 @@
 - [OSINT Framework](https://osintframework.com/)
 - [Sifter](https://github.com/s1l3nt78/sifter)
 - [vps_setup for recon](https://github.com/nullenc0de/vps_setup/blob/master/offensive_script.sh)
+- [crtsh](https://github.com/knqyf263/crtsh)
 
 # Crawler
 ### malware
@@ -160,7 +161,7 @@
 |[SUCURI](https://sitecheck.sucuri.net/)|domain,url|||
 |[SecURL](https://securl.nu/)|URL|||
 |[SSL Sever Test](https://globalsign.ssllabs.com/)|hostname|||
-|[crt.sh](https://crt.sh/)|domain,certificates||Certificate Transparency|
+|[crt.sh](https://crt.sh/)|domain,certificates|〇|Certificate Transparency<br>https://github.com/knqyf263/crtsh|
 |[gred](http://check.gred.jp/)|url|||
 |[malwares.com](https://www.malwares.com/)|domain,ip,url,hash,hostname,tag|〇||
 |[ViruSign](https://www.virusign.com/home.php)|hash,keyword|||
