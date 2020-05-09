@@ -95,7 +95,7 @@
 
 |name|input|API|remarks|
 |:-|:-|:-|:-|
-|[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇||
+|[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇|[task.source:certstream-suspicious](https://urlscan.io/search/#task.source%3Acertstream-suspicious)|
 |[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
 |[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc)<br>[VT Hunting](https://github.com/fr0gger/vthunting)|
