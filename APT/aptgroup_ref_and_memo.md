@@ -47,6 +47,14 @@
   - https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?curPage=&menu_dist=2&seq=29129
 
 ## DarkHotel
+
+## OceanLotus
+**2020-05-06**
+- [Android Campaign from Known OceanLotus APT Group Potentially Older than Estimated, Abused Legitimate Certificate](https://labs.bitdefender.com/2020/05/android-campaign-from-known-oceanlotus-apt-group-potentially-older-than-estimated-abused-legitimate-certificate/)
+> - a Bitdefender investigation has revealed 35 new malicious samples, and evidence that the campaign may have used a legitimate and potentially stolen digital certificate to sign some samples.
+> - In terms of telemetry, over the past 3 months alone we have seen 25 reports involving this threat, mostly in the US, Japan and South Korea.
+> - Some samples that were on Google Play at some point are currently still available on third-party markets, including on Amazon. 
+
 ## Taidoor
 
 ## ref about apt group:
