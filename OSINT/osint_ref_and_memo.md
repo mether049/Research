@@ -191,6 +191,7 @@
 - https://github.com/Neo23x0/signature-base/tree/master/yara
 - https://github.com/ProIntegritate/Yara-rules
 - https://github.com/k-vitali/Malware-Misc-RE
+- https://gist.github.com/JohnLaTwC
 ## tools
 - yara ruleの生成等に関するツール
     - [yara-signator](https://github.com/fxb-cocacoding/yara-signator)
