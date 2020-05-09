@@ -85,10 +85,10 @@
     - pastesite検索用
         - https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e
         - https://netbootcamp.org/pastesearch.html#gsc.tab=0
-### 
+### Search for special symbols
 - Googleでは`@＃$％^＆*（）= + [] \`の記号は無視される
 - **[SymbolHound](http://symbolhound.com/advanced.php)**
- - Google検索と比較して記号を用いた検索が可能だが，インデックスされてるページが少ない印象
+  - Google検索と比較して記号を用いた検索が可能だが，インデックスされてるページが少ない印象
 
 # Domain, IP, URL, File hash, CVE Research
 - ※空欄は調査中(更新予定)
