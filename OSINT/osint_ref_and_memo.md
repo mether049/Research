@@ -208,6 +208,7 @@
 - http://www.covert.io/threat-intelligence/
 - https://gist.github.com/sysgoblin
 - https://github.com/eset/malware-ioc
+- https://github.com/jstrosch/malware-samples
 
 # MindMaps
 - https://github.com/sbousseaden/Slides/tree/master/Hunting%20MindMaps
@@ -224,6 +225,7 @@
 - https://github.com/ytisf/theZoo
 - https://github.com/ActorExpose/PhishKits
 - https://github.com/binaryninja/phishingkits
+- https://github.com/jstrosch/malware-samples
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
