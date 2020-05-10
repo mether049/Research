@@ -222,6 +222,7 @@
 - https://vx-underground.org/packs.html
 - https://github.com/ytisf/theZoo
 - https://github.com/ActorExpose/PhishKits
+- https://github.com/binaryninja/phishingkits
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
