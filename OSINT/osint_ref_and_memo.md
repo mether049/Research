@@ -207,6 +207,7 @@
 - https://gist.github.com/kirk-sayre-work
 - http://www.covert.io/threat-intelligence/
 - https://gist.github.com/sysgoblin
+- https://github.com/eset/malware-ioc
 
 # MindMaps
 - https://github.com/sbousseaden/Slides/tree/master/Hunting%20MindMaps
