@@ -212,6 +212,7 @@
 - https://github.com/sbousseaden/Slides/tree/master/Hunting%20MindMaps
 - https://github.com/caschnee/misp-use-cases/blob/master/MISP_use_cases_detailed.png
 - https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/
+- https://twitter.com/mark_valenzia/status/1258689477460889600
 
 # Cheet Sheet
 - [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
