@@ -99,8 +99,8 @@
 |[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
 |[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://cse.google.com/cse?cx=003248445720253387346:turlh5vi4xc)<br>[VT Hunting](https://github.com/fr0gger/vthunting)|
-|[Censys](https://censys.io/)|ip,domain,url,certificates|〇||
-|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)|
+|[Censys](https://censys.io/)|ip,domain,url,certificates|〇|[Censys Python Library](https://github.com/censys/censys-python)|
+|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)|
 |[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
 |[PhishTank](https://www.phishtank.com/index.php)|url|〇||
 |[ANYRUN](https://app.any.run/submissions)|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox|
@@ -129,7 +129,7 @@
 |[SPLOITUS](https://sploitus.com/)|cve,applicationname||researching poc|
 |[Feodo Tracker](https://feodotracker.abuse.ch/browse/)|ip|〇||
 |[MalShare](https://malshare.com/)|hash,yara|〇||
-|[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|〇||
+|[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|〇|[ZoomEye API](https://github.com/knownsec/ZoomEye)|
 |[FOFA](https://fofa.so/)|domain,ip,country,etc.|〇||
 |[ONYPHE](https://www.onyphe.io/)|domain,country,etc.|〇||
 |[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|〇||
@@ -217,6 +217,79 @@
 - https://twitter.com/mark_valenzia/status/1258689477460889600
 
 # Cheet Sheet
+### shodan
+- 日付の検索(apiのみ)
+```
+after:dd/mm/yyyy
+before:dd/mm/yyyy
+```
+- ssl証明書のシリアル番号検索
+```
+ssl.cert.serial:
+```
+- ssl証明書のハッシュ値検索(sha1)
+```
+ssl.cert.fingerprint:
+```
+- shodan-cliの検索
+```
+shodan search --fields ip_str '${query}' --limit 1000 | cat 
+```
+### Censys
+- または
+```
+or
+```
+- かつ
+```
+and
+```
+- 日付の検索
+```
+updated_at:[yyyy-mm-dd TO yyyy-mm-dd]
+updated_at:[yyyy-mm-dd TO *]
+```
+- ssl証明書のハッシュ値検索(sha256)
+```
+443.https.tls.certificate.parsed.fingerprint_sha256:
+```
+### ZoomEye
+- ssl証明書のシリアル番号検索
+```
+"Serial Number: "
+```
+- api:認証(curl)
+```
+curl -XPOST https://api.zoomeye.org/user/login -d '{"username":"${email}","password":"${password}"}'
+```
+- api:検索(curl)
+```
+curl -X GET https://api.zoomeye.org/host/search?query='"${query}"&page=1' -H "Authorization: JWT ${tokenid}"
+```
+### Fofa
+- または
+```
+&&
+```
+- かつ
+```
+||
+```
+- 日付の検索
+```
+after="yyyy/mm/dd"
+before="yyyy/mm/dd"
+```
+- ssl証明書のシリアル番号検索
+```
+cert:""
+```
+- プロトコル検索
+```
+protocol=="cobaltstrike"
+```
+
+### Reference
 - [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [The Ultimate List of SANS Cheat Sheet](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
 
