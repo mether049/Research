@@ -1,3 +1,28 @@
+## Ursnif
+- https://twitter.com/lo_security/status/1213063377804771328
+- ![](https://pbs.twimg.com/media/ENWqtOwXYAEqi9Q?format=jpg&name=large)
+- https://twitter.com/campuscodi/status/1039531511144431616
+- ![](https://pbs.twimg.com/media/Dmz6o_7W0AEk_Iz?format=jpg&name=large)
+
+## AgentTesla
+- https://twitter.com/wwp96/status/1232323995933929474/photo/1
+- ![](https://pbs.twimg.com/media/ERoYI8JWsAY7roZ?format=png&name=900x900)
+
+## Loki Bot
+- https://twitter.com/MalWebHunter/status/960629131011477504/photo/1
+- ![](https://pbs.twimg.com/media/DVTWuNsV4AAt3cN?format=jpg&name=large)
+- https://twitter.com/xxdesmus/status/1248000391448424448/photo/1
+- ![](https://pbs.twimg.com/media/EVHJvd7U4AAMsHF?format=png&name=900x900)
+
+## GandCrab
+- https://twitter.com/CryptoInsane/status/1054046843796119553
+- ![](https://pbs.twimg.com/media/DqC5xDfVAAET64m?format=jpg&name=medium)
+- ![](https://pbs.twimg.com/media/DqC5zCKUwAAE3L_?format=jpg&name=medium)
+- ![](https://pbs.twimg.com/media/DqC59hJUUAETdW1?format=jpg&name=900x900)
+
+
+
+
 ## Anubis
 - **Android Banking Botnet 7.0 C2 panel**
  - https://twitter.com/DrStache_/status/1259800668631699456/photo/2
