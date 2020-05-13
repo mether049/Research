@@ -20,7 +20,9 @@
 - ![](https://pbs.twimg.com/media/DqC5zCKUwAAE3L_?format=jpg&name=medium)
 - ![](https://pbs.twimg.com/media/DqC59hJUUAETdW1?format=jpg&name=900x900)
 
-
+## Nemty
+- https://twitter.com/CryptoInsane/status/1217224743356698624/photo/1
+- ![](https://pbs.twimg.com/media/EORzZRJX0AAD1fn?format=png&name=large)
 
 
 ## Anubis
