@@ -13,6 +13,8 @@
 - ![](https://pbs.twimg.com/media/EW3X-ZWUEAABS0E?format=png&name=900x900)
 - https://twitter.com/JCyberSec_/status/1255902510767763457/photo/1
 - ![](https://pbs.twimg.com/media/EW3XmL6U8AECWFF?format=png&name=900x900)
+- https://twitter.com/andpalmier/status/1255956428772302848/photo/1
+- ![](https://pbs.twimg.com/media/EW4MChNWoAU9NTe?format=jpg&name=large)
 
 ## iPanel
 - https://twitter.com/dave_daves/status/1257591570620133382/photo/3
