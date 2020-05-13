@@ -24,6 +24,11 @@
 - https://twitter.com/CryptoInsane/status/1217224743356698624/photo/1
 - ![](https://pbs.twimg.com/media/EORzZRJX0AAD1fn?format=png&name=large)
 
+## Amadey
+- https://twitter.com/Zerophage1337/status/1159769845032005633/photo/1
+- ![](https://pbs.twimg.com/media/EBhUhk3XsAIUjrk?format=png&name=small)
+- https://twitter.com/jorgemieres/status/1240755672658165760/photo/2
+- ![](https://pbs.twimg.com/media/ETgLxrmXkAAaqLU?format=png&name=4096x4096)
 
 ## Anubis
 - **Android Banking Botnet 7.0 C2 panel**
