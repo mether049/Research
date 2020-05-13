@@ -13,6 +13,10 @@
 - ![](https://pbs.twimg.com/media/DVTWuNsV4AAt3cN?format=jpg&name=large)
 - https://twitter.com/xxdesmus/status/1248000391448424448/photo/1
 - ![](https://pbs.twimg.com/media/EVHJvd7U4AAMsHF?format=png&name=900x900)
+- ![](https://pbs.twimg.com/media/D8z2DErV4AEsUut?format=jpg&name=large)
+- https://twitter.com/ninoseki/status/1138555346425827329
+- ![](https://pbs.twimg.com/media/D8z6DVZU0AIXzbd?format=jpg&name=4096x4096)
+- ![](https://pbs.twimg.com/media/D8z6DVnU8AA25_N?format=jpg&name=4096x4096)
 
 ## GandCrab
 - https://twitter.com/CryptoInsane/status/1054046843796119553
