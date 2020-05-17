@@ -300,6 +300,12 @@ protocol=="cobaltstrike"
 - https://github.com/ActorExpose/PhishKits
 - https://github.com/binaryninja/phishingkits
 - https://github.com/jstrosch/malware-samples
+- https://github.com/KbaHaxor/Ammyy-v3
+- https://github.com/NYAN-x-CAT/RevengeRAT-Stub-CSsharp
+- https://github.com/Visgean/Zeus/
+- https://github.com/jgamblin/Mirai-Source-Code
+- https://github.com/ifding/iot-malware
+- https://github.com/gbrindisi/malware/tree/master/windows/gozi-isfb
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
