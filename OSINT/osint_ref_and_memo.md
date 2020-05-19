@@ -194,10 +194,12 @@
 - https://github.com/k-vitali/Malware-Misc-RE
 - https://gist.github.com/JohnLaTwC
 ## tools
-- yara ruleの生成等に関するツール
+- yara関連(rule生成や検索)のツール
     - [yara-signator](https://github.com/fxb-cocacoding/yara-signator)
     - [yarGen](https://github.com/Neo23x0/yarGen)
     - [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
+    - [mquery](https://github.com/CERT-Polska/mquery/)
+    - [PasteHunter](https://github.com/kevthehermit/PasteHunter)
 
 # IoC source
 - https://github.com/StrangerealIntel/CyberThreatIntel
