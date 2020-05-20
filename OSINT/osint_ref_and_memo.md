@@ -199,6 +199,7 @@
     - [yarGen](https://github.com/Neo23x0/yarGen)
     - [YaraGenerator](https://github.com/Xen0ph0n/YaraGenerator)
     - [mquery](https://github.com/CERT-Polska/mquery/)
+        - Public Version(http://mquery.net/)
     - [PasteHunter](https://github.com/kevthehermit/PasteHunter)
 
 # IoC source
