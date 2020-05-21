@@ -54,7 +54,10 @@
 > - a Bitdefender investigation has revealed 35 new malicious samples, and evidence that the campaign may have used a legitimate and potentially stolen digital certificate to sign some samples.
 > - In terms of telemetry, over the past 3 months alone we have seen 25 reports involving this threat, mostly in the US, Japan and South Korea.
 > - Some samples that were on Google Play at some point are currently still available on third-party markets, including on Amazon. 
-
+**2020-05-20**
+- [Twitter@Arkbird_SOLG](https://twitter.com/Arkbird_SOLG/status/1263105040643878914)
+> - Recent maldoc which targets Japan people, the picture used is from a sample picture for the passport, this remembers oceanlotus group at used it similar samples for their fakes CV.
+> - https://app.any.run/tasks/90643f1b-1725-4666-afa6-d8934bf31f57/
 ## Taidoor
 
 ## ref about apt group:
