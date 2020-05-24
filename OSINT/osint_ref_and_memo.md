@@ -309,6 +309,7 @@ protocol=="cobaltstrike"
 - https://github.com/jgamblin/Mirai-Source-Code
 - https://github.com/ifding/iot-malware
 - https://github.com/gbrindisi/malware/tree/master/windows/gozi-isfb
+- https://github.com/SherifEldeeb/TinyMet/
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
