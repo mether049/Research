@@ -1,3 +1,4 @@
+※OSINT以外につても当該ページにまとめる可能性あり
 # OSINT Tools
 ### OS/VM
 
@@ -8,7 +9,7 @@
 |[Tails](https://tails.boum.org/)|インターネットはTorを経由only<br>USBやDVDからの起動を前提|
 |[Qubes OS](https://www.qubes-os.org/)|Xenを利用して全てのアプリケーションを独立して実行<br>Template VMにwhonixを利用することができ，より匿名性を高めることが可<br>Template VMは複数のOS(Windows,Fedora,Whonix,Debian,etc.)を同時に利用することが可|
 
-### General Tools
+### Tools
 - [Maltego](https://www.paterva.com/downloads.php)
 - [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
@@ -29,6 +30,7 @@
 - [Sifter](https://github.com/s1l3nt78/sifter)
 - [vps_setup for recon](https://github.com/nullenc0de/vps_setup/blob/master/offensive_script.sh)
 - [crtsh](https://github.com/knqyf263/crtsh)
+- [GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python)
 
 # Crawler
 ### malware
