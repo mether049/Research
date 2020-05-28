@@ -294,6 +294,15 @@ cert:""
 ```
 protocol=="cobaltstrike"
 ```
+# Twitter
+- 期間の指定(JST)
+```
+since:2020/05/28_00:00:00_JST until:2020/05/28_23:59:59_JST
+```
+- 特定ユーザからツイート，特定ユーザへのツイートを除外
+```
+-from:@hoge -to:@huga
+```
 
 ### Reference
 - [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
