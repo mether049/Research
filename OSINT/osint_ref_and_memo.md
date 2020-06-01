@@ -195,6 +195,7 @@
 - https://github.com/ProIntegritate/Yara-rules
 - https://github.com/k-vitali/Malware-Misc-RE
 - https://gist.github.com/JohnLaTwC
+
 ## tools
 - yara関連(rule生成や検索)のツール
     - [yara-signator](https://github.com/fxb-cocacoding/yara-signator)
@@ -221,6 +222,7 @@
 - https://github.com/caschnee/misp-use-cases/blob/master/MISP_use_cases_detailed.png
 - https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/
 - https://twitter.com/mark_valenzia/status/1258689477460889600
+- https://www.amanhardikar.com/mindmaps/webapptest.html
 
 # Cheet Sheet
 ### shodan
