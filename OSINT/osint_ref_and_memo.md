@@ -195,7 +195,8 @@
 - https://github.com/ProIntegritate/Yara-rules
 - https://github.com/k-vitali/Malware-Misc-RE
 - https://gist.github.com/JohnLaTwC
-
+- https://github.com/InQuest/yara-rules
+- https://github.com/InQuest/awesome-yara
 ## tools
 - yara関連(rule生成や検索)のツール
     - [yara-signator](https://github.com/fxb-cocacoding/yara-signator)
