@@ -205,6 +205,7 @@
     - [mquery](https://github.com/CERT-Polska/mquery/)
         - Public Version(http://mquery.net/)
     - [PasteHunter](https://github.com/kevthehermit/PasteHunter)
+    - [INQUEST LABS](https://labs.inquest.net/tools/yara/b64-regexp-generator)
 
 # IoC source
 - https://github.com/StrangerealIntel/CyberThreatIntel
