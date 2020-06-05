@@ -185,6 +185,7 @@
 |[CRDF Threat Ceneter](https://threatcenter.crdf.fr/)|domain,url,hash,keyword|〇||
 |[AZORult Tracker](https://azorult-tracker.net/)|domain,ip,as,status,etc.|〇|AZORultのc2トラッカー|
 |[domain tools](https://whois.domaintools.com/)|domain,ip|〇||
+|[Domain history checker](https://whoisrequest.com/history/)|domain,ip|〇||
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
