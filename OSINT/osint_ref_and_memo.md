@@ -198,6 +198,11 @@
 - ref:
     - [The Best Reason for Domain Name Privacy Services](https://giga.law/blog/2019/12/11/best-reason-domain-privacy-services)
 
+# Recon
+### VPN
+- ref:
+    - [Which VPN Providers Really Take Anonymity Seriously in 2020?](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
+
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
 - [malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
@@ -321,7 +326,6 @@ since:2020/05/28_00:00:00_JST until:2020/05/28_23:59:59_JST
 ```
 -from:@hoge -to:@huga
 ```
-
 ### Reference
 - [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [The Ultimate List of SANS Cheat Sheet](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
