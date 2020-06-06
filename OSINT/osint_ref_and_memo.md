@@ -191,6 +191,7 @@
 |[Domain history checker](https://whoisrequest.com/history/)|domain,ip|〇||
 |[Firefox Monitor](https://monitor.firefox.com/)|email|||
 |[have i been pwned?](https://haveibeenpwned.com/)|email|〇||
+|[DropCatch.com](https://www.dropcatch.com/)|domain||ドロップキャッチドメインの検索|
 
 # whois
 ### Domain privacy (Whois privacy) 
