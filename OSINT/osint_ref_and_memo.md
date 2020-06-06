@@ -194,7 +194,9 @@
 
 # whois
 ### Domain privacy (Whois privacy) 
-- ドメインを登録するときに，Registrantの情報(人物・組織名，電話番号，メールアドレス，住所など)をRegistrarが用意した情報に置き換えて公開するしプライバシーを保護するサービス
+- ドメインを登録するときに，Registrantの情報(人物・組織名，電話番号，メールアドレス，住所など)をRegistrarが用意した情報に置き換えて公開しプライバシーを保護するサービス
+- ref:
+    - [The Best Reason for Domain Name Privacy Services](https://giga.law/blog/2019/12/11/best-reason-domain-privacy-services)
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
