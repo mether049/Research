@@ -87,12 +87,15 @@
     - pastesite検索用
         - https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e
         - https://netbootcamp.org/pastesearch.html#gsc.tab=0
+- 脆弱なサーバ(opendir,etc.)を見つけるための検索ワード集
+    - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+    
 ### Search for special symbols
 - Googleでは`@＃$％^＆*（）= + [] \`の記号は無視される
 - **[SymbolHound](http://symbolhound.com/advanced.php)**
   - Google検索と比較して記号を用いた検索が可能だが，インデックスされてるページが少ない印象
 
-# Domain, IP, URL, File hash, CVE Research
+# Domain, IP, URL, File hash, CVE, email Research
 - ※空欄は調査中(更新予定)
 
 |name|input|API|remarks|
@@ -186,6 +189,12 @@
 |[AZORult Tracker](https://azorult-tracker.net/)|domain,ip,as,status,etc.|〇|AZORultのc2トラッカー|
 |[domain tools](https://whois.domaintools.com/)|domain,ip|〇||
 |[Domain history checker](https://whoisrequest.com/history/)|domain,ip|〇||
+|[Firefox Monitor](https://monitor.firefox.com/)|email|||
+|[have i been pwned?](https://haveibeenpwned.com/)|email|〇||
+
+# whois
+### Domain privacy (Whois privacy) 
+- ドメインを登録するときに，Registrantの情報(人物・組織名，電話番号，メールアドレス，住所など)をRegistrarが用意した情報に置き換えて公開するしプライバシーを保護するサービス
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
@@ -220,6 +229,7 @@
 - https://gist.github.com/sysgoblin
 - https://github.com/eset/malware-ioc
 - https://github.com/jstrosch/malware-samples
+- https://github.com/threatrack/cti_report_collection
 
 # MindMaps
 - https://github.com/sbousseaden/Slides/tree/master/Hunting%20MindMaps
@@ -313,6 +323,7 @@ since:2020/05/28_00:00:00_JST until:2020/05/28_23:59:59_JST
 ### Reference
 - [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [The Ultimate List of SANS Cheat Sheet](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
+- [XSS without HTML: Client-Side Template Injection with AngularJS](https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs)
 
 # Corpus
 - https://vx-underground.org/packs.html
