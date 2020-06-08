@@ -60,6 +60,8 @@
 - [Twitter@Arkbird_SOLG](https://twitter.com/Arkbird_SOLG/status/1263105040643878914)
 > - Recent maldoc which targets Japan people, the picture used is from a sample picture for the passport, this remembers oceanlotus group at used it similar samples for their fakes CV.
 > - https://app.any.run/tasks/90643f1b-1725-4666-afa6-d8934bf31f57/
+- ref:
+  - https://s7d2.scene7.com/is/content/cylance/prod/cylance-web/en-us/resources/knowledge-center/resource-library/white-papers/OceanLotus-Steganography-Malware-Analysis-White-Paper.pdf
 ## Taidoor
 
 ## ref about apt group:
