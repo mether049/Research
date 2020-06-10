@@ -11,6 +11,8 @@
 
 ### Tools
 - [Maltego](https://www.paterva.com/downloads.php)
+    - Maltegoのチュートリアル
+         - [Tutorial](https://www.maltego.com/categories/tutorial/)
 - [FinalRecon](https://github.com/thewhiteh4t/FinalRecon)
 - [Recon-ng](https://github.com/lanmaster53/recon-ng)
 - [OWASP Maryam](https://github.com/saeeddhqan/Maryam)
