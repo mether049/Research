@@ -196,6 +196,8 @@
 |[DropCatch.com](https://www.dropcatch.com/)|domain||ドロップキャッチドメインの検索|
 
 # whois
+- ref:
+  - [Harvesting Whois Data for OSINT](https://webbreacher.com/2016/08/09/harvesting-whois-data-for-osint-using-viewdns-info/)
 ### Domain privacy (Whois privacy) 
 - ドメインを登録するときに，Registrantの情報(人物・組織名，電話番号，メールアドレス，住所など)をRegistrarが用意した情報に置き換えて公開しプライバシーを保護するサービス
 - ref:
