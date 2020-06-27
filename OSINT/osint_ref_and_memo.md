@@ -35,6 +35,12 @@
 - [crtsh](https://github.com/knqyf263/crtsh)
 - [GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python)
 - [theHarvester](https://github.com/laramies/theHarvester)
+- [Creepy](https://www.geocreepy.com/)
+   - 各種SNSから地理的情報を取得
+- [WebShag](https://www.openvas.org/)
+   - Port Scan,URL Scan ,Crawler, File Fuzzing
+- [OpenVAS](https://github.com/wereallfeds/webshag)
+   - OSSの脆弱性スキャナー
 
 # Crawler
 ### malware
