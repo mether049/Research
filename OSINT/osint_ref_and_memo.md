@@ -29,10 +29,12 @@
 - [Mimir](https://github.com/deadbits/mimir)
 - [spiderfoot](https://github.com/smicallef/spiderfoot)
 - [OSINT Framework](https://osintframework.com/)
+  - ツリー構造になっており目的合わせてノードを選択することで必要なOSINTツールやサイトを探すことが可能
 - [Sifter](https://github.com/s1l3nt78/sifter)
 - [vps_setup for recon](https://github.com/nullenc0de/vps_setup/blob/master/offensive_script.sh)
 - [crtsh](https://github.com/knqyf263/crtsh)
 - [GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python)
+- [theHarvester](https://github.com/laramies/theHarvester)
 
 # Crawler
 ### malware
@@ -49,6 +51,9 @@
 - filetype:
     - ファイル形式を指定して検索
 > filetype:pdf
+- ext:
+    - 拡張子を指定して検索
+> ext:log
 - site:
     - ドメインを指定(サブドメイン，TLD，SLD，path，etc.)して検索
 > site:exmaple.com
@@ -83,6 +88,8 @@
 - cache:
     - キャッシュの検索
 > chache:example.com
+- ref:
+ - [advanced_operators_reference@googleguide.com](http://www.googleguide.com/advanced_operators_reference.html)
 - Custom Google検索集
     - マルウェア検索用
         - [Decalage](http://decalage.info/mwsearch#gsc.tab=0)
@@ -97,7 +104,7 @@
 - **[SymbolHound](http://symbolhound.com/advanced.php)**
   - Google検索と比較して記号を用いた検索が可能だが，インデックスされてるページが少ない印象
 
-# Domain, IP, URL, File hash, CVE, email Research
+# Domain, IP, URL, File hash, CVE, email, Name, etc. Research
 - ※空欄は調査中(更新予定)
 
 |name|input|API|remarks|
@@ -194,6 +201,10 @@
 |[Firefox Monitor](https://monitor.firefox.com/)|email|||
 |[have i been pwned?](https://haveibeenpwned.com/)|email|〇||
 |[DropCatch.com](https://www.dropcatch.com/)|domain||ドロップキャッチドメインの検索|
+|[CheckUserNames](https://checkusernames.com/)|username|||
+|[BeenVerified](https://www.beenverified.com/)|name,username,phone number,Address,VIN,email||multiple databases, bankruptcy records, career history, social media profiles and even online photosから得られる情報をレポート|
+|[builtwith](https://builtwith.com/ja/)|url,keyword|〇|webサイトで使われれている技術(CMS,ソフトウェア,フォント,広告,etc)を調べることが可能|
+|||||
 
 # whois
 - ref:
