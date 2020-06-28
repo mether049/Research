@@ -213,8 +213,8 @@
 |[CheckUserNames](https://checkusernames.com/)|username|||
 |[BeenVerified](https://www.beenverified.com/)|name,username,phone number,Address,VIN,email||multiple databases, bankruptcy records, career history, social media profiles and even online photosから得られる情報をレポート|
 |[builtwith](https://builtwith.com/ja/)|url,keyword|〇|webサイトで使われれている技術(CMS,ソフトウェア,フォント,広告,etc)を調べることが可能|
-|||||
-
+|[BGPView](https://bgpview.io/)|AS number,IP|〇|AS関連の調査|
+|[IPWatson](https://www.ipwatson.com/|domain ip||ハックされたサイト関連の情報あり|
 # whois
 - ref:
   - [Harvesting Whois Data for OSINT](https://webbreacher.com/2016/08/09/harvesting-whois-data-for-osint-using-viewdns-info/)
