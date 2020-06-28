@@ -113,6 +113,11 @@
 - **[SymbolHound](http://symbolhound.com/advanced.php)**
   - Google検索と比較して記号を用いた検索が可能だが，インデックスされてるページが少ない印象
 
+# Regular expression
+- [regexr.com](https://regexr.com/)
+   - 正規表現を検証するためのオンラインサービス
+
+
 # Domain, IP, URL, File hash, CVE, email, Name, etc. Research
 - ※空欄は調査中(更新予定)
 
@@ -214,7 +219,10 @@
 |[BeenVerified](https://www.beenverified.com/)|name,username,phone number,Address,VIN,email||multiple databases, bankruptcy records, career history, social media profiles and even online photosから得られる情報をレポート|
 |[builtwith](https://builtwith.com/ja/)|url,keyword|〇|webサイトで使われれている技術(CMS,ソフトウェア,フォント,広告,etc)を調べることが可能|
 |[BGPView](https://bgpview.io/)|AS number,IP|〇|AS関連の調査|
-|[IPWatson](https://www.ipwatson.com/|domain ip||ハックされたサイト関連の情報あり|
+|[IPWatson](https://www.ipwatson.com/|domain ip|〇|ハックされたサイトかどうかの情報あり|
+|[Wappalyzer](https://www.wappalyzer.com/lookup)|url|〇|Webサイトで使われている技術情報を調べることが可能|
+|[ICAN CZDS](https://czds.icann.org/home)||||ゾーンファイルの取得関連|
+
 # whois
 - ref:
   - [Harvesting Whois Data for OSINT](https://webbreacher.com/2016/08/09/harvesting-whois-data-for-osint-using-viewdns-info/)
