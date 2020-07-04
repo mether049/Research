@@ -277,6 +277,7 @@
 - https://www.marcolancini.it/2018/blog-hacker-playbook-mindmap/
 - https://twitter.com/mark_valenzia/status/1258689477460889600
 - https://www.amanhardikar.com/mindmaps/webapptest.html
+- https://webbreacher.com/2018/07/12/osint-map/
 
 # Cheet Sheet
 ### shodan
