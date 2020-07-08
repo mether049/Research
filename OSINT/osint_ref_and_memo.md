@@ -386,3 +386,4 @@ since:2020/05/28_00:00:00_JST until:2020/05/28_23:59:59_JST
     - OSINTに有用なWebサイトをまとめたBookmarkを提供
 - [普段の調査で利用するOSINTまとめ,qiita,2020-03](https://qiita.com/00001B1A/items/4d8ceb53993d3217307e)
 - ["Must Have" Free Resources for Open-Source Intelligence (OSINT)](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
+- [脅威インテリジェンスの教科書](https://www.slideshare.net/tomohisaishikawa/ss-236323562)
