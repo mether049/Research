@@ -4,9 +4,12 @@
 - https://twitter.com/campuscodi/status/1039531511144431616
 - ![](https://pbs.twimg.com/media/Dmz6o_7W0AEk_Iz?format=jpg&name=large)
 
-## AgentTesla
+## Agent Tesla
 - https://twitter.com/wwp96/status/1232323995933929474/photo/1
 - ![](https://pbs.twimg.com/media/ERoYI8JWsAY7roZ?format=png&name=900x900)
+- https://www.zscaler.com/blogs/research/agent-tesla-keylogger-delivered-using-cybersquatting
+- Agent TeslaのConfiguration Panel
+- ![](https://www.zscaler.com/cdn-cgi/image/format=auto/sites/default/files/images/blogs/Agent-Tesla-keylogger.png)
 
 ## Loki Bot
 - https://twitter.com/MalWebHunter/status/960629131011477504/photo/1
