@@ -1,7 +1,6 @@
 ※OSINT以外につても当該ページにまとめる可能性あり
 # OSINT Tools
 ### OS/VM
-
 |OS/VM|remarks|
 |:-|:-|
 |[Buscador OSINT VM](https://inteltechniques.com/buscador/)|IntelTechniques提供<br>Buscador(ブスカドル，スペイン語：先駆者・開拓者)<br>多くのOSINTツールが実装されたOSINT用のVM|
@@ -222,6 +221,8 @@
 |[IPWatson](https://www.ipwatson.com/)|domain ip|〇|ハックされたサイトかどうかの情報あり|
 |[Wappalyzer](https://www.wappalyzer.com/lookup)|url|〇|Webサイトで使われている技術情報を調べることが可能|
 |[ICAN CZDS](https://czds.icann.org/home)||||ゾーンファイルの取得関連|
+|[RIPEstat](https://stat.ripe.net/)|ip,asn,country code,host|〇|ip address prefixの変化やrouting historyの調査等に利用可能<br>[Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)|
+|[RIPE Database Query](https://apps.db.ripe.net/db-web-ui/query)|keyword(e.g AS210138)|〇|asnに関する超等に利用可能<br>[Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)|
 
 # whois
 - ref:
