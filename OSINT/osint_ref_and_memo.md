@@ -249,6 +249,7 @@
 - https://gist.github.com/JohnLaTwC
 - https://github.com/InQuest/yara-rules
 - https://github.com/InQuest/awesome-yara
+- https://github.com/reversinglabs/reversinglabs-yara-rules
 ## tools
 - yara関連(rule生成や検索)のツール
     - [yara-signator](https://github.com/fxb-cocacoding/yara-signator)
