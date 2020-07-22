@@ -104,8 +104,14 @@
     - pastesite検索用
         - https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e
         - https://netbootcamp.org/pastesearch.html#gsc.tab=0
-- 脆弱なサーバ(opendir,etc.)を見つけるための検索ワード集
-    - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+- Goorle Dorks(Google Hacking)
+    - Google検索等を利用してGoogleにindexされた脆弱なシステムを探したり，必要な情報を入手するための技術や検索クエリ
+     - 例：Opendir,機密情報・システムの設定情報・他不適切に公開されているファイル，IoT機器やサーバのログイン画面，特定の脆弱性の対象となるサーバ，etc.
+    - ref:
+        - [Google Hacking Database](https://www.exploit-db.com/google-hacking-database)
+        - [Listing of a number of useful Google dorks.](https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc)
+        - [Google Dorksを使った脆弱なサービスの検索方法－２](https://infoshield.co.jp/blog/security-news/20200221-701/)
+        - [Find Vulnerable Services & Hidden Info Using Google Dorks \[Tutorial\]](https://www.youtube.com/watch?v=u_gOnwWEXiA)
     
 ### Search for special symbols
 - Googleでは`@＃$％^＆*（）= + [] \`の記号は無視される
