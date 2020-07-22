@@ -104,7 +104,7 @@
     - pastesite検索用
         - https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e
         - https://netbootcamp.org/pastesearch.html#gsc.tab=0
-- Goorle Dorks(Google Hacking)
+- Google Dorks(Google Hacking)
     - Google検索等を利用してGoogleにindexされた脆弱なシステムを探したり，必要な情報を入手するための技術や検索クエリ
      - 例：Opendir,機密情報・システムの設定情報・他不適切に公開されているファイル，IoT機器やサーバのログイン画面，特定の脆弱性の対象となるサーバ，etc.
     - ref:
