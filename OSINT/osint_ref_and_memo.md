@@ -253,6 +253,21 @@
 - ref:
     - [User-Friendly Loaders and Crypters Simplify Intrusions and Malware Delivery](https://www.recordedfuture.com/user-friendly-loaders-crypters/)
 
+# Bulletproof hosting
+- 特徴:
+    - 物理的な差し押さえなどを回避するために，核シェルター，独立国家などの特殊なデータセンターにサーバが設置されることがある
+        - その国の情勢，政治などの変化の影響をうけて，Bulletproof hostingのサービスが提供できなくなることもある
+    - 支払いに仮想通貨が利用できる
+    - メールやパスワードのみで利用できることもある
+    - DMCA（米デジタルミレニアム著作権法）を無視すると明記されると記載されている
+    - 会社の住所・実態がない
+    - サービス内容の割りには高額
+- 利用例：
+    - c2サーバ，スパム配信サーバ，海賊版サイト，児童ポルノサイト，Torrentサイト，反政府サイト
+- ref:
+    - [海賊版サイト問題の解決を阻む「防弾ホスティング」その歴史から現在までを読み解く](https://www.itmedia.co.jp/news/articles/1901/17/news013.html)
+    - [Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)
+
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
 - [malpedia](https://malpedia.caad.fkie.fraunhofer.de/)
@@ -266,6 +281,7 @@
 - https://github.com/InQuest/yara-rules
 - https://github.com/InQuest/awesome-yara
 - https://github.com/reversinglabs/reversinglabs-yara-rules
+
 ## tools
 - yara関連(rule生成や検索)のツール
     - [yara-signator](https://github.com/fxb-cocacoding/yara-signator)
