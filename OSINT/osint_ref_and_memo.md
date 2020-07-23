@@ -243,10 +243,10 @@
 - ref:
     - [Which VPN Providers Really Take Anonymity Seriously in 2020?](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
     
-# Forum
+# Forum/Darkweb
 - [DDIR](https://github.com/nenaiko-dareda/DDIR)
-    - Darknetリサーチ向けのオープンソースのデータセット
-    - 機械学習による違法サイトの自動検知などに活用できる
+    - Darkwebリサーチ向けのオープンソースのデータセット
+    - 機械学習による違法サイトの自動検出などに活用できる
     - 4340の.onion sitesをクロールしてデータを収集(41%くらいが違法サイト)
         - 不正な薬物,サイバー攻撃請負,偽のクレカ,児童ポルノ,海賊版販売,犯罪行為(マネロンなど)
     - [\[CODE BLUE 2019\]DDIR: ダークウェブの研究を目的としたオープンソースデータセット\[レポート\]](https://dev.classmethod.jp/articles/code-blue-2019-d1-blue-1550/)
