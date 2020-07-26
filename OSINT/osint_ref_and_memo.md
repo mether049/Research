@@ -229,6 +229,7 @@
 |[ICAN CZDS](https://czds.icann.org/home)||||ゾーンファイルの取得関連|
 |[RIPEstat](https://stat.ripe.net/)|ip,asn,country code,host|〇|ip address prefixの変化やrouting historyの調査等に利用可能<br>[Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)|
 |[RIPE Database Query](https://apps.db.ripe.net/db-web-ui/query)|keyword(e.g AS210138)||asnに関する超等に利用可能<br>[Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)|
+|[dnstwister](https://dnstwister.report/)|domain||類似ドメインの検索|
 
 # whois
 - ref:
