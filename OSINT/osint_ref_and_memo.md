@@ -253,6 +253,8 @@
     - [\[CODE BLUE 2019\]DDIR: ダークウェブの研究を目的としたオープンソースデータセット\[レポート\]](https://dev.classmethod.jp/articles/code-blue-2019-d1-blue-1550/)
 - ref:
     - [User-Friendly Loaders and Crypters Simplify Intrusions and Malware Delivery](https://www.recordedfuture.com/user-friendly-loaders-crypters/)
+    - [TRADING IN THE DARK](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/trading-in-the-dark)
+    - [HACKER INFRASTRUCTURE AND UNDERGROUND HOSTING 101](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/hacker-infrastructure-and-underground-hosting-101-where-are-cybercriminal-platforms-offered?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0720_HostingInfra)
 
 # Bulletproof hosting
 - 特徴:
