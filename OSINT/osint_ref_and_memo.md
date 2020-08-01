@@ -277,6 +277,10 @@
     - [海賊版サイト問題の解決を阻む「防弾ホスティング」その歴史から現在までを読み解く](https://www.itmedia.co.jp/news/articles/1901/17/news013.html)
     - [Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)
     - https://weboas.is/media/host.txt
+    - [OffshoreVPS - list of VPS providers around the world](http://offshorevps.org/)
+        - オフショアVPS list
+    - [VPS hosts that accept Bitcoin](http://cryto.net/~joepie91/bitcoinvps.html)
+        - bitcoinでの支払いが可能なVPS list
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
