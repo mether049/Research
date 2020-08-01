@@ -48,7 +48,7 @@
 - [cloudsnare](https://gist.github.com/chokepoint/28bed027606c5086ed9eeb274f3b840a)
 - [CloudBunny](https://github.com/Warflop/CloudBunny)
 - [Bypass firewalls by abusing DNS history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history)
-    -ref:
+    - ref:
         - [オリジンIPの特定によるクラウド型WAFのバイパス](https://akaki.io/2019/cloud-waf_bypass)
 
 # Crawler
