@@ -276,6 +276,7 @@
 - ref:
     - [海賊版サイト問題の解決を阻む「防弾ホスティング」その歴史から現在までを読み解く](https://www.itmedia.co.jp/news/articles/1901/17/news013.html)
     - [Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)
+    - https://weboas.is/media/host.txt
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
