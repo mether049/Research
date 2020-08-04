@@ -238,6 +238,7 @@
 |[dnstwister](https://dnstwister.report/)|domain||類似ドメインの検索|
 |[Netcraft](https://sitereport.netcraft.com/)|url|||
 |[ViewDNS.info](https://viewdns.info/iphistory/)|domain|〇||
+|[CrimeFlare](http://www.crimeflare.org:82/cfs.html)|domain|〇||
 
 # whois
 - ref:
