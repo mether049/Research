@@ -308,6 +308,7 @@
         - Public Version(http://mquery.net/)
     - [PasteHunter](https://github.com/kevthehermit/PasteHunter)
     - [INQUEST LABS](https://labs.inquest.net/tools/yara/b64-regexp-generator)
+    - [VT Code Similarity Yara Generator](https://github.com/arieljt/VTCodeSimilarity-YaraGen)
 
 # IoC source
 - https://github.com/StrangerealIntel/CyberThreatIntel
