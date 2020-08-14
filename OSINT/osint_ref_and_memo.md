@@ -240,6 +240,7 @@
 |[ViewDNS.info](https://viewdns.info/iphistory/)|domain|〇||
 |[CrimeFlare](http://www.crimeflare.org:82/cfs.html)|domain|〇||
 |[hacker target](https://hackertarget.com/ip-tools/)|ip,domain,url|〇|Scan系，DNS系，Web系の多くのtoolがFreeで利用可能|
+|[BinaryEdge](https://www.binaryedge.io/)||〇||
 
 # whois
 - ref:
