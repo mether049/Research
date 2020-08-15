@@ -416,6 +416,7 @@ since:2020/05/28_00:00:00_JST until:2020/05/28_23:59:59_JST
 ```
 
 ### VirusTotal
+- [File search modifiers](https://support.virustotal.com/hc/en-us/articles/360001385897-Search-modifiers)
 - コードブロックを共有するサンプルのリストを取得
 ```
 code-similar-to:[hash]
