@@ -421,6 +421,10 @@ since:2020/05/28_00:00:00_JST until:2020/05/28_23:59:59_JST
 ```
 code-similar-to:[hash]
 ```
+- 類似したファイルアイコンやテンプレート(doc等)を検索
+```
+main_icon_dhash:[hash]
+```
 ### Others
 - [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [The Ultimate List of SANS Cheat Sheet](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/)
