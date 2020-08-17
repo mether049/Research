@@ -348,6 +348,10 @@ ssl.cert.serial:
 ```
 ssl.cert.fingerprint:
 ```
+- favicon hash(favicon->base64 encode->Murmur hash)の検索
+```
+http.favicon.hash:
+```
 - shodan-cliの検索
 ```
 shodan search --fields ip_str '${query}' --limit 1000 | cat 
