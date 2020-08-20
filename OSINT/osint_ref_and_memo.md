@@ -241,6 +241,8 @@
 |[CrimeFlare](http://www.crimeflare.org:82/cfs.html)|domain|〇||
 |[hacker target](https://hackertarget.com/ip-tools/)|ip,domain,url|〇|Scan系，DNS系，Web系の多くのtoolがFreeで利用可能|
 |[BinaryEdge](https://www.binaryedge.io/)||〇||
+|[phishunt.io](https://phishunt.io/)||||
+|[ipinfo.io](https://ipinfo.io/)|ip,asn|〇|type(ipsやbuisiness,etc),privacy(tor,proxy,vpn,hosting)判定してくれるのは便利|
 
 # whois
 - ref:
