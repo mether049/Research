@@ -437,6 +437,26 @@ main_icon_dhash:[hash]
 - [XSS without HTML: Client-Side Template Injection with AngularJS](https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs)
 - [matplotlib](https://github.com/matplotlib/cheatsheets)
 
+# TLP
+- 機密情報を確実に適切な組織または人に共有するために使われる一連の標示
+- 件名と本文にTLPの色情報(大文字)を記載
+- 文書などに適用する場合は，各ページのヘッダー，フッターにTLPの色情報を記載する(右側推奨)
+- TLPの色情報は大文字かつ12ポイント以上で記載する必要がある
+- TLP:RED
+    - 公開不可，関係者限り
+    - 会議や会話に実際に参加した人のみ
+- TLP:AMBER
+    - 限定公開，関係者が所属する組織内で共有可能
+    - 所属組織内，クライアント，顧客等
+    - 範囲は情報公開者が指定できる
+- TLP:GREEN
+    - 限定公開，コミュニティ内で共有可能
+    - 所属組織内，所属コミュニティ内，パートナー組織等
+- TLP:WHITE
+    - 制限なく共有可能
+- ref:
+    - [TRAFFIC LIGHT PROTOCOL (TLP)](https://www.jpcert.or.jp/research/FIRST-TLP.html)
+
 # Corpus
 - https://vx-underground.org/packs.html
 - https://github.com/ytisf/theZoo
