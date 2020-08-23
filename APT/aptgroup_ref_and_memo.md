@@ -15,6 +15,7 @@
 **ref**
 - [TA505 Threat Group Profiling(English Version) ](https://www.fsec.or.kr/user/bbs/fsec/163/344/bbsDataView/1382.do?page=1&column=&search=&searchSDate=&searchEDate=&bbsDataCategory=)<br>
 - [A brief history of TA505](https://blog.intel471.com/2020/05/21/a-brief-history-of-ta505/)
+- https://twitter.com/MaartenVDantzig/status/1278688741788450819
 
 ## TA544
 
