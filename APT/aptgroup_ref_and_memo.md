@@ -36,6 +36,13 @@
 > - [February 14, 2020: Malware Analysis Report (10271944-3.v1) – North Korean Trojan: BUFFETLINE](https://www.us-cert.gov/ncas/analysis-reports/ar20-045f)<br>
 > - [February 14, 2020: Malware Analysis Report (10135536-8.v4) – North Korean Trojan: HOPLIGHT](https://www.us-cert.gov/ncas/analysis-reports/ar20-045g)<br>
 
+- ref:
+  - [Threat Intelligence Report: Lazarus Group Campaign Targeting the Cryptocurrency Vertical](https://labs.f-secure.com/publications/ti-report-lazarus-group-cryptocurrency-vertical)
+    - [Japanese ver](https://www.f-secure.com/jp-ja/press/p/20200826-lazarus-group-jp)
+  - [Lazarus Under The Hood](https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2018/03/07180244/Lazarus_Under_The_Hood_PDF_final.pdf)
+  - [FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks](https://us-cert.cisa.gov/ncas/alerts/aa20-239a)
+  - [038686-US-Army-report-on-North-Korean-military](http://www.documentcloud.org/documents/7038686-US-Army-report-on-North-Korean-military.html)
+  - [Operation Blockbuster](https://operationblockbuster.com/)
 ## hydseven
 
 ## Tick
