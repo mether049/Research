@@ -43,6 +43,7 @@
   - [FASTCash 2.0: North Korea's BeagleBoyz Robbing Banks](https://us-cert.cisa.gov/ncas/alerts/aa20-239a)
   - [038686-US-Army-report-on-North-Korean-military](http://www.documentcloud.org/documents/7038686-US-Army-report-on-North-Korean-military.html)
   - [Operation Blockbuster](https://operationblockbuster.com/)
+  - [Operation ‘Dream Job’ Widespread North Korean Espionage Campaign](https://www.clearskysec.com/operation-dream-job/)
 ## hydseven
 
 ## Tick
