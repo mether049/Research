@@ -44,6 +44,8 @@
   - [038686-US-Army-report-on-North-Korean-military](http://www.documentcloud.org/documents/7038686-US-Army-report-on-North-Korean-military.html)
   - [Operation Blockbuster](https://operationblockbuster.com/)
   - [Operation ‘Dream Job’ Widespread North Korean Espionage Campaign](https://www.clearskysec.com/operation-dream-job/)
+  - [APT38 Unusual Suspects](https://content.fireeye.com/apt/rpt-apt38)
+  - [The Lazarus Constellation 19/02/2020 A study on North Korean malware](https://blog.lexfo.fr/ressources/Lexfo-WhitePaper-The_Lazarus_Constellation.pdf)
 ## hydseven
 
 ## Tick
