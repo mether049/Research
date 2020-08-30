@@ -243,6 +243,7 @@
 |[BinaryEdge](https://www.binaryedge.io/)||〇||
 |[phishunt.io](https://phishunt.io/)||||
 |[ipinfo.io](https://ipinfo.io/)|ip,asn|〇|type(ipsやbuisiness,etc),privacy(tor,proxy,vpn,hosting)判定してくれるのは便利|
+|[Internet Health Report](https://ihr.iijlab.net/ihr/en-us)|asn,ixp|〇|https://eng-blog.iij.ad.jp/archives/6345|
 
 # whois
 - ref:
@@ -269,6 +270,8 @@
     - [TRADING IN THE DARK](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/trading-in-the-dark)
     - [HACKER INFRASTRUCTURE AND UNDERGROUND HOSTING 101](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/hacker-infrastructure-and-underground-hosting-101-where-are-cybercriminal-platforms-offered?utm_source=trendmicroresearch&utm_medium=smk&utm_campaign=0720_HostingInfra)
     - https://www.youtube.com/channel/UCOlAvnPulOZBKnuEfIXM3OA/videos
+    - [Memex – DARPA’s search engine for the Dark Web](https://nakedsecurity.sophos.com/2015/02/16/memex-darpas-search-engine-for-the-dark-web/)
+        - DARPAが開発しているDarkWeb用検索エンジン「Memex」について
 
 # Bulletproof hosting
 - 特徴:
@@ -289,6 +292,8 @@
         - オフショアVPS list
     - [VPS hosts that accept Bitcoin](http://cryto.net/~joepie91/bitcoinvps.html)
         - bitcoinでの支払いが可能なVPS list
+    - [ASwatch: An AS Reputation System to Expose Bulletproof Hosting ASes@SIGCOM 15](https://cybersecurity.uga.edu/publications/5-6-2_ASwatch_camera.pdf)
+    - [Criminal Abuse in RIPE IP space](https://ripe77.ripe.net/presentations/134-RIPE77_Anti_Abuse_WG.pdf)
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
