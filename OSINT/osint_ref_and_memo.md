@@ -244,6 +244,7 @@
 |[phishunt.io](https://phishunt.io/)||||
 |[ipinfo.io](https://ipinfo.io/)|ip,asn|〇|type(ipsやbuisiness,etc),privacy(tor,proxy,vpn,hosting)判定してくれるのは便利|
 |[Internet Health Report](https://ihr.iijlab.net/ihr/en-us)|asn,ixp|〇|https://eng-blog.iij.ad.jp/archives/6345|
+|[ipip.net](https://en.ipip.net/)|ip|||
 
 # whois
 - ref:
