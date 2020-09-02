@@ -397,6 +397,8 @@ curl -XPOST https://api.zoomeye.org/user/login -d '{"username":"${email}","passw
 ```
 curl -X GET https://api.zoomeye.org/host/search?query='"${query}"&page=1' -H "Authorization: JWT ${tokenid}"
 ```
+-ref:
+    - [利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架](https://paper.seebug.org/1301/)
 ### Fofa
 - または
 ```
