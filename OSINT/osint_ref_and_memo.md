@@ -366,6 +366,8 @@ http.favicon.hash:
 ```
 shodan search --fields ip_str '${query}' --limit 1000 | cat 
 ```
+- ref:
+    - [SCANdalous!（ネットワークスキャンデータと自動化を用いた外部検知）](https://www.fireeye.jp/blog/jp-threat-research/2020/07/scandalous-external-detection-using-network-scan-data-and-automation.html)
 ### Censys
 - または
 ```
