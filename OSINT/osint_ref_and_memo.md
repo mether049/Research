@@ -492,3 +492,4 @@ main_icon_dhash:[hash]
 - ["Must Have" Free Resources for Open-Source Intelligence (OSINT)](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
 - [脅威インテリジェンスの教科書](https://www.slideshare.net/tomohisaishikawa/ss-236323562)
 - [すぐ貢献できる！偽サイトの探索から通報まで](https://qiita.com/v_avenger/items/2eeef2d69c85eb1570e8)
+- https://blog.bushidotoken.net/2020/09/fantastic-apts-and-where-to-find-them.html
