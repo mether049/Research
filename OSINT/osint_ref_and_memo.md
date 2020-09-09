@@ -49,6 +49,8 @@
 - [Bypass firewalls by abusing DNS history](https://github.com/vincentcox/bypass-firewalls-by-DNS-history)
     - ref:
         - [オリジンIPの特定によるクラウド型WAFのバイパス](https://akaki.io/2019/cloud-waf_bypass)
+- [tafferugli](https://github.com/sowdust/tafferugli)
+    - twitter分析フレームワーク
 
 # Crawler
 ### malware
