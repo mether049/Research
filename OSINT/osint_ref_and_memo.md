@@ -345,6 +345,8 @@
 - https://www.amanhardikar.com/mindmaps/webapptest.html
 - https://webbreacher.com/2018/07/12/osint-map/
 
+- https://twitter.com/ReinH/status/1303800051802628096
+
 # Cheet Sheet
 ### shodan
 - 日付の検索(apiのみ)
