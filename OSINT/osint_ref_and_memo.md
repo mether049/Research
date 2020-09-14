@@ -290,6 +290,7 @@
     - https://www.youtube.com/channel/UCOlAvnPulOZBKnuEfIXM3OA/videos
     - [Memex – DARPA’s search engine for the Dark Web](https://nakedsecurity.sophos.com/2015/02/16/memex-darpas-search-engine-for-the-dark-web/)
         - DARPAが開発しているDarkWeb用検索エンジン「Memex」について
+    - https://twitter.com/AlecMuffett/status/989239019472027648
 
 # Bulletproof hosting
 - 特徴:
