@@ -314,6 +314,7 @@
         - bitcoinでの支払いが可能なVPS list
     - [ASwatch: An AS Reputation System to Expose Bulletproof Hosting ASes@SIGCOM 15](https://cybersecurity.uga.edu/publications/5-6-2_ASwatch_camera.pdf)
     - [Criminal Abuse in RIPE IP space](https://ripe77.ripe.net/presentations/134-RIPE77_Anti_Abuse_WG.pdf)
+    - [アンダーグラウンドで提供されるインフラとホスティングサービスの実情](https://blog.trendmicro.co.jp/archives/26252)
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
