@@ -47,6 +47,7 @@
   - [APT38 Unusual Suspects](https://content.fireeye.com/apt/rpt-apt38)
   - [The Lazarus Constellation 19/02/2020 A study on North Korean malware](https://blog.lexfo.fr/ressources/Lexfo-WhitePaper-The_Lazarus_Constellation.pdf)
   - [Partners in crime: North Koreans and elite Russian-speaking cybercriminals](https://public.intel471.com/blog/partners-in-crime-north-koreans-and-elite-russian-speaking-cybercriminals/)
+  - [攻撃グループLazarusが使用するマルウェアBLINDINGCAN](https://blogs.jpcert.or.jp/ja/2020/09/BLINDINGCAN.html)
 ## hydseven
 
 ## Tick
