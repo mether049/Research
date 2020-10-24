@@ -512,6 +512,7 @@ main_icon_dhash:[hash]
 - https://github.com/gbrindisi/malware/tree/master/windows/gozi-isfb
 - https://github.com/SherifEldeeb/TinyMet/
 - https://github.com/m0n0ph1/malware-1
+- https://github.com/FlatL1neAPT/Post-exploitation
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
