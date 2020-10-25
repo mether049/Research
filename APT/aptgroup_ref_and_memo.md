@@ -104,3 +104,6 @@
 - [Blueliv’s Threat Exchange Network](https://community.blueliv.com/#!/discover)
 - [Russian APT Ecosystem Map](https://apt-ecosystem.com/russia/map/)
 - [Cyber’s Most Wanted@FBI](https://www.fbi.gov/wanted/cyber)
+- [Here's a list of all the ransomware gangs who will steal and leak your data if you don't pay](https://www.zdnet.com/article/heres-a-list-of-all-the-ransomware-gangs-who-will-steal-and-leak-your-data-if-you-dont-pay/)
+- [MVISION Insights](https://www.mcafee.com/enterprise/en-us/lp/insights-preview.html)
+- [Chinese State-SponsoredActors Exploit Publicly Known Vulnerabilities](https://media.defense.gov/2020/Oct/20/2002519884/-1/-1/0/CSA_CHINESE_EXPLOIT_VULNERABILITIES_UOO179811.PDF)
