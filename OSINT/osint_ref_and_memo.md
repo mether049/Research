@@ -50,6 +50,7 @@
     - ref:
         - [オリジンIPの特定によるクラウド型WAFのバイパス](https://akaki.io/2019/cloud-waf_bypass)
 - [Malwoverview](https://github.com/alexandreborges/malwoverview)
+- [OSINT Recon Tool](https://recontool.org/#mindmap)
 
 ## SNS
 - [TweetDeck]()
