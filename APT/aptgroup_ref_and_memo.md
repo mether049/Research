@@ -49,6 +49,8 @@
   - [The Lazarus Constellation 19/02/2020 A study on North Korean malware](https://blog.lexfo.fr/ressources/Lexfo-WhitePaper-The_Lazarus_Constellation.pdf)
   - [Partners in crime: North Koreans and elite Russian-speaking cybercriminals](https://public.intel471.com/blog/partners-in-crime-north-koreans-and-elite-russian-speaking-cybercriminals/)
   - [攻撃グループLazarusが使用するマルウェアBLINDINGCAN](https://blogs.jpcert.or.jp/ja/2020/09/BLINDINGCAN.html)
+  - [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part One](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/)
+  - [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part Two](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic-part-two/)
 ## hydseven
 
 ## Tick
