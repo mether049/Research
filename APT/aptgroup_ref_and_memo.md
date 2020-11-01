@@ -51,6 +51,9 @@
   - [攻撃グループLazarusが使用するマルウェアBLINDINGCAN](https://blogs.jpcert.or.jp/ja/2020/09/BLINDINGCAN.html)
   - [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part One](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic/)
   - [Catching Lazarus: Threat Intelligence to Real Detection Logic - Part Two](https://labs.f-secure.com/blog/catching-lazarus-threat-intelligence-to-real-detection-logic-part-two/)
+  - [Unveiling the CryptoMimic](https://vblocalhost.com/conference/presentations/unveiling-the-cryptomimic/)
+  - https://twitter.com/blackorbird/status/1175966347211112448
+  - https://twitter.com/RedDrip7/status/1148887458152472576
 ## hydseven
 
 ## Tick
