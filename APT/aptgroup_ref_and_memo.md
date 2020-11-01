@@ -54,6 +54,7 @@
   - [Unveiling the CryptoMimic](https://vblocalhost.com/conference/presentations/unveiling-the-cryptomimic/)
   - https://twitter.com/blackorbird/status/1175966347211112448
   - https://twitter.com/RedDrip7/status/1148887458152472576
+  - [FASTCash and Associated Intrusion Techniques](https://norfolkinfosec.com/wp-content/uploads/2020/08/Perlow_BH_2020_FASTCash_paper.pdf)
 ## hydseven
 
 ## Tick
