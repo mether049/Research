@@ -527,3 +527,4 @@ main_icon_dhash:[hash]
 - [脅威インテリジェンスの教科書](https://www.slideshare.net/tomohisaishikawa/ss-236323562)
 - [すぐ貢献できる！偽サイトの探索から通報まで](https://qiita.com/v_avenger/items/2eeef2d69c85eb1570e8)
 - https://blog.bushidotoken.net/2020/09/fantastic-apts-and-where-to-find-them.html
+- https://jsac.jpcert.or.jp/archive/2020/pdf/JSAC2020_4_ogawa-niseki_jp.pdf
