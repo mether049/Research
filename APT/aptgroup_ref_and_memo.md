@@ -118,3 +118,4 @@
 - [Here's a list of all the ransomware gangs who will steal and leak your data if you don't pay](https://www.zdnet.com/article/heres-a-list-of-all-the-ransomware-gangs-who-will-steal-and-leak-your-data-if-you-dont-pay/)
 - [MVISION Insights](https://www.mcafee.com/enterprise/en-us/lp/insights-preview.html)
 - [Chinese State-SponsoredActors Exploit Publicly Known Vulnerabilities](https://media.defense.gov/2020/Oct/20/2002519884/-1/-1/0/CSA_CHINESE_EXPLOIT_VULNERABILITIES_UOO179811.PDF)
+- https://twitter.com/ESETresearch/status/1328285425992077314
