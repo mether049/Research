@@ -17,6 +17,7 @@
 - [A brief history of TA505](https://blog.intel471.com/2020/05/21/a-brief-history-of-ta505/)
 - https://twitter.com/MaartenVDantzig/status/1278688741788450819
 - https://www.telekom.com/en/search-this-website?query=ta505
+- [TA505: A Brief History Of Their Time](https://blog.fox-it.com/2020/11/16/ta505-a-brief-history-of-their-time/)
 
 ## TA544
 
