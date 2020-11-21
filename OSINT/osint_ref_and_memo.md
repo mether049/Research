@@ -233,7 +233,7 @@
 |[Expired Domains.net](https://www.expireddomains.net/)|domain||Expired Domain Name Search Engine|
 |[CRDF Threat Ceneter](https://threatcenter.crdf.fr/)|domain,url,hash,keyword|〇||
 |[AZORult Tracker](https://azorult-tracker.net/)|domain,ip,as,status,etc.|〇|AZORultのc2トラッカー|
-|[domain tools](https://whois.domaintools.com/)|domain,ip|〇||
+|[domain tools](https://whois.domaintools.com/)|domain,ip,ns,mail|〇|reverse-whois,reverse-ns|
 |[Domain history checker](https://whoisrequest.com/history/)|domain,ip|〇||
 |[Firefox Monitor](https://monitor.firefox.com/)|email|||
 |[have i been pwned?](https://haveibeenpwned.com/)|email|〇||
@@ -249,7 +249,7 @@
 |[RIPE Database Query](https://apps.db.ripe.net/db-web-ui/query)|keyword(e.g AS210138)||asnに関する超等に利用可能<br>[Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)|
 |[dnstwister](https://dnstwister.report/)|domain||類似ドメインの検索|
 |[Netcraft](https://sitereport.netcraft.com/)|url|||
-|[ViewDNS.info](https://viewdns.info/iphistory/)|domain|〇||
+|[ViewDNS.info](https://viewdns.info/iphistory/)|domain,mail,ip,ns,asn|〇|reverse-ns-lookup,reverse-whois,Chinese/Iran Firewall Test,|
 |[CrimeFlare](http://www.crimeflare.org:82/cfs.html)|domain|〇||
 |[hacker target](https://hackertarget.com/ip-tools/)|ip,domain,url|〇|Scan系，DNS系，Web系の多くのtoolがFreeで利用可能|
 |[BinaryEdge](https://www.binaryedge.io/)||〇||
@@ -261,6 +261,9 @@
 |[ja3er.com](https://ja3er.com/form)|ja3|〇||
 |[VirusBay](https://beta.virusbay.io/)|tag,hash||SOCアナリスト，マルウェアリサーチャのためのコラボレーションプラットフォーム|
 |[Hathing Triage](https://tria.ge/s)|family,hash|〇||
+|[WhoisXMLAPI](https://main.whoisxmlapi.com/)|ip,domain,ns|〇|reverse-ns,reverse-whois|
+|[DNSlytics](https://dnslytics.com/)|domain,ip,ns,mx|〇|reverse-mx,reverse-ns|
+|[DomainEye](https://domaineye.com/)|domain,ip,ns,mx,keyword|〇|reverse-mx,reverse-ns,reverse-whois|
 
 # whois
 - ref:
