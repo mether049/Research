@@ -264,6 +264,10 @@
 |[WhoisXMLAPI](https://main.whoisxmlapi.com/)|ip,domain,ns|〇|reverse-ns,reverse-whois|
 |[DNSlytics](https://dnslytics.com/)|domain,ip,ns,mx|〇|reverse-mx,reverse-ns|
 |[DomainEye](https://domaineye.com/)|domain,ip,ns,mx,keyword|〇|reverse-mx,reverse-ns,reverse-whois|
+|[tracker.viriback.com](http://tracker.viriback.com/)|domain,ip,url,keyword||c2 panel tracker|
+|[ThreatShare](https://threatshare.io/malware/)|domain,ip,url,keyword||c2 panel tracker|
+|[CyberCrime-tracker.net](https://cybercrime-tracker.net/)|domain,ip,url,keyword||c2  panel tracker|
+|[benkow.cc](http://benkow.cc/passwords.php?)|domain,ip,url,keyword||c2 panel tracker|
 
 # whois
 - ref:
