@@ -150,8 +150,8 @@
 |[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
 |[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)<br>[VT Hunting](https://github.com/fr0gger/vthunting)<br>https://pastebin.com/5j0TYLFi|
-|[Censys](https://censys.io/)|ip,domain,url,certificates|〇|[Censys Python Library](https://github.com/censys/censys-python)<br>https://www.hackers-arise.com/post/open-source-intelligence-osint-gathering-open-source-security-security-data-using-censys|
-|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)|
+|[Censys](https://censys.io/)|ip,domain,url,certificates|〇|[Censys Python Library](https://github.com/censys/censys-python)<br>https://www.hackers-arise.com/post/open-source-intelligence-osint-gathering-open-source-security-security-data-using-censys<br>regex使用可能|
+|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)<br>hostnameで検索可能|
 |[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
 |[PhishTank](https://www.phishtank.com/index.php)|url|〇||
 |[ANYRUN](https://app.any.run/submissions)|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox<br>[[TUTORIAL] How to trick malware using ANY.RUN's TOR feature for fake location](https://www.youtube.com/watch?v=b9sbLwxv8I8&feature=emb_title)|
@@ -194,7 +194,7 @@
 |[GREYNOISE](https://viz.greynoise.io/)||〇|検索機能が豊富<br>malicious判定された機器のみの検索等が可能|
 |[INQUEST LABS](https://labs.inquest.net/)||〇||
 |[Koodous](https://koodous.com/)|file,yara||android only||
-|[BinaryEdge](https://www.binaryedge.io/)||〇||
+|[BinaryEdge](https://www.binaryedge.io/)|ip,keyword,etc.|〇|wildcard使用可能|
 |[Cryptolaemus Pastedump](https://paste.cryptolaemus.com/)|||主にEmotetのIoCを掲載|
 |[virusbay](https://beta.virusbay.io/sample/browse)||||
 |[VisualSitemaps](https://visualsitemaps.com/)|URL||サイトマップを取得|
