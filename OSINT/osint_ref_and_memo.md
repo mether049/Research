@@ -51,6 +51,8 @@
         - [オリジンIPの特定によるクラウド型WAFのバイパス](https://akaki.io/2019/cloud-waf_bypass)
 - [Malwoverview](https://github.com/alexandreborges/malwoverview)
 - [OSINT Recon Tool](https://recontool.org/#mindmap)
+- [grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config)
+    - nmap用
 
 ## SNS
 - [TweetDeck]()
