@@ -61,6 +61,7 @@
   - [Major Malware Threat Intelligence Report For Bangladesh](http://www.bcc.gov.bd/sites/default/files/files/bcc.portal.gov.bd/publications/8e67d896_f690_49d1_90d9_a0b55a7664ce/2020-10-19-23-54-22a404348423f5944c152cf6165d6fb6.pdf)
   https://medium.com/sentinel-protocol/apt-group-targeting-cryptocurrency-industries-debunked-5f799028cfc1
   - [APT Group Targeting Cryptocurrency Industries — Debunked](https://medium.com/sentinel-protocol/apt-group-targeting-cryptocurrency-industries-debunked-5f799028cfc1)
+  - https://www.reuters.com/article/us-cyber-northkorea-exclusive-idUSKCN18H020
 ## hydseven
 
 ## Tick
