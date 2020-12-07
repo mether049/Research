@@ -62,6 +62,8 @@
   https://medium.com/sentinel-protocol/apt-group-targeting-cryptocurrency-industries-debunked-5f799028cfc1
   - [APT Group Targeting Cryptocurrency Industries — Debunked](https://medium.com/sentinel-protocol/apt-group-targeting-cryptocurrency-industries-debunked-5f799028cfc1)
   - https://www.reuters.com/article/us-cyber-northkorea-exclusive-idUSKCN18H020
+  - https://www.zdnet.com/article/how-us-authorities-tracked-down-the-north-korean-hacker-behind-wannacry/
+  - https://www.justice.gov/opa/press-release/file/1092091/download
 ## hydseven
 
 ## Tick
