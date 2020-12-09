@@ -426,6 +426,8 @@ updated_at:[yyyy-mm-dd TO *]
 ```
 443.https.tls.certificate.parsed.fingerprint_sha256:
 ```
+-ref
+    - https://censys.io/advanced-persistent-infrastructure-tracking/
 ### ZoomEye
 - ssl証明書のシリアル番号検索
 ```
