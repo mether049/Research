@@ -289,6 +289,10 @@
 - [OVPN](https://www.ovpn.com/en)
 - ref:
     - [Which VPN Providers Really Take Anonymity Seriously in 2020?](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
+### Scanner
+- [Nmap](https://nmap.org/)
+- [Zmap](https://github.com/zmap/zmap)
+- [Zgrab](https://github.com/zmap/zgrab2)
     
 # Forum/Darkweb
 - [DDIR](https://github.com/nenaiko-dareda/DDIR)
