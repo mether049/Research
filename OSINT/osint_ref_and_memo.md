@@ -39,7 +39,7 @@
 - [WebShag](https://www.openvas.org/)
    - Port Scan,URL Scan ,Crawler, File Fuzzing
 - [OpenVAS](https://github.com/wereallfeds/webshag)
-   - OSSの脆弱性スキャナー
+   - OSSの脆弱性スキャナ
 - [Unicornscan](https://github.com/dneufeld/unicornscan)
    - スキャナ
 - [fierce](https://github.com/mschwager/fierce)
@@ -55,7 +55,7 @@
     - nmap用
 
 ## SNS
-- [TweetDeck]()
+- TweetDeck
     - 各キーワード，ユーザ等に関する検索結果をカラムごとに表示することができる
 - [Deck For Reddit](https://rdddeck.com/)
     - TweetDeckのRddit版みたなもの
@@ -119,7 +119,7 @@
 - ref:
  - [advanced_operators_reference@googleguide.com](http://www.googleguide.com/advanced_operators_reference.html)
 - Custom Google検索集
-    - マルウェア検索用
+    - マルウェア関連検索用
         - [Decalage](http://decalage.info/mwsearch#gsc.tab=0)
     - pastesite検索用
         - https://cse.google.com/cse?cx=006896442834264595052:fawrl1rug9e
@@ -326,9 +326,7 @@
     - [Flowspec – TA505’s bulletproof hoster of choice](https://blog.intel471.com/2020/07/15/flowspec-ta505s-bulletproof-hoster-of-choice/)
     - https://weboas.is/media/host.txt
     - [OffshoreVPS - list of VPS providers around the world](http://offshorevps.org/)
-        - オフショアVPS list
     - [VPS hosts that accept Bitcoin](http://cryto.net/~joepie91/bitcoinvps.html)
-        - bitcoinでの支払いが可能なVPS list
     - [ASwatch: An AS Reputation System to Expose Bulletproof Hosting ASes@SIGCOM 15](https://cybersecurity.uga.edu/publications/5-6-2_ASwatch_camera.pdf)
     - [Criminal Abuse in RIPE IP space](https://ripe77.ripe.net/presentations/134-RIPE77_Anti_Abuse_WG.pdf)
     - [アンダーグラウンドで提供されるインフラとホスティングサービスの実情](https://blog.trendmicro.co.jp/archives/26252)
@@ -519,21 +517,6 @@ main_icon_dhash:[hash]
 - ref:
     - [TRAFFIC LIGHT PROTOCOL (TLP)](https://www.jpcert.or.jp/research/FIRST-TLP.html)
 
-# Corpus
-- https://vx-underground.org/packs.html
-- https://github.com/ytisf/theZoo
-- https://github.com/ActorExpose/PhishKits
-- https://github.com/binaryninja/phishingkits
-- https://github.com/jstrosch/malware-samples
-- https://github.com/KbaHaxor/Ammyy-v3
-- https://github.com/NYAN-x-CAT/RevengeRAT-Stub-CSsharp
-- https://github.com/Visgean/Zeus/
-- https://github.com/jgamblin/Mirai-Source-Code
-- https://github.com/ifding/iot-malware
-- https://github.com/gbrindisi/malware/tree/master/windows/gozi-isfb
-- https://github.com/SherifEldeeb/TinyMet/
-- https://github.com/m0n0ph1/malware-1
-- https://github.com/FlatL1neAPT/Post-exploitation
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
