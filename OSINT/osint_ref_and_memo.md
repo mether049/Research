@@ -71,6 +71,9 @@
 - [Ragpicker](https://github.com/robbyFux/Ragpicker)
 ### Directory Search
 - [Dirhunt](https://github.com/Nekmo/dirhunt)
+### Others
+- [CIRCL AIL](https://github.com/ail-project/ail-framework/)
+  - 情報漏洩分析フレームワーク
 
 # Search Engine
 ### Google
@@ -118,6 +121,7 @@
 > chache:example.com
 - ref:
  - [advanced_operators_reference@googleguide.com](http://www.googleguide.com/advanced_operators_reference.html)
+ - [Google advanced power search url request parameters](https://stenevang.wordpress.com/2013/02/22/google-advanced-power-search-url-request-parameters/)
 - Custom Google検索集
     - マルウェア関連検索用
         - [Decalage](http://decalage.info/mwsearch#gsc.tab=0)
@@ -137,10 +141,13 @@
 - Googleでは`@＃$％^＆*（）= + [] \`の記号は無視される
 - **[SymbolHound](http://symbolhound.com/advanced.php)**
   - Google検索と比較して記号を用いた検索が可能だが，インデックスされてるページが少ない印象
+### Others
+- 検索エンジン一覧
+ - https://twitter.com/elhackernet/status/1374061815156510725
 
 # Regular expression
 - [regexr.com](https://regexr.com/)
-   - 正規表現を検証するためのオンラインサービス
+  - 正規表現を検証するためのオンラインサービス
 
 
 # Domain, IP, URL, File hash, CVE, email, Name, etc. Research
@@ -151,9 +158,9 @@
 |[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇|[task.source:certstream-suspicious](https://urlscan.io/search/#task.source%3Acertstream-suspicious)|
 |[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
-|[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)<br>[VT Hunting](https://github.com/fr0gger/vthunting)<br>https://pastebin.com/5j0TYLFi|
+|[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)<br>[VT Hunting](https://github.com/fr0gger/vthunting)<br>https://pastebin.com/5j0TYLFi<br>[分析に利用しているSigma rule一覧](https://www.virustotal.com/ui/sigma_rules)|
 |[Censys](https://censys.io/)|ip,domain,url,certificates|〇|[Censys Python Library](https://github.com/censys/censys-python)<br>https://www.hackers-arise.com/post/open-source-intelligence-osint-gathering-open-source-security-security-data-using-censys<br>regex使用可能|
-|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)<br>hostnameで検索可能|
+|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)<br>hostnameで検索可能<br>[shodanをSQLで検索するためのプラグイン](https://hub.steampipe.io/plugins/turbot/shodan)<br>[beta版ではWebからhistoryが確認可能](https://beta.shodan.io/)|
 |[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
 |[PhishTank](https://www.phishtank.com/index.php)|url|〇||
 |[ANYRUN](https://app.any.run/submissions)|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox<br>[[TUTORIAL] How to trick malware using ANY.RUN's TOR feature for fake location](https://www.youtube.com/watch?v=b9sbLwxv8I8&feature=emb_title)|
@@ -182,7 +189,7 @@
 |[SPLOITUS](https://sploitus.com/)|cve,applicationname||researching poc|
 |[Feodo Tracker](https://feodotracker.abuse.ch/browse/)|ip|〇||
 |[MalShare](https://malshare.com/)|hash,yara|〇||
-|[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|〇|[ZoomEye API](https://github.com/knownsec/ZoomEye)|
+|[ZoomyEye](https://www.zoomeye.org/)|domain,ip,country,etc.|〇|[ZoomEye API](https://github.com/knownsec/ZoomEye)<br>[ZoomEye-Python](https://github.com/knownsec/ZoomEye-python)|
 |[FOFA](https://fofa.so/)|domain,ip,country,etc.|〇||
 |[ONYPHE](https://www.onyphe.io/)|domain,country,etc.|〇||
 |[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|〇||
@@ -224,7 +231,7 @@
 |[ViruSign](https://www.virusign.com/home.php)|hash,keyword|||
 |[virusbay](https://beta.virusbay.io/sample/browse)|hash,tag|||
 |[TrackingTheTrackers](https://trackingthetrackers.com/)|URL||サードパーティートラッカーのファーストパーティーへの偽装を判別，送信されるCookie情報の確認|
-|[MalwareBazaar](https://bazaar.abuse.ch/browse/)|hash,tag,keyword|〇|download可<br>マルウェアサンプルを共有することを目的としたabuse.chのプロジェクト|
+|[MalwareBazaar](https://bazaar.abuse.ch/browse/)|hash,tag,keyword|〇|download可<br>マルウェアサンプルを共有することを目的としたabuse.chのプロジェクト<br>yaraやシグネチャ名によるハンティング可能|
 |[SSLBL](https://sslbl.abuse.ch/)|hash,keyword(malware),date|〇|c2通信に利用されるSSL証明書の検索|
 |[Bot Invaders Realtime Tracker](http://www.marc-blanchard.com/BotInvaders/index.php)|-|〇|DGAのTracker|
 |[malinfo](https://www.malinfo.co.kr/cti/)|domain,ip,file|||
@@ -262,7 +269,7 @@
 |[Hurricane Electric BGP Toolkit](https://bgp.he.net/)|ip,asn|||
 |[ja3er.com](https://ja3er.com/form)|ja3|〇||
 |[VirusBay](https://beta.virusbay.io/)|tag,hash||SOCアナリスト，マルウェアリサーチャのためのコラボレーションプラットフォーム|
-|[Hathing Triage](https://tria.ge/s)|family,hash|〇||
+|[Hathing Triage](https://tria.ge/s)|family,hash,yara,url,etc|〇|アップロードされた検体のファイル，メモリダンプに対してカスタムyaraでスキャンが可能（有償機能）|
 |[WhoisXMLAPI](https://main.whoisxmlapi.com/)|ip,domain,ns|〇|reverse-ns,reverse-whois|
 |[DNSlytics](https://dnslytics.com/)|domain,ip,ns,mx|〇|reverse-mx,reverse-ns|
 |[DomainEye](https://domaineye.com/)|domain,ip,ns,mx,keyword|〇|reverse-mx,reverse-ns,reverse-whois|
@@ -270,6 +277,10 @@
 |[ThreatShare](https://threatshare.io/malware/)|domain,ip,url,keyword||c2 panel tracker|
 |[CyberCrime-tracker.net](https://cybercrime-tracker.net/)|domain,ip,url,keyword||c2  panel tracker|
 |[benkow.cc](http://benkow.cc/passwords.php?)|domain,ip,url,keyword||c2 panel tracker|
+|[dnstwist](https://dnstwist.it/)|domain|||
+|[grayhatwarfare](https://shorteners.grayhatwarfare.com/)|url,domain,keyword,etc.||短縮URL<-->実際URLのデータベース|
+|[ThreatFox](https://threatfox.abuse.ch/)|url,domain,ip,tag,family,reporter,etc.|〇|ユーザ投稿型，MalwareBazaarと連携|
+|[Whois History](http://whoishistory.ru/)|domain||.su,.ruドメイン用whois history|
 
 # whois
 - ref:
@@ -289,6 +300,7 @@
 - [OVPN](https://www.ovpn.com/en)
 - ref:
     - [Which VPN Providers Really Take Anonymity Seriously in 2020?](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
+    - [Finding The Origin IP Behind CDNs](https://infosecwriteups.com/finding-the-origin-ip-behind-cdns-37cd18d5275)
 ### Scanner
 - [Nmap](https://nmap.org/)
 - [Zmap](https://github.com/zmap/zmap)
@@ -518,13 +530,21 @@ main_icon_dhash:[hash]
     - [TRAFFIC LIGHT PROTOCOL (TLP)](https://www.jpcert.or.jp/research/FIRST-TLP.html)
 
 
+-lxAK
+    - https://twitter.com/onlineosint/status/1378433784501112836/photo/1
+    - https://twitter.com/ADITYASHENDE17/status/1338361960455270403
+
+- HUMINT
+    - [Cyber Intelligence HUMINT Operations](https://bank-security.medium.com/cyber-intelligence-humint-operations-2d3d526e4007) 
+
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
 - [Download OSINT Bookmarks@OSINT Combine](https://www.osintcombine.com/osint-bookmarks)
     - OSINTに有用なWebサイトをまとめたBookmarkを提供
 - [普段の調査で利用するOSINTまとめ,qiita,2020-03](https://qiita.com/00001B1A/items/4d8ceb53993d3217307e)
-- ["Must Have" Free Resources for Open-Source Intelligence (OSINT)](https://www.sans.org/blog/-must-have-free-resources-for-open-source-intelligence-osint-/)
+- ["Must Have" Free Resources for Open-Source Intelligence (OSINT)](https://www.sans.org/blog/-must-have-free-resoulrces-for-open-source-intelligence-osint-/)
 - [脅威インテリジェンスの教科書](https://www.slideshare.net/tomohisaishikawa/ss-236323562)
 - [すぐ貢献できる！偽サイトの探索から通報まで](https://qiita.com/v_avenger/items/2eeef2d69c85eb1570e8)
 - https://blog.bushidotoken.net/2020/09/fantastic-apts-and-where-to-find-them.html
 - https://jsac.jpcert.or.jp/archive/2020/pdf/JSAC2020_4_ogawa-niseki_jp.pdf
+- [Analyzing Network Infrastructure as Composite Objects](https://www.domaintools.com/resources/blog/analyzing-network-infrastructure-as-composite-objects)
