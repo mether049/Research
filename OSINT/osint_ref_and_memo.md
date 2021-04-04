@@ -52,7 +52,9 @@
 - [Malwoverview](https://github.com/alexandreborges/malwoverview)
 - [OSINT Recon Tool](https://recontool.org/#mindmap)
 - [grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config)
-    - nmap用
+    - nmap用,cobaltstrikeのconfig情報収集
+- [xeuledoc](https://github.com/Malfrats/xeuledoc)
+    - public google documentから情報を収集
 
 ## SNS
 - TweetDeck
@@ -61,6 +63,8 @@
     - TweetDeckのRddit版みたなもの
 - [tafferugli](https://github.com/sowdust/tafferugli)
     - twitter分析フレームワーク
+- ユーザID(Facebook,Twitter,Instagram)の見つけ方
+    - https://www.aware-online.com/en/importance-of-user-ids-in-social-media-investigations/
     
 
 
@@ -136,7 +140,10 @@
         - [Listing of a number of useful Google dorks.](https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc)
         - [Google Dorksを使った脆弱なサービスの検索方法－２](https://infoshield.co.jp/blog/security-news/20200221-701/)
         - [Find Vulnerable Services & Hidden Info Using Google Dorks \[Tutorial\]](https://www.youtube.com/watch?v=u_gOnwWEXiA)
-    
+### Yandex
+- [25+ Yandex Search Operators Every Yandex User Should Know: A Complete List](https://seosly.com/yandex-search-operators/#10_Advanced_Yandex_Search_Operators)
+    - Yandexの検索演算子について（GoogleとBingとの比較あり）
+
 ### Search for special symbols
 - Googleでは`@＃$％^＆*（）= + [] \`の記号は無視される
 - **[SymbolHound](http://symbolhound.com/advanced.php)**
@@ -144,6 +151,8 @@
 ### Others
 - 検索エンジン一覧
  - https://twitter.com/elhackernet/status/1374061815156510725
+- [start.me](https://start.me/p/7kLY9R/osint-chine)
+ - OSINT関連のリンク多数
 
 # Regular expression
 - [regexr.com](https://regexr.com/)
@@ -281,6 +290,10 @@
 |[grayhatwarfare](https://shorteners.grayhatwarfare.com/)|url,domain,keyword,etc.||短縮URL<-->実際URLのデータベース|
 |[ThreatFox](https://threatfox.abuse.ch/)|url,domain,ip,tag,family,reporter,etc.|〇|ユーザ投稿型，MalwareBazaarと連携|
 |[Whois History](http://whoishistory.ru/)|domain||.su,.ruドメイン用whois history|
+|[tools.epieos](https://tools.epieos.com/)|mail||メールアドレスで登録しているサービスの調査|
+|[searchcode](https://searchcode.com/)|||ソースコードの検索|
+|[grep.app](https://grep.app/)|||ソースコードの検索|
+|[PublicWWW](https://publicwww.com/)|||ソースコードの検索|
 
 # whois
 - ref:
@@ -321,6 +334,8 @@
     - [Memex – DARPA’s search engine for the Dark Web](https://nakedsecurity.sophos.com/2015/02/16/memex-darpas-search-engine-for-the-dark-web/)
         - DARPAが開発しているDarkWeb用検索エンジン「Memex」について
     - https://twitter.com/AlecMuffett/status/989239019472027648
+    - [CrimeBoards](https://github.com/misterch0c/CrimeBoards)
+        - リスト
 
 # Bulletproof hosting
 - 特徴:
@@ -530,11 +545,11 @@ main_icon_dhash:[hash]
     - [TRAFFIC LIGHT PROTOCOL (TLP)](https://www.jpcert.or.jp/research/FIRST-TLP.html)
 
 
--lxAK
+# lxAK
     - https://twitter.com/onlineosint/status/1378433784501112836/photo/1
     - https://twitter.com/ADITYASHENDE17/status/1338361960455270403
 
-- HUMINT
+# HUMINT
     - [Cyber Intelligence HUMINT Operations](https://bank-security.medium.com/cyber-intelligence-humint-operations-2d3d526e4007) 
 
 # ref:
@@ -548,3 +563,6 @@ main_icon_dhash:[hash]
 - https://blog.bushidotoken.net/2020/09/fantastic-apts-and-where-to-find-them.html
 - https://jsac.jpcert.or.jp/archive/2020/pdf/JSAC2020_4_ogawa-niseki_jp.pdf
 - [Analyzing Network Infrastructure as Composite Objects](https://www.domaintools.com/resources/blog/analyzing-network-infrastructure-as-composite-objects)
+- [Week in OSINT](https://sector035.nl/articles/category:week-in-osint)
+- [STATE OSINT](https://stateofosint.com/)
+- [List of Resource Links from Open-Source Intelligence Summit 2021](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
