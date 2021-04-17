@@ -124,3 +124,5 @@
 - [MVISION Insights](https://www.mcafee.com/enterprise/en-us/lp/insights-preview.html)
 - [Chinese State-SponsoredActors Exploit Publicly Known Vulnerabilities](https://media.defense.gov/2020/Oct/20/2002519884/-1/-1/0/CSA_CHINESE_EXPLOIT_VULNERABILITIES_UOO179811.PDF)
 - https://twitter.com/ESETresearch/status/1328285425992077314
+- [Russia’s Cyber Operations Groups](https://xorl.wordpress.com/2021/04/16/russias-cyber-operations-groups/)
+- [On attribution: APT28, APT29…Turla: No, they are NOT the same](https://xorl.wordpress.com/2021/01/25/on-attribution-apt28-apt29-turla-no-they-are-not-the-same/)
