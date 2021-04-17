@@ -566,3 +566,4 @@ main_icon_dhash:[hash]
 - [Week in OSINT](https://sector035.nl/articles/category:week-in-osint)
 - [STATE OSINT](https://stateofosint.com/)
 - [List of Resource Links from Open-Source Intelligence Summit 2021](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
+- [SANS OSINT Summit@Youtube](https://www.youtube.com/hashtag/osintsummit)
