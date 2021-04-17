@@ -336,6 +336,8 @@
     - https://twitter.com/AlecMuffett/status/989239019472027648
     - [CrimeBoards](https://github.com/misterch0c/CrimeBoards)
         - リスト
+    - [Friendly fire: Four well-known cybercriminal forums dealing with breaches](https://intel471.com/blog/mazafaka-hacked-cybercrime-forums-exploit-crdclub-verified/)
+    - [EtterSilent: the underground’s new favorite maldoc builder](https://intel471.com/blog/ettersilent-maldoc-builder-macro-trickbot-qbot/)
 
 # Bulletproof hosting
 - 特徴:
@@ -357,6 +359,8 @@
     - [ASwatch: An AS Reputation System to Expose Bulletproof Hosting ASes@SIGCOM 15](https://cybersecurity.uga.edu/publications/5-6-2_ASwatch_camera.pdf)
     - [Criminal Abuse in RIPE IP space](https://ripe77.ripe.net/presentations/134-RIPE77_Anti_Abuse_WG.pdf)
     - [アンダーグラウンドで提供されるインフラとホスティングサービスの実情](https://blog.trendmicro.co.jp/archives/26252)
+    - [Bulletproof hosting: How cybercrime stays resilient](https://intel471.com/blog/bulletproof-hosting-yalishanda-ransomware-banking-trojans-information-stealers/)
+    - []()
 
 # yara source
 - https://github.com/advanced-threat-research/Yara-Rules
