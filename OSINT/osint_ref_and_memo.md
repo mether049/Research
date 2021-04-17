@@ -527,6 +527,7 @@ main_icon_dhash:[hash]
 - [XSS without HTML: Client-Side Template Injection with AngularJS](https://portswigger.net/research/xss-without-html-client-side-template-injection-with-angularjs)
 - [matplotlib](https://github.com/matplotlib/cheatsheets)
 - [Lateral Movement DetectionGPO Settings Cheat Sheet](https://compass-security.com%/fileadmin%2FDatein%2FResearch%2FWhite_Papers%2Flateral_movement_detection_basic_gpo_settings_v1.0.pdf)
+- [OFAC Sanctions List Search](https://sanctionssearch.ofac.treas.gov/)
 
 # TLP
 - 機密情報を確実に適切な組織または人に共有するために使われる一連の標示
