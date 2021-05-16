@@ -65,6 +65,15 @@
   - https://www.zdnet.com/article/how-us-authorities-tracked-down-the-north-korean-hacker-behind-wannacry/
   - https://www.justice.gov/opa/press-release/file/1092091/download
   - https://www.hvs-consulting.de/media/downloads/ThreatReport-Lazarus.pdf
+  - https://note.com/iloveflying0306/n/n9e5c75b681be
+  - http://www.issuemakerslab.com/research/index.html
+  - https://www.newyorker.com/magazine/2021/04/26/the-incredible-rise-of-north-koreas-hacking-army
+  - https://www.ptsecurity.com/ww-en/analytics/pt-esc-threat-intelligence/lazarus-recruitment/
+  - https://xorl.wordpress.com/page/2/
+  - https://www.justice.gov/usao-cdca/pr/3-north-korean-military-hackers-indicted-wide-ranging-scheme-commit-cyberattacks-and
+  - https://www.justice.gov/opa/pr/two-chinese-nationals-charged-laundering-over-100-million-cryptocurrency-exchange-hack
+ 
+
 ## hydseven
 
 ## Tick
