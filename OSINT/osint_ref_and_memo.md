@@ -167,7 +167,7 @@
 |[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇|[task.source:certstream-suspicious](https://urlscan.io/search/#task.source%3Acertstream-suspicious)|
 |[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
-|[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)<br>[VT Hunting](https://github.com/fr0gger/vthunting)<br>https://pastebin.com/5j0TYLFi<br>[分析に利用しているSigma rule一覧](https://www.virustotal.com/ui/sigma_rules)|
+|[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)<br>[VT Hunting](https://github.com/fr0gger/vthunting)<br>https://pastebin.com/5j0TYLFi<br>[分析に利用しているSigma rule一覧](https://www.virustotal.com/ui/sigma_rules)<br>[Suricata rule一覧](https://pastebin.com/47DVKNGG)|
 |[Censys](https://censys.io/)|ip,domain,url,certificates|〇|[Censys Python Library](https://github.com/censys/censys-python)<br>https://www.hackers-arise.com/post/open-source-intelligence-osint-gathering-open-source-security-security-data-using-censys<br>regex使用可能|
 |[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)<br>hostnameで検索可能<br>[shodanをSQLで検索するためのプラグイン](https://hub.steampipe.io/plugins/turbot/shodan)<br>[beta版ではWebからhistoryが確認可能](https://beta.shodan.io/)|
 |[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
@@ -294,6 +294,7 @@
 |[searchcode](https://searchcode.com/)|||ソースコードの検索|
 |[grep.app](https://grep.app/)|||ソースコードの検索|
 |[PublicWWW](https://publicwww.com/)|||ソースコードの検索|
+|[OFAC Sanctions List Search](https://sanctionssearch.ofac.treas.gov/)|name,address||制裁リストの検索|
 
 # whois
 - ref:
@@ -441,6 +442,7 @@ shodan search --fields ip_str '${query}' --limit 1000 | cat
 ```
 - ref:
     - [SCANdalous!（ネットワークスキャンデータと自動化を用いた外部検知）](https://www.fireeye.jp/blog/jp-threat-research/2020/07/scandalous-external-detection-using-network-scan-data-and-automation.html)
+    - 
 ### Censys
 - または
 ```
@@ -478,6 +480,8 @@ curl -X GET https://api.zoomeye.org/host/search?query='"${query}"&page=1' -H "Au
 -ref:
     - [利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架](https://paper.seebug.org/1301/)
     - https://www.zoomeye.org/searchResult?q=%22CobaltStrike%20Beacon%20configurations%22
+    - [BlueHat v17 || Using TLS Certificates to Track Activity Groups](https://www.slideshare.net/MSbluehat/bluehat-v17-using-tls-certificates-to-track-activity-groups)
+
 ### Fofa
 - または
 ```
