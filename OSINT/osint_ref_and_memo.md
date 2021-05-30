@@ -560,6 +560,9 @@ main_icon_dhash:[hash]
 
 # HUMINT
     - [Cyber Intelligence HUMINT Operations](https://bank-security.medium.com/cyber-intelligence-humint-operations-2d3d526e4007) 
+    
+# OPSEC
+    - [OPSEC for Blue Teams - Losing Defender's Advantage](https://www.mbsecure.nl/blog/2018/9/opsec-for-blue-teams-part-1)
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
