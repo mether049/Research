@@ -164,7 +164,7 @@
 
 |name|input|API|remarks|
 |:-|:-|:-|:-|
-|[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇|[task.source:certstream-suspicious](https://urlscan.io/search/#task.source%3Acertstream-suspicious)|
+|[urlscan.io](https://urlscan.io/)|url,ip,domain,hash,ASN|〇|[task.source:certstream-suspicious](https://urlscan.io/search/#task.source%3Acertstream-suspicious)<br>filename:でURLに含まれる文字列を使った検索が可能|
 |[RiskIQ](https://www.riskiq.com/products/community-edition/)|domain,ip,url,hash,email,certificates|〇||
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
 |[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)<br>[VT Hunting](https://github.com/fr0gger/vthunting)<br>https://pastebin.com/5j0TYLFi<br>[分析に利用しているSigma rule一覧](https://www.virustotal.com/ui/sigma_rules)<br>[Suricata rule一覧](https://pastebin.com/47DVKNGG)|
