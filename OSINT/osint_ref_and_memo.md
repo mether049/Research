@@ -528,6 +528,14 @@ since:2020/05/28_00:00:00_JST until:2020/05/28_23:59:59_JST
 ```
 -from:@hoge -to:@huga
 ```
+- リプライス数0のツイート（max_replies:はオペレータに存在しないため，min_replies:を使用して「最低リプライス数1＝何かしらのリプライがある」に該当するTweetを除外）
+```
+-min_replies:1 
+```
+- 
+- ref:
+    - [developer.twitter.com](https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query)
+        - Twitterで使えるオペレータ
 
 ### VirusTotal
 - [File search modifiers](https://support.virustotal.com/hc/en-us/articles/360001385897-Search-modifiers)
