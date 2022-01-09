@@ -55,6 +55,8 @@
     - nmap用,cobaltstrikeのconfig情報収集
 - [xeuledoc](https://github.com/Malfrats/xeuledoc)
     - public google documentから情報を収集
+- [page2images](https://www.page2images.com/URL-Live-Website-Screenshot-Generator)
+    - webページを画像化して取得
 
 ## SNS
 - TweetDeck
@@ -147,12 +149,13 @@
 ### Search for special symbols
 - Googleでは`@＃$％^＆*（）= + [] \`の記号は無視される
 - **[SymbolHound](http://symbolhound.com/advanced.php)**
-  - Google検索と比較して記号を用いた検索が可能だが，インデックスされてるページが少ない印象
+    - Google検索と比較して記号を用いた検索が可能だが，インデックスされてるページが少ない印象
 ### Others
 - 検索エンジン一覧
- - https://twitter.com/elhackernet/status/1374061815156510725
+    - https://twitter.com/elhackernet/status/1374061815156510725
 - [start.me](https://start.me/p/7kLY9R/osint-chine)
- - OSINT関連のリンク多数
+- [start.meその2](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+    - リンク集
 
 # Regular expression
 - [regexr.com](https://regexr.com/)
@@ -301,6 +304,8 @@
 |[hunter.io](https://hunter.io/)|domain,keyword,mail address||Webに公開さされているメールアドレスの検索|
 |[WiGLE](https://www.wigle.net/)|address,keyword||Wifiスポットの検索，ユーザがデータをアップロードすることが可能|
 |[Pulsedive](https://pulsedive.com/)||〇|IoCの関連情報，IoC feedなどを提供|
+|[RANSOMWHERE](https://ransomwhe.re/#browse)||〇|要申請?|
+|[pagexray](https://pagexray.fouanalytics.com/)|url||サイトの外部リンク，内部リンクの調査|
 
 
 
@@ -335,6 +340,8 @@
     - 4340の.onion sitesをクロールしてデータを収集(41%くらいが違法サイト)
         - 不正な薬物,サイバー攻撃請負,偽のクレカ,児童ポルノ,海賊版販売,犯罪行為(マネロンなど)
     - [\[CODE BLUE 2019\]DDIR: ダークウェブの研究を目的としたオープンソースデータセット\[レポート\]](https://dev.classmethod.jp/articles/code-blue-2019-d1-blue-1550/)
+- [tor.taxi](https://tor.taxi/)
+    - リンク集，時系列ごとのイベント
 - ref:
     - [User-Friendly Loaders and Crypters Simplify Intrusions and Malware Delivery](https://www.recordedfuture.com/user-friendly-loaders-crypters/)
     - [TRADING IN THE DARK](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/trading-in-the-dark)
@@ -571,6 +578,8 @@ main_icon_dhash:[hash]
     
 # OPSEC
     - [OPSEC for Blue Teams - Losing Defender's Advantage](https://www.mbsecure.nl/blog/2018/9/opsec-for-blue-teams-part-1)
+    - [PrivacyTests.org](https://privacytests.org/)
+        - 各webブラウザのプライバシー評価
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
@@ -587,3 +596,5 @@ main_icon_dhash:[hash]
 - [STATE OSINT](https://stateofosint.com/)
 - [List of Resource Links from Open-Source Intelligence Summit 2021](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
 - [SANS OSINT Summit@Youtube](https://www.youtube.com/hashtag/osintsummit)
+- [@hatless1der | Blog](https://hatless1der.com/)
+- [bellingcat](https://www.bellingcat.com/category/news/)
