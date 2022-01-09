@@ -297,6 +297,12 @@
 |[OFAC Sanctions List Search](https://sanctionssearch.ofac.treas.gov/)|name,address||制裁リストの検索|
 |[ALPHA](https://ti.qianxin.com/)|ip,domain,hash|〇|レピュテーション|
 |[FULLHUNT](https://fullhunt.io/search)|domain,ip,tech,port,tag,|〇|domain版shodan?みたいなもの？，クラウド，テクノロジー，生存情報も確認可能|
+|[have they been ransomware'd ?](https://ransom.wiki/)|keyword||Hive Leaks, Quantum, Everest, 54bb47h, LOCKBIT 2.0, CL0P, Lorenz, CRYP70N1C0D3, Arvin Leaks, AlphVM, Conti, HARON Ransomware2, Grief, RansomEXX, LV, Rook, Atomsilo, Payload.bin, Snatch, Xing Locker, Marketo, Pysa, Moses Staff, BlackByte, Suncrypt, LockData Auction, Ragnar_Locker, Cuba, Vice Society, DarkLeak Market and Night Skyを監視(2022/01/08時点)|
+|[hunter.io](https://hunter.io/)|domain,keyword,mail address||Webに公開さされているメールアドレスの検索|
+|[WiGLE](https://www.wigle.net/)|address,keyword||Wifiスポットの検索，ユーザがデータをアップロードすることが可能|
+|[Pulsedive](https://pulsedive.com/)||〇|IoCの関連情報，IoC feedなどを提供|
+
+
 
 # whois
 - ref:
