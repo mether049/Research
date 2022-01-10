@@ -59,6 +59,8 @@
     - webページを画像化して取得
 - [watchframebyframe](http://www.watchframebyframe.com/)
     - Youtubeなどの動画をフレーム単位で閲覧可能
+- [Marple](https://github.com/soxoj/marple)
+    - 複数の検索エンジンでユーザ名に関する情報を一括収集
 
 ## SNS
 - TweetDeck
