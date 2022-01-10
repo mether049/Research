@@ -313,6 +313,7 @@
 |[Pulsedive](https://pulsedive.com/)||〇|IoCの関連情報，IoC feedなどを提供|
 |[RANSOMWHERE](https://ransomwhe.re/#browse)||〇|要申請?|
 |[pagexray](https://pagexray.fouanalytics.com/)|url||サイトの外部リンク，内部リンクの調査|
+|[DMNS](https://dmns.app/)|domain|〇|whois，DNSレコード，ドメインの取得可否情報の調査|
 
 
 
@@ -440,9 +441,14 @@
 
 # Street View
 - [List of street view services@wiki](https://en.wikipedia.org/wiki/List_of_street_view_services)
+- [Mapping and Geo-Spatial Intelligence [GEOINT]](https://sector035.nl/articles/2021-48)
     - ストリートビューのリスト
 - [transphoto](https://transphoto.org/)
     - 場所と動画
+- [shademap](https://shademap.app/)
+    - 影のシミュレーション
+- [IPVM Camera Calculator](https://calculator.ipvm.com/)
+    - 監視カメラのシミュレーションｎ
 
 
 # Cheet Sheet
@@ -619,3 +625,5 @@ main_icon_dhash:[hash]
 - [SANS OSINT Summit@Youtube](https://www.youtube.com/hashtag/osintsummit)
 - [@hatless1der | Blog](https://hatless1der.com/)
 - [bellingcat](https://www.bellingcat.com/category/news/)
+- [OSINT Jobs](https://www.osint-jobs.com/careers/open-positions)
+- []()
