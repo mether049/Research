@@ -57,6 +57,8 @@
     - public google documentから情報を収集
 - [page2images](https://www.page2images.com/URL-Live-Website-Screenshot-Generator)
     - webページを画像化して取得
+- [watchframebyframe](http://www.watchframebyframe.com/)
+    - Youtubeなどの動画をフレーム単位で閲覧可能
 
 ## SNS
 - TweetDeck
@@ -67,6 +69,11 @@
     - twitter分析フレームワーク
 - ユーザID(Facebook,Twitter,Instagram)の見つけ方
     - https://www.aware-online.com/en/importance-of-user-ids-in-social-media-investigations/
+- [Twiangulate](https://twiangulate.com/search/)
+    - Twitterアカウント同士の共通フォロー/フォロワーを抽出することが可能
+    - [Ciberinvestigación con Twiangulate](https://www.cibergia.com/ciberinvestigacion-con-twiangulate/)
+        - 複数アカウントで比較する方法
+        - アドレスバーのユーザ部分を編集してアカウントを追加していくだけ
     
 
 
@@ -430,6 +437,12 @@
 # Image Search
 - [onlineocr](https://www.onlineocr.net/)
     - ocrで画像に含まれる文字を抽出するサイト
+
+# Street View
+- [List of street view services@wiki](https://en.wikipedia.org/wiki/List_of_street_view_services)
+    - ストリートビューのリスト
+- [transphoto](https://transphoto.org/)
+    - 場所と動画
 
 
 # Cheet Sheet
