@@ -456,7 +456,7 @@
 - [IPVM Camera Calculator](https://calculator.ipvm.com/)
     - 監視カメラのシミュレーション
 - [SunCalc](https://www.suncalc.org/#/24.7454,46.819,3/2022.01.12/02:39/1/3)
-    - 太陽の位置のデータベース
+    - 太陽の位置のシミュレーション
 - [U.S. Military Facilities in the Middle East Region](https://www.google.com/maps/d/u/0/viewer?mid=12AO9A22Cjkv3pG_tyiIx468a8WpqTaJU&ll=26.719749847011602%2C43.66837139832468&z=5)
     - 中東の米軍基地
 - [cellmapper](https://www.cellmapper.net/map)
