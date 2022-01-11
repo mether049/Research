@@ -459,6 +459,9 @@
     - 太陽の位置のデータベース
 - [U.S. Military Facilities in the Middle East Region](https://www.google.com/maps/d/u/0/viewer?mid=12AO9A22Cjkv3pG_tyiIx468a8WpqTaJU&ll=26.719749847011602%2C43.66837139832468&z=5)
     - 中東の米軍基地
+- [cellmapper](https://www.cellmapper.net/map)
+    - 基地局のマップ。ズレあるので参考程度
+        - [携帯電話基地局の見分け方・探し方！【写真付き】](https://shindensha.org/2021/08/01/%E8%BA%AB%E8%BF%91%E3%81%AB%E3%81%82%E3%82%8B%EF%BC%81%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E5%9F%BA%E5%9C%B0%E5%B1%80%E3%81%AE%E8%A6%8B%E5%88%86%E3%81%91%E6%96%B9%E3%80%90%E6%8E%A2%E3%81%97%E3%81%A6/)
 
 
 # Cheet Sheet
