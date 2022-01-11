@@ -61,6 +61,7 @@
     - Youtubeなどの動画をフレーム単位で閲覧可能
 - [Marple](https://github.com/soxoj/marple)
     - 複数の検索エンジンでユーザ名に関する情報を一括収集
+- [recon.us.com](https://recon.us.com/app/)
 
 ## SNS
 - TweetDeck
@@ -76,6 +77,8 @@
     - [Ciberinvestigación con Twiangulate](https://www.cibergia.com/ciberinvestigacion-con-twiangulate/)
         - 複数アカウントで比較する方法
         - アドレスバーのユーザ部分を編集してアカウントを追加していくだけ
+- [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%20/igmgknoioooacbcpcfgjigbaajpelbfe)
+    - facebookの情報をダンプするchromeプラグイン 
     
 
 
@@ -316,6 +319,7 @@
 |[RANSOMWHERE](https://ransomwhe.re/#browse)||〇|要申請?|
 |[pagexray](https://pagexray.fouanalytics.com/)|url||サイトの外部リンク，内部リンクの調査|
 |[DMNS](https://dmns.app/)|domain|〇|whois，DNSレコード，ドメインの取得可否情報の調査|
+|[Camera FV-5 Device database](https://www.camerafv5.com/devices/)|||カメラデバイスの検索|
 
 
 
@@ -443,14 +447,18 @@
 
 # Street View
 - [List of street view services@wiki](https://en.wikipedia.org/wiki/List_of_street_view_services)
-- [Mapping and Geo-Spatial Intelligence [GEOINT]](https://sector035.nl/articles/2021-48)
+- [Mapping and Geo-Spatial Intelligence [GEOINT]](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geo-spatial-intelligence-geoint)
     - ストリートビューのリスト
 - [transphoto](https://transphoto.org/)
     - 場所と動画
 - [shademap](https://shademap.app/)
     - 影のシミュレーション
 - [IPVM Camera Calculator](https://calculator.ipvm.com/)
-    - 監視カメラのシミュレーションｎ
+    - 監視カメラのシミュレーション
+- [SunCalc](https://www.suncalc.org/#/24.7454,46.819,3/2022.01.12/02:39/1/3)
+    - 太陽の位置のデータベース
+- [U.S. Military Facilities in the Middle East Region](https://www.google.com/maps/d/u/0/viewer?mid=12AO9A22Cjkv3pG_tyiIx468a8WpqTaJU&ll=26.719749847011602%2C43.66837139832468&z=5)
+    - 中東の米軍基地
 
 
 # Cheet Sheet
@@ -604,6 +612,10 @@ main_icon_dhash:[hash]
 
 # HUMINT
     - [Cyber Intelligence HUMINT Operations](https://bank-security.medium.com/cyber-intelligence-humint-operations-2d3d526e4007) 
+
+# GEOINT
+    - [[OSINT/GEOINT] Using shadows and optics to geolocate a photo in a US military base](https://medium.com/@drstache/using-shadows-and-optics-to-geolocate-a-photo-in-a-us-military-base-29bd3086283c)
+        - 影と光学を利用した場所特定
     
 # OPSEC
     - [OPSEC for Blue Teams - Losing Defender's Advantage](https://www.mbsecure.nl/blog/2018/9/opsec-for-blue-teams-part-1)
