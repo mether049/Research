@@ -62,6 +62,8 @@
 - [Marple](https://github.com/soxoj/marple)
     - 複数の検索エンジンでユーザ名に関する情報を一括収集
 - [recon.us.com](https://recon.us.com/app/)
+- [Protractor](https://chrome.google.com/webstore/detail/protractor/kpjldaeddnfokhmgdlmpdlecmobaonnj)
+    - 分度器を表示するchromeプラグイン
 
 ## SNS
 - TweetDeck
@@ -77,8 +79,10 @@
     - [Ciberinvestigación con Twiangulate](https://www.cibergia.com/ciberinvestigacion-con-twiangulate/)
         - 複数アカウントで比較する方法
         - アドレスバーのユーザ部分を編集してアカウントを追加していくだけ
+- [foller.me](https://foller.me/)
+    - ユーザの習慣分析
 - [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%20/igmgknoioooacbcpcfgjigbaajpelbfe)
-    - facebookの情報をダンプするchromeプラグイン 
+    - facebookの情報をダンプするchromeプラグイン
     
 
 
@@ -140,6 +144,9 @@
 - ref:
  - [advanced_operators_reference@googleguide.com](http://www.googleguide.com/advanced_operators_reference.html)
  - [Google advanced power search url request parameters](https://stenevang.wordpress.com/2013/02/22/google-advanced-power-search-url-request-parameters/)
+- Tool:
+ - [Overload Search - Advanced Google Search](https://chrome.google.com/webstore/detail/overload-search-advanced/knihkdaajdhpjgeiadaefmjmpbnlojbg)
+  - Google検索の補助プラグライン（Chrome） 
 - Custom Google検索集
     - マルウェア関連検索用
         - [Decalage](http://decalage.info/mwsearch#gsc.tab=0)
@@ -167,6 +174,7 @@
     - https://twitter.com/elhackernet/status/1374061815156510725
 - [start.me](https://start.me/p/7kLY9R/osint-chine)
 - [start.meその2](https://start.me/p/DPYPMz/the-ultimate-osint-collection)
+- [iHunt OSINT FRAMEWORK](https://nitinpandey.in/ihunt/)
     - リンク集
 
 # Regular expression
@@ -219,6 +227,7 @@
 |[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|〇||
 |[Twitter IOC Hunter](http://tweettioc.com/search)|domain,ip,url,hash,email,user,hash tag|〇||
 |[Wayback Machine](https://archive.org/web/)|url|〇|archive|
+|[archive.today](https://archive.ph/)|url||archive|
 |[Stanford Web Archive Portal](https://swap.stanford.edu/)|url||archive||
 |[UK Parliament Web Archive](http://webarchive.parliament.uk/)|url||archive||
 |[Library of Congress](https://www.loc.gov/)|url||archive||
@@ -356,6 +365,11 @@
     - [\[CODE BLUE 2019\]DDIR: ダークウェブの研究を目的としたオープンソースデータセット\[レポート\]](https://dev.classmethod.jp/articles/code-blue-2019-d1-blue-1550/)
 - [tor.taxi](https://tor.taxi/)
     - リンク集，時系列ごとのイベント
+- tor2web gateway
+ - onionサイトを通常のブラウザから閲覧するためのゲートウェイ
+ - tor2web gatewayサービスを介して閲覧されたonionサイトのアーカイブ検索
+   - https://twitter.com/ohshint_/status/1482428965713113089
+ - https://onionsearchengine.com/?pk_campaign=TorGateway
 - ref:
     - [User-Friendly Loaders and Crypters Simplify Intrusions and Malware Delivery](https://www.recordedfuture.com/user-friendly-loaders-crypters/)
     - [TRADING IN THE DARK](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/trading-in-the-dark)
@@ -462,6 +476,17 @@
 - [cellmapper](https://www.cellmapper.net/map)
     - 基地局のマップ。ズレあるので参考程度
         - [携帯電話基地局の見分け方・探し方！【写真付き】](https://shindensha.org/2021/08/01/%E8%BA%AB%E8%BF%91%E3%81%AB%E3%81%82%E3%82%8B%EF%BC%81%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E5%9F%BA%E5%9C%B0%E5%B1%80%E3%81%AE%E8%A6%8B%E5%88%86%E3%81%91%E6%96%B9%E3%80%90%E6%8E%A2%E3%81%97%E3%81%A6/)
+  
+ # Human Face
+ - [sketchfab.com](https://sketchfab.com/tqyw/collections/human-face)
+   - 顔認証用の3Dモデル
+   - https://twitter.com/ohshint_/status/1461894323750916099
+ - [TPDNE](https://www.thispersondoesnotexist.com/)
+   - AIで顔画像を生成 
+   - TPDNEで生成された顔画像の見破り方
+        - https://nixintel.info/osint/signs-youre-following-a-fake-twitter-account/
+        - https://www.whichfaceisreal.com/index.php
+            - AIで生成された顔画像とリアルの顔画像の判別クイズ
 
 
 # Cheet Sheet
@@ -579,6 +604,8 @@ code-similar-to:[hash]
 ```
 main_icon_dhash:[hash]
 ```
+
+
 ### Others
 - osintとか関係なく
 - [Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
