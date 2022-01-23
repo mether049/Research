@@ -485,6 +485,12 @@
    - AIで顔画像を生成 
    - TPDNEで生成された顔画像の見破り方
         - https://nixintel.info/osint/signs-youre-following-a-fake-twitter-account/
+            - 口の位置が下1/4中央
+            - 非対称の耳
+            - 非対称の瞳孔
+            - 目の距離が一定
+            - 目の位置が中央
+            - etc.
         - https://www.whichfaceisreal.com/index.php
             - AIで生成された顔画像とリアルの顔画像の判別クイズ
 
