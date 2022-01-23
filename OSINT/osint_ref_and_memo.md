@@ -226,7 +226,7 @@
 |[ONYPHE](https://www.onyphe.io/)|domain,country,etc.|〇||
 |[PublicWWW](https://publicwww.com/)|domain,ip,keyword,code snippet,tld,etc.|〇||
 |[Twitter IOC Hunter](http://tweettioc.com/search)|domain,ip,url,hash,email,user,hash tag|〇||
-|[Wayback Machine](https://archive.org/web/)|url|〇|archive|
+|[Wayback Machine](https://archive.org/web/)|url|〇|archive<br>一括ダウンロードツール[wayback keyword search](https://github.com/lorenzoromani1983/wayback-keyword-search)|
 |[archive.today](https://archive.ph/)|url||archive|
 |[Stanford Web Archive Portal](https://swap.stanford.edu/)|url||archive||
 |[UK Parliament Web Archive](http://webarchive.parliament.uk/)|url||archive||
@@ -657,6 +657,7 @@ main_icon_dhash:[hash]
     - [OPSEC for Blue Teams - Losing Defender's Advantage](https://www.mbsecure.nl/blog/2018/9/opsec-for-blue-teams-part-1)
     - [PrivacyTests.org](https://privacytests.org/)
         - 各webブラウザのプライバシー評価
+    - https://twitter.com/hackermaderas/status/1457036239731924995?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1457036239731924995%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fsector035.nl%2Farticles%2F2021-45   
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
