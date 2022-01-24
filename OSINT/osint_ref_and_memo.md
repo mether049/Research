@@ -329,6 +329,7 @@
 |[pagexray](https://pagexray.fouanalytics.com/)|url||サイトの外部リンク，内部リンクの調査|
 |[DMNS](https://dmns.app/)|domain|〇|whois，DNSレコード，ドメインの取得可否情報の調査|
 |[Camera FV-5 Device database](https://www.camerafv5.com/devices/)|||カメラデバイスの検索|
+|[faviconhash.com](https://faviconhash.com/)|url||favicon hashの生成|
 
 
 
@@ -370,6 +371,9 @@
  - tor2web gatewayサービスを介して閲覧されたonionサイトのアーカイブ検索
    - https://twitter.com/ohshint_/status/1482428965713113089
  - https://onionsearchengine.com/?pk_campaign=TorGateway
+- onionサイトのサーバのIPアドレスを特定する方法について
+    - shodanでOnion-Location，favicon hash，http headerの情報を用いて検索
+        - https://www.youtube.com/watch?v=IOblaXyY2U0
 - ref:
     - [User-Friendly Loaders and Crypters Simplify Intrusions and Malware Delivery](https://www.recordedfuture.com/user-friendly-loaders-crypters/)
     - [TRADING IN THE DARK](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/trading-in-the-dark)
@@ -476,6 +480,10 @@
 - [cellmapper](https://www.cellmapper.net/map)
     - 基地局のマップ。ズレあるので参考程度
         - [携帯電話基地局の見分け方・探し方！【写真付き】](https://shindensha.org/2021/08/01/%E8%BA%AB%E8%BF%91%E3%81%AB%E3%81%82%E3%82%8B%EF%BC%81%E6%90%BA%E5%B8%AF%E9%9B%BB%E8%A9%B1%E5%9F%BA%E5%9C%B0%E5%B1%80%E3%81%AE%E8%A6%8B%E5%88%86%E3%81%91%E6%96%B9%E3%80%90%E6%8E%A2%E3%81%97%E3%81%A6/)
+- [360cities](https://www.360cities.net/)
+    - 都市の360°画像・動画集
+- [360gigapixels](https://360gigapixels.com/)
+    - 360°ギガピクセル画像集
   
  # Human Face
  - [sketchfab.com](https://sketchfab.com/tqyw/collections/human-face)
@@ -620,6 +628,8 @@ main_icon_dhash:[hash]
 - [matplotlib](https://github.com/matplotlib/cheatsheets)
 - [Lateral Movement DetectionGPO Settings Cheat Sheet](https://compass-security.com%/fileadmin%2FDatein%2FResearch%2FWhite_Papers%2Flateral_movement_detection_basic_gpo_settings_v1.0.pdf)
 - [OFAC Sanctions List Search](https://sanctionssearch.ofac.treas.gov/)
+- [ALL YOU CAN READ](https://www.allyoucanread.com/)
+    - 各国・都市のニュースサイト，SNS，雑誌サイトなどをまとめたサイト
 
 # TLP
 - 機密情報を確実に適切な組織または人に共有するために使われる一連の標示
