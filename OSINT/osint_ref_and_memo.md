@@ -192,7 +192,7 @@
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
 |[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)<br>[VT Hunting](https://github.com/fr0gger/vthunting)<br>https://pastebin.com/5j0TYLFi<br>[分析に利用しているSigma rule一覧](https://www.virustotal.com/ui/sigma_rules)<br>[Suricata rule一覧](https://pastebin.com/47DVKNGG)|
 |[Censys](https://censys.io/)|ip,domain,url,certificates|〇|[Censys Python Library](https://github.com/censys/censys-python)<br>https://www.hackers-arise.com/post/open-source-intelligence-osint-gathering-open-source-security-security-data-using-censys<br>regex使用可能|
-|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)<br>hostnameで検索可能<br>[shodanをSQLで検索するためのプラグイン](https://hub.steampipe.io/plugins/turbot/shodan)<br>[beta版ではWebからhistoryが確認可能](https://beta.shodan.io/)|
+|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)<br>hostnameで検索可能<br>[shodanをSQLで検索するためのプラグイン](https://hub.steampipe.io/plugins/turbot/shodan)<br>[beta版ではWebからhistoryが確認可能](https://beta.shodan.io/)<br>[100以上の検索クエリ例](https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/)|
 |[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
 |[PhishTank](https://www.phishtank.com/index.php)|url|〇||
 |[ANYRUN](https://app.any.run/submissions)|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox<br>[[TUTORIAL] How to trick malware using ANY.RUN's TOR feature for fake location](https://www.youtube.com/watch?v=b9sbLwxv8I8&feature=emb_title)|
@@ -687,4 +687,4 @@ main_icon_dhash:[hash]
 - [@hatless1der | Blog](https://hatless1der.com/)
 - [bellingcat](https://www.bellingcat.com/category/news/)
 - [OSINT Jobs](https://www.osint-jobs.com/careers/open-positions)
-- []()
+- [OH SHINT! Welcome Aboard](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
