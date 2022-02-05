@@ -357,15 +357,44 @@
 - [Zmap](https://github.com/zmap/zmap)
 - [Zgrab](https://github.com/zmap/zgrab2)
     
-# Forum/Darkweb
+# Forum/Darknet/Darkweb
+- DarknetとDarkweb
+    - Dakrnetはネットワーク。<->Clearnet ※攻撃観測用の未使用IPアドレス空間のダークネットとは別
+    - DarkwebはDarknet上のwebコンテンツ
+- Darknetの種類
+    - [Tor](https://www.torproject.org/download/)
+        - リレー方式でテータを転送する
+        - TorブラウザはFirefoxベース
+            - Firefoxと同じ脆弱性をもつが，Firefoxよりもパッチ適用が遅れる可能性がある
+            -   
+    - [I2P](https://geti2p.net/en/)
+        - ピアツーピアネットワーク
+        - 遅い？
+    - [Zeronet](https://zeronet.io/)
+    - [Freenet](https://freenetproject.org/index.html)
 - [DDIR](https://github.com/nenaiko-dareda/DDIR)
     - Darkwebリサーチ向けのオープンソースのデータセット
     - 機械学習による違法サイトの自動検出などに活用できる
     - 4340の.onion sitesをクロールしてデータを収集(41%くらいが違法サイト)
         - 不正な薬物,サイバー攻撃請負,偽のクレカ,児童ポルノ,海賊版販売,犯罪行為(マネロンなど)
     - [\[CODE BLUE 2019\]DDIR: ダークウェブの研究を目的としたオープンソースデータセット\[レポート\]](https://dev.classmethod.jp/articles/code-blue-2019-d1-blue-1550/)
+- 通常Tor
+    - PC-ISP(Torの入り口ノードへの接続わかる。実際の接続先は不明)-TOR(出口で接続元・接続先・データがみえる)-Server（接続元不明。=Torの出口ノードにみえる）
+        - 出口ノードで色々見えてしまうことも
+- Tor over VPN
+    - PC-ISP（VPNへの接続わかる。実際の接続先不明）-VPN（接続元・接続先・データわかる）-TOR（接続元不明。=VPNに見える,出口で接続先・データがわかる）-Server（接続元不明。=Torの出口ノードに見える）
+        - ISPはPCがTorネットワークに接続したことが分からないが,VPNに接続したことは分かる
+        - データ・接続先・接続元はVPNが把握。VPNサービスがログを開示したときいろいろが判明されることがある。VPNサービスに依存する
+        - Torネットワークにおける接続元はVPNになるが，接続先・データは出口ノードでみえる？
+        - 接続先はTor経由であることが分かる
+- VPN over Tor
+    - PC-ISP（Torの入り口ノードへの接続わかる。実際の接続先不明）-TOR(出口で接続元分かる，データ・接続先不明)-VPN（接続元不明。=Tor出口ノードにみえる。データ・接続先分かる）-Server（接続元不明。=VPNにみえる）
+        - ISPはPCがVPNに接続したことが分からないが，Torに接続したことはわかる。
+        - 接続先サーバにはTor経由の接続であることが分からない。Torでのアクセス禁止サイトへのアクセスはできるが，Darkwebにはアクセスできない可能性？
+        - VPNサービスは接続元がわからない？接続先・データがみえる。
+        - 出口ノードで接続元のIPアドレスは見えるが，接続先・データが見えなくなる？VPNに接続していることは分かる
 - [tor.taxi](https://tor.taxi/)
-    - リンク集，時系列ごとのイベント
+    - リンク集，時系列ごとのTorイベント
 - tor2web gateway
  - onionサイトを通常のブラウザから閲覧するためのゲートウェイ
  - tor2web gatewayサービスを介して閲覧されたonionサイトのアーカイブ検索
@@ -373,7 +402,7 @@
  - https://onionsearchengine.com/?pk_campaign=TorGateway
 - onionサイトのサーバのIPアドレスを特定する方法について
     - shodanでOnion-Location，favicon hash，http headerの情報を用いて検索
-        - https://www.youtube.com/watch?v=IOblaXyY2U0
+        - https://www.youtube.com/watch?v=IOblaXyY2U0 
 - ref:
     - [User-Friendly Loaders and Crypters Simplify Intrusions and Malware Delivery](https://www.recordedfuture.com/user-friendly-loaders-crypters/)
     - [TRADING IN THE DARK](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/trading-in-the-dark)
@@ -386,13 +415,15 @@
         - リスト
     - [Friendly fire: Four well-known cybercriminal forums dealing with breaches](https://intel471.com/blog/mazafaka-hacked-cybercrime-forums-exploit-crdclub-verified/)
     - [EtterSilent: the underground’s new favorite maldoc builder](https://intel471.com/blog/ettersilent-maldoc-builder-macro-trickbot-qbot/)
+    - [Dark Web Searching@osintcombine](https://www.osintcombine.com/post/dark-web-searching)
+    - [Dark Web Part II - TOR Network@osintcombine](https://www.osintcombine.com/post/dark-web-part-ii-tor-network)
 
 # Bulletproof hosting
 - 特徴:
     - 物理的な差し押さえなどを回避するために，核シェルター，独立国家などの特殊なデータセンターにサーバが設置されることがある
         - その国の情勢，政治などの変化の影響をうけて，Bulletproof hostingのサービスが提供できなくなることもある
     - 支払いに仮想通貨が利用できる
-    - メールやパスワードのみで利用できることもある
+   Darknet/スワードのみで利用できることもある
     - DMCA（米デジタルミレニアム著作権法）を無視すると明記されると記載されている
     - 会社の住所・実態がない
     - サービス内容の割りには高額
