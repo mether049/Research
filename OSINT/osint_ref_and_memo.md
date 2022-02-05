@@ -416,7 +416,18 @@
     - [Friendly fire: Four well-known cybercriminal forums dealing with breaches](https://intel471.com/blog/mazafaka-hacked-cybercrime-forums-exploit-crdclub-verified/)
     - [EtterSilent: the underground’s new favorite maldoc builder](https://intel471.com/blog/ettersilent-maldoc-builder-macro-trickbot-qbot/)
     - [Dark Web Searching@osintcombine](https://www.osintcombine.com/post/dark-web-searching)
+        - Torを安全に使用する方法，検索エンジン，onionドメインのウォッチなど
     - [Dark Web Part II - TOR Network@osintcombine](https://www.osintcombine.com/post/dark-web-part-ii-tor-network)
+    - [onion.live](https://onion.live/)
+        - 検索エンジン，リンク集
+    - [Hunchly Daily Dark Web Report](https://www.hunch.ly/darkweb-osint/)
+        - 新しく発見されたonionサイトを通知。
+    - [H-Indexer](http://jncyepk6zbnosf4p[.]onion/onions.html)
+        - インデックスしたonionサイトの情報を提供。URL,タイトル，言語など 
+    - [Tor66 Fresh Onion](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid[.]onion/fresh)
+        - onionサイトのリストを提供
+    - [Hunchly Dark Web Investigation Guide](https://www.hunch.ly/resources/Hunchly-Dark-Web-Setup.pdf)
+        - ダークウェブ調査のガイド
 
 # Bulletproof hosting
 - 特徴:
