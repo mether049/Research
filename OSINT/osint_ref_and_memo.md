@@ -366,7 +366,10 @@
         - リレー方式でテータを転送する
         - TorブラウザはFirefoxベース
             - Firefoxと同じ脆弱性をもつが，Firefoxよりもパッチ適用が遅れる可能性がある
-            -   
+        - 多重暗号化
+            - 各ノードからキーを取得して，ノード数分重ねて暗号化を行う
+            - entry nodeにcreate cellを送信しentry nodeのキーを取得，その後relay exetend cellを送信してmiddle node以降のキーを取得していく
+            - 暗号化したデータを送信すると各ノードが復号を行い，最後の出口ノードで元のデータが復号される
     - [I2P](https://geti2p.net/en/)
         - ピアツーピアネットワーク
         - 遅い？
@@ -388,11 +391,11 @@
         - Torネットワークにおける接続元はVPNになるが，接続先・データは出口ノードでみえる？
         - 接続先はTor経由であることが分かる
 - VPN over Tor
-    - PC-ISP（Torの入り口ノードへの接続わかる。実際の接続先不明）-TOR(出口で接続元分かる，データ・接続先不明)-VPN（接続元不明。=Tor出口ノードにみえる。データ・接続先分かる）-Server（接続元不明。=VPNにみえる）
+    - PC-ISP（Torの入り口ノードへの接続わかる。実際の接続先不明）-TOR(入口で接続元分かる，データ・接続先不明)-VPN（接続元不明。=Tor出口ノードにみえる。データ・接続先分かる）-Server（接続元不明。=VPNにみえる）
         - ISPはPCがVPNに接続したことが分からないが，Torに接続したことはわかる。
         - 接続先サーバにはTor経由の接続であることが分からない。Torでのアクセス禁止サイトへのアクセスはできるが，Darkwebにはアクセスできない可能性？
         - VPNサービスは接続元がわからない？接続先・データがみえる。
-        - 出口ノードで接続元のIPアドレスは見えるが，接続先・データが見えなくなる？VPNに接続していることは分かる
+        - 入口ノードで接続元のIPアドレスは見えるが，接続先・データが見えなくなる？VPNに接続していることは分かる
 - [tor.taxi](https://tor.taxi/)
     - リンク集，時系列ごとのTorイベント
 - tor2web gateway
@@ -428,6 +431,11 @@
         - onionサイトのリストを提供
     - [Hunchly Dark Web Investigation Guide](https://www.hunch.ly/resources/Hunchly-Dark-Web-Setup.pdf)
         - ダークウェブ調査のガイド
+
+# P2P
+- BitTorrent
+- P2P FINDER
+    - P2Pの監視サービス 
 
 # Bulletproof hosting
 - 特徴:
