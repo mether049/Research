@@ -345,13 +345,25 @@
 ### VPN
 - [ProtonVPN](https://protonvpn.com/)
 - [NordVPN](https://nordvpn.com/ja/)
+    - 本社：パナマ
+    - 不正アクセスを過去あり
 - [PrivateInternetAccess](https://jpn.privateinternetaccess.com/)
+    - 本社：アメリカ
+    - 本社がアメリカにあるもの，ログをとっていないとしてFBIの情報開示請求を取り下げている
 - [Mullvad](https://mullvad.net/ja/)
 - [AirVPN](https://airvpn.org/)
 - [OVPN](https://www.ovpn.com/en)
+- [CyberGhost](https://www.cyberghostvpn.com/en_US/)
+    - 本社：ルーマニア
+- [ExpressVPN](https://www.expressvpn.com/)
+    - 本社：英国領バージン諸島
+    - VPN無効時のインターネット接続切断可
 - ref:
     - [Which VPN Providers Really Take Anonymity Seriously in 2020?](https://torrentfreak.com/best-vpn-anonymous-no-logging/)
     - [Finding The Origin IP Behind CDNs](https://infosecwriteups.com/finding-the-origin-ip-behind-cdns-37cd18d5275)
+    - [VPNプロバイダ: プライバシーと諜報機関とログなし方針（ログなしVPN）](https://qiita.com/SuperConsole/items/17f68db19c17fc594e10)
+    - [VPNを選ぶ前に5、９、14アイズ同盟についてしっかり理解しましょう！](https://ja.wizcase.com/blog/vpn%E3%82%92%E9%81%B8%E3%81%B6%E5%89%8D%E3%81%AB5%E3%80%81%EF%BC%99%E3%80%8114%E3%82%A2%E3%82%A4%E3%82%BA%E5%90%8C%E7%9B%9F%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E3%81%97%E3%81%A3%E3%81%8B%E3%82%8A/)
+
 ### Scanner
 - [Nmap](https://nmap.org/)
 - [Zmap](https://github.com/zmap/zmap)
@@ -717,7 +729,25 @@ main_icon_dhash:[hash]
     - [OPSEC for Blue Teams - Losing Defender's Advantage](https://www.mbsecure.nl/blog/2018/9/opsec-for-blue-teams-part-1)
     - [PrivacyTests.org](https://privacytests.org/)
         - 各webブラウザのプライバシー評価
-    - https://twitter.com/hackermaderas/status/1457036239731924995?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1457036239731924995%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fsector035.nl%2Farticles%2F2021-45   
+    - https://twitter.com/hackermaderas/status/1457036239731924995?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1457036239731924995%7Ctwgr%5E%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fsector035.nl%2Farticles%2F2021-45
+
+
+### 国とプライバシー
+- Five-Eyes
+    - 情報共有同盟。情報共有を行い，盟国同士での諜報活動は行わない。
+    - 加盟国：アメリカ，イギリス，オーストラリア，ニュージーランド，カナダ
+    - 連携国：日本，韓国，フランス
+    - 起源：1946年にアメリカとイギリスが,ソ連と東欧諸国を監視し情報を共有する機密協定(UKUSA協定)を交わしたところから始まる。その後，カナダ(1948年~)，オーストラリア(1956年~)，ニュージーランド(1956年~)が加盟。2010年に英GCHQが文書を公開したことで公に明らかになった。
+    - 9-Eyes
+        - 加盟国：5-Eyes+フランス，オランダ，デンマーク，ノルウェー
+    - 14-Eyes
+        - 加盟国：9-Eyes+ドイツ，スペイン，ベルギー，イタリア，スウェーデン
+    - ref:
+        - [機密情報ネットワーク「ファイブ・アイズ」――日本、韓国、フランスと連携](https://synodos.jp/opinion/international/23293/)
+- プライバシーを重視する国
+    - 英国領バージン諸島
+    - パナマ
+    - サンマリノ
 
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
