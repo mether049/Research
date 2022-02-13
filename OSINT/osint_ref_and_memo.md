@@ -651,6 +651,10 @@ curl -X GET https://api.zoomeye.org/host/search?query='"${query}"&page=1' -H "Au
 ```
 (ssl:"System,CN" ssl:"Amadey Org,CN" ssl:"O=Global Security,OU=IT Department,CN=example.com" ssl:"NZT,CN" ssl:"O=Lero,OU=Lero" ssl:"Security,OU=Krot" ssl:"O=Shioban,OU=Shioban") +"HTTP/1.1 404 Not found" +"Server: nginx" +"Content-Type: text/html; charset=UTF-8" -ssl:"OU=System" -ssl:digicert -"Content-Length" -"Connection: keep-alive"
 ```
+- Trickbot
+```
+"HTTP/1.1 403 Forbidden" +"Server: nginx" +"Content-Length: 9" +"Issuer: C=AU,ST=Some-State,O=Internet Widgits Pty Ltd"
+```
 
 -ref:
     - [利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架](https://paper.seebug.org/1301/)
