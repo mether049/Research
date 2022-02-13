@@ -8,6 +8,10 @@
 |[Tails](https://tails.boum.org/)|インターネットはTorを経由only<br>USBやDVDからの起動を前提|
 |[Qubes OS](https://www.qubes-os.org/)|Xenを利用して全てのアプリケーションを独立して実行<br>Template VMにwhonixを利用することができ，より匿名性を高めることが可<br>Template VMは複数のOS(Windows,Fedora,Whonix,Debian,etc.)を同時に利用することが可|
 
+- ref
+    - [Hunchly Dark Web Investigation Guide](https://www.hunch.ly/resources/Hunchly-Dark-Web-Setup.pdf)
+        - 調査用VMにBuscador，ゲートウェイVMにwhonixを使用する調査環境など
+
 ### generic Tools
 - [Maltego](https://www.paterva.com/downloads.php)
     - Maltegoのチュートリアル
@@ -83,6 +87,8 @@
     - ユーザの習慣分析
 - [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%20/igmgknoioooacbcpcfgjigbaajpelbfe)
     - facebookの情報をダンプするchromeプラグイン
+- [GeoPing/GeoDNS](https://geonet.shodan.io/)
+    - 複数の国の地域からPingやDNS lookupを送信
     
 
 
@@ -192,7 +198,7 @@
 |[IBM X-Force Exchange](https://exchange.xforce.ibmcloud.com/)|domain,url,IP,md5,hash tag,cve,application name|〇||
 |[VirusTotal](https://www.virustotal.com/gui/home/upload)|url,hash,IP|〇|[vti-dorks](https://github.com/Neo23x0/vti-dorks)<br>[Antivirus Event Analysis Cheat Sheet](https://www.nextron-systems.com/2019/10/04/antivirus-event-analysis-cheat-sheet-v1-7-2/)<br>[VT Hunting](https://github.com/fr0gger/vthunting)<br>https://pastebin.com/5j0TYLFi<br>[分析に利用しているSigma rule一覧](https://www.virustotal.com/ui/sigma_rules)<br>[Suricata rule一覧](https://pastebin.com/47DVKNGG)|
 |[Censys](https://censys.io/)|ip,domain,url,certificates|〇|[Censys Python Library](https://github.com/censys/censys-python)<br>https://www.hackers-arise.com/post/open-source-intelligence-osint-gathering-open-source-security-security-data-using-censys<br>regex使用可能|
-|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)<br>hostnameで検索可能<br>[shodanをSQLで検索するためのプラグイン](https://hub.steampipe.io/plugins/turbot/shodan)<br>[beta版ではWebからhistoryが確認可能](https://beta.shodan.io/)<br>[100以上の検索クエリ例](https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/)|
+|[SHODAN](https://www.shodan.io/ip)||〇|[Shodan search 101](https://ninoseki.github.io/2020/04/01/shodan-101.html)<br>[Shodan Command-Line Interface](https://cli.shodan.io/)<br>[Weaponizing favicon.ico for BugBounties , OSINT and what not](https://medium.com/@Asm0d3us/weaponizing-favicon-ico-for-bugbounties-osint-and-what-not-ace3c214e139)<br>[SHODAN Images](https://images.shodan.io/?query=Administrator&page=3)<br>hostnameで検索可能<br>[shodanをSQLで検索するためのプラグイン](https://hub.steampipe.io/plugins/turbot/shodan)<br>[beta版ではWebからhistoryが確認可能](https://beta.shodan.io/)<br>[100以上の検索クエリ例](https://www.osintme.com/index.php/2021/01/16/ultimate-osint-with-shodan-100-great-shodan-queries/)<br>[datapedia.shodan.io](https://datapedia.shodan.io/)<br>shodanが収集するデータ(表示される or 検索で利用できる プロパティ)の一覧と説明|
 |[Alien Vault](https://otx.alienvault.com/)|domain,url,ip,hash,email,yara,cve,mutex,etc.|〇||
 |[PhishTank](https://www.phishtank.com/index.php)|url|〇||
 |[ANYRUN](https://app.any.run/submissions)|domain,ip,url,hash,MITRE ATT&CK technique ID,Suricata ID||online sandbox<br>[[TUTORIAL] How to trick malware using ANY.RUN's TOR feature for fake location](https://www.youtube.com/watch?v=b9sbLwxv8I8&feature=emb_title)|
@@ -417,7 +423,8 @@
  - https://onionsearchengine.com/?pk_campaign=TorGateway
 - onionサイトのサーバのIPアドレスを特定する方法について
     - shodanでOnion-Location，favicon hash，http headerの情報を用いて検索
-        - https://www.youtube.com/watch?v=IOblaXyY2U0 
+        - https://www.youtube.com/watch?v=IOblaXyY2U0
+    - 他SSL証明書の情報でも検索可
 - ref:
     - [User-Friendly Loaders and Crypters Simplify Intrusions and Malware Delivery](https://www.recordedfuture.com/user-friendly-loaders-crypters/)
     - [TRADING IN THE DARK](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/trading-in-the-dark)
@@ -443,6 +450,12 @@
         - onionサイトのリストを提供
     - [Hunchly Dark Web Investigation Guide](https://www.hunch.ly/resources/Hunchly-Dark-Web-Setup.pdf)
         - ダークウェブ調査のガイド
+    - https://check.torproject.org/
+        - Tor経由のアクセスか否かをチェック
+    - https://check.torproject.org/torbulkexitlist
+        - Exitnodeのリスト
+    - [Tor Metrics](https://metrics.torproject.org/)
+        - Torのユーザ，リレー，トラフィック，パフォーマンスの分析やリレーの検索など行うためのツール集
 
 # P2P
 - BitTorrent
@@ -584,6 +597,11 @@ ssl.cert.fingerprint:
 ```
 http.favicon.hash:
 ```
+- onionサイトのIPアドレスを検索
+```
+ssl:".onion"
+".onion"
+```
 - shodan-cliの検索
 ```
 shodan search --fields ip_str '${query}' --limit 1000 | cat 
@@ -609,8 +627,13 @@ updated_at:[yyyy-mm-dd TO *]
 ```
 443.https.tls.certificate.parsed.fingerprint_sha256:
 ```
+- onionサイトのIPアドレスを検索
+```
+443.https.tls.certificate.parsed.names:onion
+```
 -ref
     - https://censys.io/advanced-persistent-infrastructure-tracking/
+    - https://www.hunch.ly/resources/Hunchly-Dark-Web-Setup.pdf
 ### ZoomEye
 - ssl証明書のシリアル番号検索
 ```
@@ -624,11 +647,16 @@ curl -XPOST https://api.zoomeye.org/user/login -d '{"username":"${email}","passw
 ```
 curl -X GET https://api.zoomeye.org/host/search?query='"${query}"&page=1' -H "Authorization: JWT ${tokenid}"
 ```
+- BazarLoader
+```
+(ssl:"System,CN" ssl:"Amadey Org,CN" ssl:"O=Global Security,OU=IT Department,CN=example.com" ssl:"NZT,CN" ssl:"O=Lero,OU=Lero" ssl:"Security,OU=Krot" ssl:"O=Shioban,OU=Shioban") +"HTTP/1.1 404 Not found" +"Server: nginx" +"Content-Type: text/html; charset=UTF-8" -ssl:"OU=System" -ssl:digicert -"Content-Length" -"Connection: keep-alive"
+```
 
 -ref:
     - [利用 ZoomEye 追踪多种 Redteam C&C 后渗透攻击框架](https://paper.seebug.org/1301/)
     - https://www.zoomeye.org/searchResult?q=%22CobaltStrike%20Beacon%20configurations%22
     - [BlueHat v17 || Using TLS Certificates to Track Activity Groups](https://www.slideshare.net/MSbluehat/bluehat-v17-using-tls-certificates-to-track-activity-groups)
+    - [One ZoomEye Query Cleans BazarLoader C2s](https://80vul.medium.com/one-zoomeye-query-cleans-bazarloader-c2s-4b49a71ec10d)
 
 ### Fofa
 - または
@@ -680,6 +708,9 @@ code-similar-to:[hash]
 ```
 main_icon_dhash:[hash]
 ```
+- ref:
+    - [The Perfect Cyber Crime](https://www.safebreach.com/blog/2022/the-perfect-cyber-crime/)
+        - マルウェアが感染端末から窃取した情報を書き込むファイルをVT上で検索(ファイル名で検索)する調査を行った結果，多数のファイルがヒットした(RedLine,RaccoonStealer,Azorult)
 
 
 ### Others
