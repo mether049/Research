@@ -559,6 +559,9 @@
     - 都市の360°画像・動画集
 - [360gigapixels](https://360gigapixels.com/)
     - 360°ギガピクセル画像集
+- [f4map](https://demo.f4map.com/#camera.theta=0.9)
+    - 3Dマップ
+    - 建物の高さを確認できる
   
  # Human Face
  - [sketchfab.com](https://sketchfab.com/tqyw/collections/human-face)
