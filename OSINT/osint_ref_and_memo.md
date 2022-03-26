@@ -70,6 +70,8 @@
     - 分度器を表示するchromeプラグイン
 - [kitphishr](https://github.com/cybercdh/kitphishr)
     - phishing kitを見つけるためのツール
+- [GeoPing/GeoDNS](https://geonet.shodan.io/)
+    - 複数の国の地域からPingやDNS lookupを送信 
 
 ## SNS
 - TweetDeck
@@ -89,9 +91,6 @@
     - ユーザの習慣分析
 - [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%20/igmgknoioooacbcpcfgjigbaajpelbfe)
     - facebookの情報をダンプするchromeプラグイン
-- [GeoPing/GeoDNS](https://geonet.shodan.io/)
-    - 複数の国の地域からPingやDNS lookupを送信
-    
 
 
 # Crawler
@@ -169,6 +168,7 @@
         - [Listing of a number of useful Google dorks.](https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc)
         - [Google Dorksを使った脆弱なサービスの検索方法－２](https://infoshield.co.jp/blog/security-news/20200221-701/)
         - [Find Vulnerable Services & Hidden Info Using Google Dorks \[Tutorial\]](https://www.youtube.com/watch?v=u_gOnwWEXiA)
+        - [DorkSearch.com](https://dorksearch.com/)
 ### Yandex
 - [25+ Yandex Search Operators Every Yandex User Should Know: A Complete List](https://seosly.com/yandex-search-operators/#10_Advanced_Yandex_Search_Operators)
     - Yandexの検索演算子について（GoogleとBingとの比較あり）
@@ -340,6 +340,7 @@
 |[faviconhash.com](https://faviconhash.com/)|url||favicon hashの生成|
 |[PhishStats](https://phishstats.info/)|url,domain,ip|〇|phishing feed|
 |[OpenPhish](https://openphish.com/index.html)||〇|phishing feed|
+|[quake.360.cn](https://quake.360.cn/quake/#/index)|ip,domain,cert,etc.||zoom eyeに似たサービス|
 
 
 
@@ -542,7 +543,7 @@
 - [onlineocr](https://www.onlineocr.net/)
     - ocrで画像に含まれる文字を抽出するサイト
 
-# Street View
+# Street View/Map
 - [List of street view services@wiki](https://en.wikipedia.org/wiki/List_of_street_view_services)
 - [Mapping and Geo-Spatial Intelligence [GEOINT]](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geo-spatial-intelligence-geoint)
     - ストリートビューのリスト
@@ -566,6 +567,10 @@
 - [f4map](https://demo.f4map.com/#camera.theta=0.9)
     - 3Dマップ
     - 建物の高さを確認できる
+- [MapHub](https://maphub.net/explore)
+    - 作成したmapの共有が可能
+    - ロシア/ウクライナの軍事情勢
+        - https://maphub.net/Cen4infoRes/russian-ukraine-monitor
   
  # Human Face
  - [sketchfab.com](https://sketchfab.com/tqyw/collections/human-face)
@@ -766,6 +771,9 @@ main_icon_dhash:[hash]
 # GEOINT
     - [[OSINT/GEOINT] Using shadows and optics to geolocate a photo in a US military base](https://medium.com/@drstache/using-shadows-and-optics-to-geolocate-a-photo-in-a-us-military-base-29bd3086283c)
         - 影と光学を利用した場所特定
+
+# ransom
+- []()
     
 # OPSEC
     - [OPSEC for Blue Teams - Losing Defender's Advantage](https://www.mbsecure.nl/blog/2018/9/opsec-for-blue-teams-part-1)
