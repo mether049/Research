@@ -68,6 +68,8 @@
 - [recon.us.com](https://recon.us.com/app/)
 - [Protractor](https://chrome.google.com/webstore/detail/protractor/kpjldaeddnfokhmgdlmpdlecmobaonnj)
     - 分度器を表示するchromeプラグイン
+- [kitphishr](https://github.com/cybercdh/kitphishr)
+    - phishing kitを見つけるためのツール
 
 ## SNS
 - TweetDeck
@@ -336,6 +338,8 @@
 |[DMNS](https://dmns.app/)|domain|〇|whois，DNSレコード，ドメインの取得可否情報の調査|
 |[Camera FV-5 Device database](https://www.camerafv5.com/devices/)|||カメラデバイスの検索|
 |[faviconhash.com](https://faviconhash.com/)|url||favicon hashの生成|
+|[PhishStats](https://phishstats.info/)|url,domain,ip|〇|phishing feed|
+|[OpenPhish](https://openphish.com/index.html)||〇|phishing feed|
 
 
 
