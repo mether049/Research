@@ -91,6 +91,8 @@
     - ユーザの習慣分析
 - [DumpItBlue+](https://chrome.google.com/webstore/detail/dumpitblue%20/igmgknoioooacbcpcfgjigbaajpelbfe)
     - facebookの情報をダンプするchromeプラグイン
+- [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1)
+    - https://twitter.com/telegago/status/1488896093656129539
 
 
 # Crawler
@@ -514,6 +516,8 @@
     - [PasteHunter](https://github.com/kevthehermit/PasteHunter)
     - [INQUEST LABS](https://labs.inquest.net/tools/yara/b64-regexp-generator)
     - [VT Code Similarity Yara Generator](https://github.com/arieljt/VTCodeSimilarity-YaraGen)
+    - [yaradbg](https://yaradbg.dev/)
+        - yaraのデバッガ
 
 # IoC source
 - https://github.com/StrangerealIntel/CyberThreatIntel
