@@ -171,6 +171,7 @@
         - [Google Dorksを使った脆弱なサービスの検索方法－２](https://infoshield.co.jp/blog/security-news/20200221-701/)
         - [Find Vulnerable Services & Hidden Info Using Google Dorks \[Tutorial\]](https://www.youtube.com/watch?v=u_gOnwWEXiA)
         - [DorkSearch.com](https://dorksearch.com/)
+        - [Google Dorks for Bug Bounty](https://www.cyberick.com/post/google-dorks-for-bug-bounty)
 ### Yandex
 - [25+ Yandex Search Operators Every Yandex User Should Know: A Complete List](https://seosly.com/yandex-search-operators/#10_Advanced_Yandex_Search_Operators)
     - Yandexの検索演算子について（GoogleとBingとの比較あり）
