@@ -18,6 +18,7 @@
 - https://twitter.com/MaartenVDantzig/status/1278688741788450819
 - https://www.telekom.com/en/search-this-website?query=ta505
 - [TA505: A Brief History Of Their Time](https://blog.fox-it.com/2020/11/16/ta505-a-brief-history-of-their-time/)
+- [Tracking a P2P network related to TA505](https://research.nccgroup.com/2021/12/01/tracking-a-p2p-network-related-with-ta505/)
 
 ## TA544
 
