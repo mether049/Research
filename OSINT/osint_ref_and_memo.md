@@ -71,7 +71,7 @@
 - [kitphishr](https://github.com/cybercdh/kitphishr)
     - phishing kitを見つけるためのツール
 - [GeoPing/GeoDNS](https://geonet.shodan.io/)
-    - 複数の国の地域からPingやDNS lookupを送信 
+    - 複数の国の地域からPingやDNS lookupを送信
 
 ## SNS
 - TweetDeck
@@ -93,6 +93,8 @@
     - facebookの情報をダンプするchromeプラグイン
 - [Telegago](https://cse.google.com/cse?q=+&cx=006368593537057042503:efxu7xprihg#gsc.tab=0&gsc.q=%20&gsc.page=1)
     - https://twitter.com/telegago/status/1488896093656129539
+- [Twayback](https://github.com/Mennaruuk/twayback)
+    - WaybackMachineを利用して削除されたツイートを特定するツール
 
 
 # Crawler
@@ -825,3 +827,5 @@ main_icon_dhash:[hash]
 - [OSINT Jobs](https://www.osint-jobs.com/careers/open-positions)
 - [OH SHINT! Welcome Aboard](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 - [osintcombine](https://www.osintcombine.com/blog)
+- [os2int](https://os2int.com/toolbox/)
+    - ツール紹介
