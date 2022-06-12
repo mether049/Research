@@ -807,6 +807,12 @@ main_icon_dhash:[hash]
     - パナマ
     - サンマリノ
 
+### 個人情報保護と法律
+- GDPR
+- CCPA
+- PECA
+- 個人情報保護法
+
 # ref:
 - [OSINT Cheat-Sheat,2019](https://inteltechniques.com/JE/OSINT_Packet_2019.pdf)
 - [Download OSINT Bookmarks@OSINT Combine](https://www.osintcombine.com/osint-bookmarks)
