@@ -735,6 +735,7 @@ main_icon_dhash:[hash]
 - ref:
     - [The Perfect Cyber Crime](https://www.safebreach.com/blog/2022/the-perfect-cyber-crime/)
         - マルウェアが感染端末から窃取した情報を書き込むファイルをVT上で検索(ファイル名で検索)する調査を行った結果，多数のファイルがヒットした(RedLine,RaccoonStealer,Azorult)
+        - https://medium.com/s2wblog/rising-stealer-in-q1-2022-blackguard-stealer-f516d9f85ee5
 
 
 ### Others
